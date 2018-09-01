@@ -1,2 +1,3 @@
-# must-to-read
-A list of must-to-read papers.
+# A list of must-read papers
+This repository contains security papers that are cited by high-quality papers.
+
