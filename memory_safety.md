@@ -1,10 +1,8 @@
 # Memory Safety
 
-
-
-
-
 [StackGuard: Automatic Adaptive Detection and Prevention of Buffer-Overflow Attacks](https://www.usenix.org/legacy/publications/library/proceedings/sec98/full_papers/cowan/cowan.pdf) [USS'98]
+
+[Secure Execution Via Program Shepherding](http://groups.csail.mit.edu/commit/papers/02/RIO-security-usenix.pdf) [USS'02]
 
 [PointGuardTM: Protecting Pointers From Buffer Overflow Vulnerabilities](https://www.usenix.org/legacy/event/sec03/tech/full_papers/cowan/cowan.pdf) [USS'03 ]
 
@@ -23,3 +21,4 @@
 [ROP is Still Dangerous: Breaking Modern Defense](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-carlini.pdf) [USS'14]
 
 [Code-Pointer Integrity](https://dslab.epfl.ch/pubs/cpi.pdf) [OSDI'14]
+
