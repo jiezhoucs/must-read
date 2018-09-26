@@ -8,6 +8,8 @@
 
 [The advanced return-into-lib(c) exploits](http://hamsa.cs.northwestern.edu/media/readings/advanced_libc.pdf) [Phrack'07]
 
+[Native Client: A Sandbox for Portable, Untrusted x86 Native Code](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/34913.pdf) [Oakland'09]
+
 [Jump-Oriented Programming: A New Class of Code-Reuse Attack](https://www.comp.nus.edu.sg/~liangzk/papers/asiaccs11.pdf) [AsiaCCS'11]
 
 [Comprehensive and Efficient Protection of Kernel Control Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf) [ToIFaS'11]
