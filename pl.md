@@ -3,3 +3,5 @@
 [Cyclone: A safe dialect of C](http://trevorjim.com/papers/usenix2002.pdf) [USS'02]
 
 [CETS: Compiler-Enforced Temporal Safety for C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf) [ISMM'10]
+
+[Checked C: Making C Safe by Extension](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) [SecDev'18]
