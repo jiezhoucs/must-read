@@ -18,6 +18,8 @@
 
 [Comprehensive and Efficient Protection of Kernel Control Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf) [ToIFaS'11]
 
+[AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf) [ATC'12]
+
 [Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization](https://cs.unc.edu/~fabian/papers/oakland2013.pdf) [Oakland'13]
 
 [Practical Control Flow Integrity & Randomization for Binary Executables](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6547133) [Oakland'13]
