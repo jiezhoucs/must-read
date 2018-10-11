@@ -4,6 +4,8 @@
 
 [Region-Based Memory Management in Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf) [PLDI'02]
 
+[CCured: Type-Safe Retrofitting of Legacy Code](http://scottmcpeak.com/papers/ccured_popl02.pdf) [POPL'02]
+
 [SoftBound: Highly Compatible and Complete Spatial Memory Safety for C](https://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf) [PLDI'09]
 
 [CETS: Compiler-Enforced Temporal Safety for C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf) [ISMM'10]
