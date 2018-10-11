@@ -4,6 +4,8 @@
 
 [Secure Execution Via Program Shepherding](http://groups.csail.mit.edu/commit/papers/02/RIO-security-usenix.pdf) [USS'02]
 
+[CCured: Type-Safe Retrofitting of Legacy Code](http://scottmcpeak.com/papers/ccured_popl02.pdf) [POPL'02]
+
 [PointGuardTM: Protecting Pointers From Buffer Overflow Vulnerabilities](https://www.usenix.org/legacy/event/sec03/tech/full_papers/cowan/cowan.pdf) [USS'03 ]
 
 [Address Obfuscation: an Efficient Approach to Combat a Broad Range of Memory Error Exploits](https://www.usenix.org/legacy/event/sec03/tech/full_papers/bhatkar/bhatkar.pdf) [USS'03'
