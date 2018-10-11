@@ -1,6 +1,6 @@
 # Enhanced Programming Languages
 
-[Cyclone: A safe dialect of C](http://trevorjim.com/papers/usenix2002.pdf) [ATC'02]
+~~[Cyclone: A safe dialect of C](http://trevorjim.com/papers/usenix2002.pdf) [ATC'02]~~
 
 [Region-Based Memory Management in Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf) [PLDI'02]
 
