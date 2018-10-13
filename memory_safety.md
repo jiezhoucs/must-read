@@ -12,6 +12,8 @@
 
 [DieHard: Probabilistic Memory Safety for Unsafe Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs) [PLDI'06]
 
+[XFI: Software Guards for System Address Spaces](https://www.usenix.org/legacy/event/osdi06/tech/full_papers/erlingsson/erlingsson.pdf) [OSDI'06]
+
 [The advanced return-into-lib(c) exploits](http://hamsa.cs.northwestern.edu/media/readings/advanced_libc.pdf) [Phrack'07]
 
 [Preventing memory error exploits with WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) [Oakland'08]
