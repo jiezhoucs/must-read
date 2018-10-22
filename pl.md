@@ -4,6 +4,8 @@
 
 [Region-Based Memory Management in Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf) [PLDI'02]
 
+[Backwards-Compatible Array Bounds Checking for C with Very Low Overhead](http://llvm.org/pubs/2006-05-24-SAFECode-BoundsCheck.pdf) [ICSE'06]
+
 [CCured: Type-Safe Retrofitting of Legacy Code](http://scottmcpeak.com/papers/ccured_popl02.pdf) [POPL'02]
 
 [SoftBound: Highly Compatible and Complete Spatial Memory Safety for C](https://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf) [PLDI'09]
