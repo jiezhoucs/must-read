@@ -22,8 +22,6 @@
 
 [Native Client: A Sandbox for Portable, Untrusted x86 Native Code](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/34913.pdf) [Oakland'09]
 
-[Jump-Oriented Programming: A New Class of Code-Reuse Attack](https://www.comp.nus.edu.sg/~liangzk/papers/asiaccs11.pdf) [AsiaCCS'11]
-
 [Comprehensive and Efficient Protection of Kernel Control Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf) [ToIFaS'11]
 
 [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf) [ATC'12]
@@ -35,6 +33,8 @@
 [Stitching the gadgets: On the ineffectiveness of coarse-grained control-flow integrity protection](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-davi.pdf) [USS'14]
 
 [ROP is Still Dangerous: Breaking Modern Defense](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-carlini.pdf) [USS'14]
+
+[Hacking Blind](http://www.scs.stanford.edu/brop/bittau-brop.pdf) [Oakland'14]
 
 [Code-Pointer Integrity](https://dslab.epfl.ch/pubs/cpi.pdf) [OSDI'14]
 
