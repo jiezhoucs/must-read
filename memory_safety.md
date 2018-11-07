@@ -10,6 +10,8 @@
 
 [Address Obfuscation: an Efficient Approach to Combat a Broad Range of Memory Error Exploits](https://www.usenix.org/legacy/event/sec03/tech/full_papers/bhatkar/bhatkar.pdf) [USS'03]
 
+[An Efficient and Backwards-Compatible Transformation to Ensure Memory Safety of C Programs](https://dl.acm.org/citation.cfm?id=1029913) [FSE'04]
+
 [Memory Safety Without Garbage Collection for Embedded Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf) [TECS'05]
 
 [DieHard: Probabilistic Memory Safety for Unsafe Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs) [PLDI'06]
