@@ -10,11 +10,13 @@
 
 [Address Obfuscation: an Efficient Approach to Combat a Broad Range of Memory Error Exploits](https://www.usenix.org/legacy/event/sec03/tech/full_papers/bhatkar/bhatkar.pdf) [USS'03]
 
-[Memory Safety Without Garbage Collection for Embedded Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf) [TECS'15]
+[Memory Safety Without Garbage Collection for Embedded Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf) [TECS'05]
 
 [DieHard: Probabilistic Memory Safety for Unsafe Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs) [PLDI'06]
 
 [XFI: Software Guards for System Address Spaces](https://www.usenix.org/legacy/event/osdi06/tech/full_papers/erlingsson/erlingsson.pdf) [OSDI'06]
+
+[Securing software by enforcing data-flow integrity](https://timharris.uk/papers/2006-osdi.pdf) [OSDI'06]
 
 [The advanced return-into-lib(c) exploits](http://hamsa.cs.northwestern.edu/media/readings/advanced_libc.pdf) [Phrack'07]
 
