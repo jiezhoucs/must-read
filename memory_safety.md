@@ -1,5 +1,7 @@
 # Memory Safety
 
+[Efficient Detection of All Pointer and Array Access Errors](https://web.eecs.umich.edu/~taustin/papers/PLDI94-safec.pdf) [PLDI'94]
+
 [StackGuard: Automatic Adaptive Detection and Prevention of Buffer-Overflow Attacks](https://www.usenix.org/legacy/publications/library/proceedings/sec98/full_papers/cowan/cowan.pdf) [USS'98]
 
 [Buffer overflows: attacks and defenses for the vulnerability of the decade](https://crypto.stanford.edu/cs155/papers/cowan-vulnerability.pdf) [DISCEX'00]
