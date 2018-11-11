@@ -18,6 +18,8 @@
 
 [Memory Safety Without Garbage Collection for Embedded Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf) [TECS'05]
 
+[BugBench: Benchmarks for Evaluating Bug Detection Tools](http://mir.cs.illinois.edu/~marinov/sp05-cs598dm/ShanLu.pdf) [Bugs'05]
+
 [DieHard: Probabilistic Memory Safety for Unsafe Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs) [PLDI'06]
 
 [XFI: Software Guards for System Address Spaces](https://www.usenix.org/legacy/event/osdi06/tech/full_papers/erlingsson/erlingsson.pdf) [OSDI'06]
