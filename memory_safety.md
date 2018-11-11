@@ -30,8 +30,6 @@
 
 [Preventing memory error exploits with WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) [Oakland'08]
 
-[Native Client: A Sandbox for Portable, Untrusted x86 Native Code](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/34913.pdf) [Oakland'09]
-
 [Comprehensive and Efficient Protection of Kernel Control Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf) [ToIFaS'11]
 
 [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf) [ATC'12]
