@@ -28,6 +28,8 @@
 
 [The advanced return-into-lib(c) exploits](http://hamsa.cs.northwestern.edu/media/readings/advanced_libc.pdf) [Phrack'07]
 
+[Valgrind: A Framework for Heavyweight Dynamic Binary Instrumentation](http://valgrind.org/docs/valgrind2007.pdf) [PLDI'07]
+
 [Preventing memory error exploits with WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) [Oakland'08]
 
 [Comprehensive and Efficient Protection of Kernel Control Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf) [ToIFaS'11]
