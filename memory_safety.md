@@ -1,5 +1,7 @@
 # Memory Safety
 
+[Purify: Fast Detection of Memory Leaks and Access Errors](https://courses.cs.washington.edu/courses/cse484/14au/reading/purify.pdf) [USENIX-Winter'92]
+
 [Efficient Detection of All Pointer and Array Access Errors](https://web.eecs.umich.edu/~taustin/papers/PLDI94-safec.pdf) [PLDI'94]
 
 [Low-cost, Concurrent Checking of Pointer and Array Accesses in C Programs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.17.267&rep=rep1&type=pdf) [SPE'97]
