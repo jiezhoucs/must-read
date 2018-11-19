@@ -36,6 +36,10 @@
 
 [Preventing memory error exploits with WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) [Oakland'08]
 
+[SoftBound: Highly Compatible and Complete Spatial Memory Safety for C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf) [PLDI'09]
+
+[CETS: Compiler-Enforced Temporal Safety for C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf) [ISMM'10]
+
 [Comprehensive and Efficient Protection of Kernel Control Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf) [ToIFaS'11]
 
 [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf) [ATC'12]
