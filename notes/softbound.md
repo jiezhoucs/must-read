@@ -1,7 +1,0 @@
-# SoftBound
-
-### SoftBound
-
-#### Summary
-
-#### Limitations
