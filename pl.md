@@ -10,6 +10,8 @@
 
 [SafeDrive: Safe and Recoverable Extensions Using Language-Based Techniques](http://ivy.cs.berkeley.edu/safedrive/safedrive-osdi06.pdf) [OSDI'06]
 
+[An Empirical Security Study of the Native Code in the JDK](https://www.usenix.org/legacy/event/sec08/tech/full_papers/tan_g/tan_g.pdf) [USS'08]
+
 [CHERI JNI: Sinking the Java security model into the C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.pdf) [ASPLOS'17]
 
 [Checked C: Making C Safe by Extension](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) [SecDev'18]
