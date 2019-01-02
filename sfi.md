@@ -6,4 +6,6 @@
 
 [Native Client: A Sandbox for Portable, Untrusted x86 Native Code](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/34913.pdf) [Oakland'09]
 
+[Fast Byte-Granularity Software Fault Isolation](https://www.sigops.org/s/conferences/sosp/2009/papers/castro-sosp09.pdf) [SOSP'09]
+
 [Adapting Software Fault Isolation to Contemporary CPU Architectures](https://www.usenix.org/legacy/events/sec10/tech/full_papers/Sehr.pdf) [USS'10]
