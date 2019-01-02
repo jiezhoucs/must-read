@@ -22,6 +22,8 @@
 
 [Memory Safety Without Garbage Collection for Embedded Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf) [TECS'05]
 
+[Improving software security with a C pointer analysis](https://suif.stanford.edu/papers/icse05.pdf) [ICSE'05]
+
 [BugBench: Benchmarks for Evaluating Bug Detection Tools](http://mir.cs.illinois.edu/~marinov/sp05-cs598dm/ShanLu.pdf) [Bugs'05]
 
 [DieHard: Probabilistic Memory Safety for Unsafe Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs) [PLDI'06]
