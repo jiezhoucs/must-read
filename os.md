@@ -1,5 +1,7 @@
 # Secure kernel/OS
 
+[Improving the Reliability of Commodity Operating Systems](http://nooks.cs.washington.edu/nooks-sosp.pdf) [SOSP'03]
+
 [seL4: Formal Verification of an OS Kernel](https://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf) [SOSP'09]
 
 [Nested Kernel: An Operating System Architecture for Intra-Kernel Privilege Separation](http://nathandautenhahn.com/downloads/publications/asplos200-dautenhahn.pdf) [ASPLOS'15]
