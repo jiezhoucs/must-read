@@ -6,6 +6,8 @@
 
 [Control Flow Integrity for COTS Binaries](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_zhang.pdf) [USS'13]
 
+[Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42808.pdf) [USS'14]
+
 [Control-Flow Integrity: Precision, Security, and Performance](https://www.sba-research.org/wp-content/uploads/publications/CFI_brunthaler.pdf) [CSUR'17]
 
 [Towards Interface-Driven COTS Binary Hardening](https://www.utdallas.edu/~hamlen/xu18feast.pdf) [FEAST'18]
