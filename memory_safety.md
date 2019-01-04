@@ -40,6 +40,8 @@
 
 [SoftBound: Highly Compatible and Complete Spatial Memory Safety for C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf) [PLDI'09]
 
+[Return-Oriented Programming without Returns](https://hovav.net/ucsd/dist/noret-ccs.pdf) [CCS'10]
+
 [CETS: Compiler-Enforced Temporal Safety for C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf) [ISMM'10]
 
 [Comprehensive and Efficient Protection of Kernel Control Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf) [ToIFaS'11]
