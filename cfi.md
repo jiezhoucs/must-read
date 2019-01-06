@@ -8,6 +8,8 @@
 
 [Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42808.pdf) [USS'14]
 
+[Per-Input Control-Flow Integrity](http://www.cse.psu.edu/~gxt29/papers/picfi.pdf) [CCS'15]
+
 [Control-Flow Integrity: Precision, Security, and Performance](https://www.sba-research.org/wp-content/uploads/publications/CFI_brunthaler.pdf) [CSUR'17]
 
 [Towards Interface-Driven COTS Binary Hardening](https://www.utdallas.edu/~hamlen/xu18feast.pdf) [FEAST'18]
