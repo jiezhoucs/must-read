@@ -12,6 +12,7 @@
 
 [Per-Input Control-Flow Integrity](http://www.cse.psu.edu/~gxt29/papers/picfi.pdf) [CCS'15]
 
+[Losing Control: On the Effectiveness of Control-Flow Integrity under Stack Attacks](https://www.ics.uci.edu/~perl/ccs15_stackdefiler.pdf) [CCS'15]
 
 [Control-Flow Integrity: Precision, Security, and Performance](https://www.sba-research.org/wp-content/uploads/publications/CFI_brunthaler.pdf) [CSUR'17]
 
