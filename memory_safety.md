@@ -65,3 +65,5 @@
 [The Performance Cost of Shadow Stacks and Stack Canaries](https://people.eecs.berkeley.edu/~daw/papers/shadow-asiaccs15.pdf) [AsiaCCS'15]
 
 [Bringing the Web up to Speed with WebAssembly](https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly.pdf) [PLDI'17]
+
+[The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years Later](http://vvdveen.com/publications/newton.pdf) [CCS'17]
