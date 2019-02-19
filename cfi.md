@@ -8,6 +8,8 @@
 
 [Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42808.pdf) [USS'14]
 
+[Counterfeit Object-oriented Programming](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2015/03/28/COOP-Oakland15.pdf) [Oakland'15]
+
 [Control-Flow Bending: On the Effectiveness of Control-Flow Integrity](http://nebelwelt.net/publications/files/15SEC.pdf) [USS'15]
 
 [Per-Input Control-Flow Integrity](http://www.cse.psu.edu/~gxt29/papers/picfi.pdf) [CCS'15]

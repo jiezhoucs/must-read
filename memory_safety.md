@@ -64,8 +64,6 @@
 
 [Missing the Point(er): On the Effectiveness of Code Pointer Integrity](http://web.mit.edu/ha22286/www/papers/Oakland15.pdf) [Oakland'15]
 
-[Counterfeit Object-oriented Programming](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2015/03/28/COOP-Oakland15.pdf) [Oakland'15]
-
 [The Performance Cost of Shadow Stacks and Stack Canaries](https://people.eecs.berkeley.edu/~daw/papers/shadow-asiaccs15.pdf) [AsiaCCS'15]
 
 [Bringing the Web up to Speed with WebAssembly](https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly.pdf) [PLDI'17]
