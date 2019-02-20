@@ -18,6 +18,8 @@
 
 [An Efficient and Backwards-Compatible Transformation to Ensure Memory Safety of C Programs](https://dl.acm.org/citation.cfm?id=1029913) [FSE'04]
 
+[Beyond Stack Smashing: Recent Advances in Exploiting Buffer Overruns](https://www.kapravelos.com/teaching/csc591-f17/readings/pincus.pdf) [Oaklan'04]
+
 [A Practical Dynamic Buffer Overflow Detector](https://suif.stanford.edu/papers/tunji04.pdf) [NDSS'04]
 
 [Memory Safety Without Garbage Collection for Embedded Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf) [TECS'05]
