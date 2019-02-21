@@ -1,5 +1,7 @@
 # Make C and C++ Safer
 
+[Proof-carrying code](http://www.cs.jhu.edu/~fabian/courses/CS600.624/proof-carrying-code.pdf) [POPL'97]
+
 [Enforcing High-Level Protocols in Low-Level Software](https://www.microsoft.com/en-us/research/wp-content/uploads/2001/05/pldi01.pdf) [PLDI'01]
 
 [Cyclone: A safe dialect of C](http://trevorjim.com/papers/usenix2002.pdf) [ATC'02]
