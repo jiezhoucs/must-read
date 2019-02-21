@@ -1,5 +1,7 @@
 # Make C and C++ Safer
 
+[Enforcing High-Level Protocols in Low-Level Software](https://www.microsoft.com/en-us/research/wp-content/uploads/2001/05/pldi01.pdf) [PLDI'01]
+
 [Cyclone: A safe dialect of C](http://trevorjim.com/papers/usenix2002.pdf) [ATC'02]
 
 [Region-Based Memory Management in Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf) [PLDI'02]
