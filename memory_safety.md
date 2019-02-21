@@ -10,6 +10,8 @@
 
 [Buffer overflows: attacks and defenses for the vulnerability of the decade](https://crypto.stanford.edu/cs155/papers/cowan-vulnerability.pdf) [DISCEX'00]
 
+[StackGhost: Hardware facilitatedstack protection](http://projects.cerias.purdue.edu/stackghost/stackghost.pdf) [USS'01]
+
 [Secure Execution Via Program Shepherding](http://groups.csail.mit.edu/commit/papers/02/RIO-security-usenix.pdf) [USS'02]
 
 [PointGuardTM: Protecting Pointers From Buffer Overflow Vulnerabilities](https://www.usenix.org/legacy/event/sec03/tech/full_papers/cowan/cowan.pdf) [USS'03]
