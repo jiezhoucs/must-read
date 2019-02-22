@@ -22,6 +22,8 @@
 
 [Beyond Stack Smashing: Recent Advances in Exploiting Buffer Overruns](https://www.kapravelos.com/teaching/csc591-f17/readings/pincus.pdf) [Oaklan'04]
 
+[Hardware and Binary Modification Support for Code Pointer Protection From Buffer Overflow](http://www.ece.northwestern.edu/~memik/courses/452/presentations/sec_1.pdf) [MICRO'04]
+
 [A Practical Dynamic Buffer Overflow Detector](https://suif.stanford.edu/papers/tunji04.pdf) [NDSS'04]
 
 [Memory Safety Without Garbage Collection for Embedded Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf) [TECS'05]
