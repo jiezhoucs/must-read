@@ -1,11 +1,15 @@
-# Titile
+# Titile and Author(s)
 
-#### Summary (What problem this paper solved?)
+## Category and Keywords
 
-#### Why the problem is important?
+### What problem this paper tried to solve?
 
-#### How the paper solved the problem?
+### Why the problem is important?
 
-#### What are the limitations of the solution?
+### What is this paper's solution to the problem?
 
-#### What are the most relavent works?
+### What are the strenghs and weaknesses of this paper?
+
+### What are other solutions and what are the most relavent works?
+
+### What is the the take-away message from this paper?
