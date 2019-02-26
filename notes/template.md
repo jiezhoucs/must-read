@@ -1,4 +1,4 @@
-# Titile and Author(s)
+# Title and Author(s)
 
 ### Category and Keywords
 
@@ -8,8 +8,10 @@
 
 ### What is this paper's solution to the problem?
 
-### What are the strenghs and weaknesses of this paper?
+### What are the strengths of this paper?
 
-### What are other solutions and what are the most relavent works?
+### What are the limitations of this paper?
 
-### What is the the take-away message from this paper?
+### What are other solutions and what are the most relevant works?
+
+### What is the take-away message from this paper?
