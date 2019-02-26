@@ -14,6 +14,8 @@
 
 [Secure Execution Via Program Shepherding](http://groups.csail.mit.edu/commit/papers/02/RIO-security-usenix.pdf) [USS'02]
 
+[Ensuring Code Safety Without Runtime Checks for Real-Time Control Systems](https://llvm.org/pubs/2002-08-08-CASES02-ControlC.pdf) [CASES'02]
+
 [PointGuardTM: Protecting Pointers From Buffer Overflow Vulnerabilities](https://www.usenix.org/legacy/event/sec03/tech/full_papers/cowan/cowan.pdf) [USS'03]
 
 [Address Obfuscation: an Efficient Approach to Combat a Broad Range of Memory Error Exploits](https://www.usenix.org/legacy/event/sec03/tech/full_papers/bhatkar/bhatkar.pdf) [USS'03]
