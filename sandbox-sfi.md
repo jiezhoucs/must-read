@@ -11,3 +11,6 @@
 [Fast Byte-Granularity Software Fault Isolation](https://www.sigops.org/s/conferences/sosp/2009/papers/castro-sosp09.pdf) [SOSP'09]
 
 [Adapting Software Fault Isolation to Contemporary CPU Architectures](https://www.usenix.org/legacy/events/sec10/tech/full_papers/Sehr.pdf) [USS'10]
+
+[Safe Loading - A Foundation for Secure Execution of Untrusted
+Programs](http://hexhive.epfl.ch/publications/files/12Oakland.pdf) [Oakland'12]
