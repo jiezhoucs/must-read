@@ -46,6 +46,8 @@
 
 [Preventing memory error exploits with WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) [Oakland'08]
 
+[Transparent Runtime Shadow Stack: Protection against malicious return address modifications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.5702&rep=rep1&type=pdf) [08]
+
 [SoftBound: Highly Compatible and Complete Spatial Memory Safety for C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf) [PLDI'09]
 
 [Return-Oriented Programming without Returns](https://hovav.net/ucsd/dist/noret-ccs.pdf) [CCS'10]
