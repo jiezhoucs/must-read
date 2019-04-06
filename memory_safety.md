@@ -22,7 +22,11 @@
 
 [An Efficient and Backwards-Compatible Transformation to Ensure Memory Safety of C Programs](https://dl.acm.org/citation.cfm?id=1029913) [FSE'04]
 
-[Beyond Stack Smashing: Recent Advances in Exploiting Buffer Overruns](https://www.kapravelos.com/teaching/csc591-f17/readings/pincus.pdf) [Oaklan'04]
+[Beyond Stack Smashing: Recent Advances in Exploiting Buffer Overruns](https://www.kapravelos.com/teaching/csc591-f17/readings/pincus.pdf) [Oakland'04]
+
+[On the Effectiveness of Address-Space
+Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?ip=128.151.150.2&id=1030124&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1554590191_6dfbc3b2e74b6f7ce35d6c8d457f378c)
+[CCS'04]
 
 [Hardware and Binary Modification Support for Code Pointer Protection From Buffer Overflow](http://www.ece.northwestern.edu/~memik/courses/452/presentations/sec_1.pdf) [MICRO'04]
 
