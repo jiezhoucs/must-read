@@ -86,3 +86,7 @@ Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?
 Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf) [Oakland'17]
 
 [The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years Later](http://vvdveen.com/publications/newton.pdf) [CCS'17]
+
+[ProbeGuard: Mitigating Probing Attacks Through Reactive Program
+Transformations](https://www.cs.vu.nl/~herbertb/download/papers/probeguard_asplos19.pdf)
+[ASPLOS'19]
