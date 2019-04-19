@@ -90,3 +90,6 @@ Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf) [Oakland'17]
 [ProbeGuard: Mitigating Probing Attacks Through Reactive Program
 Transformations](https://www.cs.vu.nl/~herbertb/download/papers/probeguard_asplos19.pdf)
 [ASPLOS'19]
+
+[BOGO: Buy Spatial Memory Safety, Get Temporal Memory Safety (Almost)
+Free](http://people.cs.vt.edu/~dongyoon/papers/ASPLOS-19-BOGO.pdf) [ASPLOS'19]
