@@ -50,7 +50,6 @@ Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?
 
 [Preventing memory error exploits with WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) [Oakland'08]
 
-[Transparent Runtime Shadow Stack: Protection against malicious return address modifications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.5702&rep=rep1&type=pdf) [08]
 
 [SoftBound: Highly Compatible and Complete Spatial Memory Safety for C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf) [PLDI'09]
 
@@ -77,8 +76,6 @@ Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?
 [Code-Pointer Integrity](https://dslab.epfl.ch/pubs/cpi.pdf) [OSDI'14]
 
 [Missing the Point(er): On the Effectiveness of Code Pointer Integrity](http://web.mit.edu/ha22286/www/papers/Oakland15.pdf) [Oakland'15]
-
-[The Performance Cost of Shadow Stacks and Stack Canaries](https://people.eecs.berkeley.edu/~daw/papers/shadow-asiaccs15.pdf) [AsiaCCS'15]
 
 [Bringing the Web up to Speed with WebAssembly](https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly.pdf) [PLDI'17]
 
