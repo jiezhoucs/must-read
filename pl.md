@@ -18,4 +18,8 @@
 
 [CHERI JNI: Sinking the Java security model into the C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.pdf) [ASPLOS'17]
 
+[Bringing the Web up to Speed with
+WebAssembly](https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly.pdf)
+[PLDI'17]
+
 [Checked C: Making C Safe by Extension](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) [SecDev'18]
