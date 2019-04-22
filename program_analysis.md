@@ -11,3 +11,6 @@
 [Pointer Analysis](https://yanniss.github.io/points-to-tutorial15.pdf) [Book'15]
 
 [DR. CHECKER: A Soundy Analysis for Linux Kernel Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-machiry.pdf) [USS'17]
+
+[Function Merging by Sequence
+Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmergesequencealign_cgo2019.pdf) [CGO'19]
