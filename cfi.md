@@ -25,3 +25,6 @@ Integrity](https://people.csail.mit.edu/fanl/papers/jujutsu-ccs15.pdf) [CCS'15]
 [Control-Flow Integrity: Precision, Security, and Performance](https://www.sba-research.org/wp-content/uploads/publications/CFI_brunthaler.pdf) [CSUR'17]
 
 [Towards Interface-Driven COTS Binary Hardening](https://www.utdallas.edu/~hamlen/xu18feast.pdf) [FEAST'18]
+
+[Enforcing Unique Code Target Property for Control-Flow
+Integrity](https://www.cc.gatech.edu/~hhu86/papers/ucfi.pdf) [CCS'18]
