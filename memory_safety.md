@@ -75,6 +75,10 @@ Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?
 
 [Code-Pointer Integrity](https://dslab.epfl.ch/pubs/cpi.pdf) [OSDI'14]
 
+[Beyond the PDP-11: Architectural support for a memory-safe C abstract
+machine](https://www.cl.cam.ac.uk/~dc552/papers/asplos15-memory-safe-c.pdf)
+[ASPLOS'15]
+
 [Missing the Point(er): On the Effectiveness of Code Pointer Integrity](http://web.mit.edu/ha22286/www/papers/Oakland15.pdf) [Oakland'15]
 
 [Protecting Bare-metal Embedded Systems With Privilege
