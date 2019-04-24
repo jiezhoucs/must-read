@@ -16,6 +16,10 @@
 
 [An Empirical Security Study of the Native Code in the JDK](https://www.usenix.org/legacy/event/sec08/tech/full_papers/tan_g/tan_g.pdf) [USS'08]
 
+[Bringing Java’s Wild Native World under
+Control](http://delivery.acm.org/10.1145/2540000/2535505/a9-sun.pdf?ip=66.24.201.76&id=2535505&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1556129280_0a5924a20764886e4b39ea8c83eacdd9)
+[TISSEC'13]
+
 [CHERI JNI: Sinking the Java security model into the C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.pdf) [ASPLOS'17]
 
 [Bringing the Web up to Speed with
