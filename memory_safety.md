@@ -75,8 +75,6 @@ machine](https://www.cl.cam.ac.uk/~dc552/papers/asplos15-memory-safe-c.pdf)
 [Protecting Bare-metal Embedded Systems With Privilege
 Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf) [Oakland'17]
 
-[The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years Later](http://vvdveen.com/publications/newton.pdf) [CCS'17]
-
 [ProbeGuard: Mitigating Probing Attacks Through Reactive Program
 Transformations](https://www.cs.vu.nl/~herbertb/download/papers/probeguard_asplos19.pdf)
 [ASPLOS'19]

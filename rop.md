@@ -13,4 +13,6 @@ Defense](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-p
 
 [Hacking Blind](http://www.scs.stanford.edu/brop/bittau-brop.pdf) [Oakland'14]
 
+[The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years
+Later](http://vvdveen.com/publications/newton.pdf) [CCS'17]
 
