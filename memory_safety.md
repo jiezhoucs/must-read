@@ -14,7 +14,7 @@
 
 [Secure Execution Via Program Shepherding](http://groups.csail.mit.edu/commit/papers/02/RIO-security-usenix.pdf) [USS'02]
 
-[Ensuring Code Safety Without Runtime Checks for Real-Time Control Systems](https://llvm.org/pubs/2002-08-08-CASES02-ControlC.pdf) [CASES'02] [[note](notes/memory_safety/mem_safety_no_rc.md)]
+[Ensuring Code Safety Without Runtime Checks for Real-Time Control Systems](https://llvm.org/pubs/2002-08-08-CASES02-ControlC.pdf) [CASES'02] 
 
 [PointGuardTM: Protecting Pointers From Buffer Overflow Vulnerabilities](https://www.usenix.org/legacy/event/sec03/tech/full_papers/cowan/cowan.pdf) [USS'03]
 
@@ -51,8 +51,6 @@ Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?
 [Preventing memory error exploits with WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) [Oakland'08]
 
 [SoftBound: Highly Compatible and Complete Spatial Memory Safety for C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf) [PLDI'09]
-
-[Return-Oriented Programming without Returns](https://hovav.net/ucsd/dist/noret-ccs.pdf) [CCS'10]
 
 [CETS: Compiler-Enforced Temporal Safety for C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf) [ISMM'10]
 

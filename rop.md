@@ -1,5 +1,8 @@
 # Return-Oriented Programming
 
+[Return-Oriented Programming without
+Returns](https://hovav.net/ucsd/dist/noret-ccs.pdf) [CCS'10]
+
 [Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space
 Layout Randomization](https://cs.unc.edu/~fabian/papers/oakland2013.pdf)
 [Oakland'13]
