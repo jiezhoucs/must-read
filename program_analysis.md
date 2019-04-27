@@ -1,5 +1,10 @@
 # Program Analysis
 
+[Abstract Interpretation: A Unified Latice Model for Static Analysis of Programs
+by Construction or Approximation of
+Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-cousot.pdf)
+[POPL'77]
+
 [ABCD: Eliminating Array Bounds Checks on Demand](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.6386&rep=rep1&type=pdf) [PLDI'00]
 
 [Intrusion Detection via Static Analysis](http://www.csl.sri.com/users/ddean/papers/oakland01.pdf) [Oakland'01]
