@@ -50,7 +50,6 @@ Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?
 
 [Preventing memory error exploits with WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) [Oakland'08]
 
-
 [SoftBound: Highly Compatible and Complete Spatial Memory Safety for C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf) [PLDI'09]
 
 [Return-Oriented Programming without Returns](https://hovav.net/ucsd/dist/noret-ccs.pdf) [CCS'10]
@@ -63,15 +62,9 @@ Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?
 
 [Memory Errors: The Past, the Present, and the Future](http://vvdveen.com/publications/RAID2012.pdf) [RAID'12]
 
-[Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization](https://cs.unc.edu/~fabian/papers/oakland2013.pdf) [Oakland'13]
-
 [Practical Control Flow Integrity & Randomization for Binary Executables](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6547133) [Oakland'13]
 
 [Stitching the gadgets: On the ineffectiveness of coarse-grained control-flow integrity protection](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-davi.pdf) [USS'14]
-
-[ROP is Still Dangerous: Breaking Modern Defense](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-carlini.pdf) [USS'14]
-
-[Hacking Blind](http://www.scs.stanford.edu/brop/bittau-brop.pdf) [Oakland'14]
 
 [Code-Pointer Integrity](https://dslab.epfl.ch/pubs/cpi.pdf) [OSDI'14]
 
