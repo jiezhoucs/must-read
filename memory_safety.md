@@ -83,9 +83,12 @@ Vector](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-pa
 [TypeSan: Practical Type Confusion
 Detection](https://nebelwelt.net/publications/files/16CCS2.pdf) [CCS'16]
 
-
 [Protecting Bare-metal Embedded Systems With Privilege
 Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf) [Oakland'17]
+
+[Venerable Variadic Vulnerabilities
+Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
+[USS'17]
 
 [ProbeGuard: Mitigating Probing Attacks Through Reactive Program
 Transformations](https://www.cs.vu.nl/~herbertb/download/papers/probeguard_asplos19.pdf)
