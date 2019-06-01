@@ -76,6 +76,14 @@ machine](https://www.cl.cam.ac.uk/~dc552/papers/asplos15-memory-safe-c.pdf)
 
 [Missing the Point(er): On the Effectiveness of Code Pointer Integrity](http://web.mit.edu/ha22286/www/papers/Oakland15.pdf) [Oakland'15]
 
+[Type Casting Verification: Stopping an Emerging Attack
+Vector](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-lee.pdf)
+[USS'15]
+
+[TypeSan: Practical Type Confusion
+Detection](https://nebelwelt.net/publications/files/16CCS2.pdf) [CCS'16]
+
+
 [Protecting Bare-metal Embedded Systems With Privilege
 Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf) [Oakland'17]
 
