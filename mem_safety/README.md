@@ -1,4 +1,4 @@
-# Memory Safety Paper.
+# Memory Safety Papers
 
 There is not a unanimous definition on "memory safety". My advisor [John
 Criswell](http://www.cs.rochester.edu/u/criswell/index.html) sees memory safety
