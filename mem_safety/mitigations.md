@@ -21,6 +21,13 @@ Canaries](https://people.eecs.berkeley.edu/~daw/papers/shadow-asiaccs15.pdf)
 Stacks](http://nebelwelt.net/publications/files/19Oakland.pdf) [Oakland'19]
 
 
+## Address Space Layout Randomization (ASLR)
+
+[On the Effectiveness of Address-Space
+Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?ip=128.151.150.2&id=1030124&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1554590191_6dfbc3b2e74b6f7ce35d6c8d457f378c)
+[CCS'04]
+
+
 ## Control Flow Integrity (CFI)
 
 [Securing software by enforcing data-flow
