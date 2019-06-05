@@ -12,7 +12,8 @@ programs](https://www.doc.ic.ac.uk/~phjk/Publications/BoundsCheckingForC.pdf)
 [Automated Debugging 97]
 
 [An Efficient and Backwards-Compatible Transformation to Ensure Memory Safety of
-C Programs](https://dl.acm.org/citation.cfm?id=1029913) [FSE'04]
+C Programs](http://www.sis.pitt.edu/jjoshi/courses/IS2620/Spring09/Xu.pdf)
+[FSE'04]
 
 [A Practical Dynamic Buffer Overflow
 Detector](https://suif.stanford.edu/papers/tunji04.pdf) [NDSS'04]
