@@ -8,8 +8,8 @@ is about memory safety. For example, CFI related techniques are not regarded as
 "memory safety" by John's definition, as they do not prevent memory corruption;
 however, I consider them as memory safety related.
 
-The categorization of the memory safety papers in this directory is borrowed
-from the [Checked C
+The categorization of the memory safety papers in this directory is 
+mainly inspired by Section 2 of the [Checked C
 Paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf).
 
 P.S. There is an "obsolete" site [Memory Safety
