@@ -1,5 +1,14 @@
 # Solving Memory Safety Programs on the Architecture Level
 
+[StackGhost: Hardware facilitatedstack
+protection](http://projects.cerias.purdue.edu/stackghost/stackghost.pdf)
+[USS'01]
+
+[Hardware and Binary Modification Support for Code Pointer Protection From
+Buffer
+Overflow](http://www.ece.northwestern.edu/~memik/courses/452/presentations/sec_1.pdf)
+[MICRO'04]
+
 [MemTracker: Efficient and Programmable Support for Memory Access Monitoring and
 Debugging](https://www.cc.gatech.edu/~milos/venkataramani_hpca07.pdf) [HPCA'07]
 
