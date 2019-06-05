@@ -23,6 +23,7 @@ Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf) [TECS'05]
 
 [Efficiently Detecting All Dangling Pointer Uses in Production
 Servers](https://llvm.org/pubs/2006-DSN-DanglingPointers.pdf) [DSN'06]
+[note](../notes/mem_safety/d-a_dan_ptr.md)
 
 [Valgrind: A Framework for Heavyweight Dynamic Binary
 Instrumentation](http://valgrind.org/docs/valgrind2007.pdf) [PLDI'07]
