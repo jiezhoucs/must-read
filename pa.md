@@ -9,7 +9,13 @@ Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-c
 
 [Intrusion Detection via Static Analysis](http://www.csl.sri.com/users/ddean/papers/oakland01.pdf) [Oakland'01]
 
-[SAFECode: Enforcing Alias Analysis for Weakly Typed Languages](https://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf) [PLDI'05]
+[SAFECode: Enforcing Alias Analysis for Weakly Typed
+Languages](https://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf) [PLDI'05]
+
+[PLDI'05] [Automatic Pool Allocation: Improving Performance by Controlling Data
+Structure Layout in the
+Heap](https://llvm.org/pubs/2005-05-21-PLDI-PoolAlloc.pdf)
+
 
 [How to Shadow Every Byte of Memory Used by a Program](http://www-leland.stanford.edu/class/cs343/resources/shadow-memory2007.pdf) [VEE'07]
 
