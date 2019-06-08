@@ -21,10 +21,20 @@ Programs](https://www.cs.cmu.edu/~diw3/papers/WangHR17.pdf)
 [[note](notes/pa/pmaf.md]
 
 [CGO'19] [Function Merging by Sequence
-Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmergesequencealign_cgo2019.pdf) 
+Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmergesequencealign_cgo2019.pdf)
 
 
-## Information Flow
+## Information Flow and Symbolic Execution
+
+[USS'04] [Understanding Data Lifetime via Whole System
+Simulation](https://benpfaff.org/papers/taint.pdf)
 
 [ASPLOS'04] [Secure Program Execution via Dynamic Information Flow
 Tracking](http://csg.csail.mit.edu/pubs/memos/Memo-467/memo-467.pdf)
+
+[NDSS'05] [Dynamic Taint Analysis for Automatic Detection, Analysis,
+and Signature Generation of Exploits on Commodity
+Software](https://people.eecs.berkeley.edu/~dawnsong/papers/taintcheck.pdf)
+
+[SOSP'05] [Vigilante: End-to-End Containment of Internet
+Worms](http://rowstron.azurewebsites.net/MS/VigilanteSOSP.pdf)
