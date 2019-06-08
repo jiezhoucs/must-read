@@ -22,3 +22,9 @@ language](https://www.usenix.org/system/files/osdi18-cutler.pdf)
 
 [CCS'18] [Check It Again: Detecting Lacking-Recheck Bugs in OS
 Kernels](https://www-users.cs.umn.edu/~kjlu/papers/lrsan.pdf) 
+
+
+## Real-time OS
+
+[CPSNA'13] [On-Chip Control Flow Integrity Check for Real Time Embedded
+Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.4021&rep=rep1&type=pdf)
