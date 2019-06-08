@@ -27,6 +27,7 @@ Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-m
 
 [PLDI'18] [PMAF: An Algebraic Framework for Static Analysis of Probabilistic
 Programs](https://www.cs.cmu.edu/~diw3/papers/WangHR17.pdf) 
+[[note](notes/pa/pmaf.md]
 
 [CGO'19] [Function Merging by Sequence
 Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmergesequencealign_cgo2019.pdf) 
