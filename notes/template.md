@@ -4,7 +4,7 @@
 
 ### What problem this paper tried to solve?
 
-### Why the problem is important?
+### Why is the problem important?
 
 ### What is this paper's solution to the problem?
 
