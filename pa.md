@@ -1,33 +1,35 @@
 # Program Analysis
 
-[Abstract Interpretation: A Unified Latice Model for Static Analysis of Programs
-by Construction or Approximation of
+[POPL'77] [Abstract Interpretation: A Unified Latice Model for Static Analysis
+of Programs by Construction or Approximation of
 Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-cousot.pdf)
-[POPL'77]
 
-[ABCD: Eliminating Array Bounds Checks on Demand](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.6386&rep=rep1&type=pdf) [PLDI'00]
+[PLDI'00] [ABCD: Eliminating Array Bounds Checks on
+Demand](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.6386&rep=rep1&type=pdf) 
 
-[Intrusion Detection via Static Analysis](http://www.csl.sri.com/users/ddean/papers/oakland01.pdf) [Oakland'01]
+[Oakland'01] [Intrusion Detection via Static
+Analysis](http://www.csl.sri.com/users/ddean/papers/oakland01.pdf) 
 
-[SAFECode: Enforcing Alias Analysis for Weakly Typed
-Languages](https://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf) [PLDI'05]
+[PLDI'05] [SAFECode: Enforcing Alias Analysis for Weakly Typed 
+Languages](https://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf) 
 
 [PLDI'05] [Automatic Pool Allocation: Improving Performance by Controlling Data
 Structure Layout in the
 Heap](https://llvm.org/pubs/2005-05-21-PLDI-PoolAlloc.pdf)
 
+[VEE'07] [How to Shadow Every Byte of Memory Used by a
+Program](http://www-leland.stanford.edu/class/cs343/resources/shadow-memory2007.pdf) 
 
-[How to Shadow Every Byte of Memory Used by a Program](http://www-leland.stanford.edu/class/cs343/resources/shadow-memory2007.pdf) [VEE'07]
+[Book'15] [Pointer Analysis](https://yanniss.github.io/points-to-tutorial15.pdf) 
 
-[Pointer Analysis](https://yanniss.github.io/points-to-tutorial15.pdf) [Book'15]
+[USS'17] [DR. CHECKER: A Soundy Analysis for Linux Kernel
+Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-machiry.pdf) 
 
-[DR. CHECKER: A Soundy Analysis for Linux Kernel Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-machiry.pdf) [USS'17]
+[PLDI'18] [PMAF: An Algebraic Framework for Static Analysis of Probabilistic
+Programs](https://www.cs.cmu.edu/~diw3/papers/WangHR17.pdf) 
 
-[PMAF: An Algebraic Framework for Static Analysis of Probabilistic
-Programs](https://www.cs.cmu.edu/~diw3/papers/WangHR17.pdf) [PLDI'18]
-
-[Function Merging by Sequence
-Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmergesequencealign_cgo2019.pdf) [CGO'19]
+[CGO'19] [Function Merging by Sequence
+Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmergesequencealign_cgo2019.pdf) 
 
 
 ## Information Flow
