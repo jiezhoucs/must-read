@@ -19,5 +19,9 @@ Software](http://www.valgrind.org/docs/newsome2005.pdf)
 [Oakland'08] [Preventing memory error exploits with
 WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) 
 
+[ISSTA'12] [Undangle: Early Detection of Dangling Pointers in Use-After-Free
+and Double-Free
+Vulnerabilities](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/Undangle.pdf)
+
 [USS'17] [DR. CHECKER: A Soundy Analysis for Linux Kernel
 Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-machiry.pdf) 
