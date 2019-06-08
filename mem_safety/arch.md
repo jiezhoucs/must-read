@@ -19,6 +19,10 @@ abstract
 machine](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201503-asplos2015-cheri-cmachine.pdf)
 [[note](notes/arch/cheri15.md)]
 
+[ASPLOS'17] [CHERI JNI: Sinking the Java security model into the
+C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.pdf)
+
+
 [ASPLOS'19] [CheriABI: Enforcing Valid Pointer Provenance and Minimizing Pointer Privilege 
 in the POSIX C Run-time
 Environment](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201904-asplos-cheriabi.pdf)

@@ -1,32 +1,37 @@
-# Make C and C++ Safer
+# Safer C and Language-based Techniques 
 
-[Proof-carrying code](http://www.cs.jhu.edu/~fabian/courses/CS600.624/proof-carrying-code.pdf) [POPL'97]
+[POPL'97] [Proof-carrying
+code](http://www.cs.jhu.edu/~fabian/courses/CS600.624/proof-carrying-code.pdf) 
 
-[Enforcing High-Level Protocols in Low-Level Software](https://www.microsoft.com/en-us/research/wp-content/uploads/2001/05/pldi01.pdf) [PLDI'01]
+[PLDI'01] [Enforcing High-Level Protocols in Low-Level
+Software](https://www.microsoft.com/en-us/research/wp-content/uploads/2001/05/pldi01.pdf) 
 
-[Cyclone: A safe dialect of C](http://trevorjim.com/papers/usenix2002.pdf) [ATC'02]
+[ATC'02] [Cyclone: A safe dialect of
+C](http://trevorjim.com/papers/usenix2002.pdf) 
 
-[Region-Based Memory Management in Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf) [PLDI'02]
+[PLDI'02] [Region-Based Memory Management in
+Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf) 
 
-[CCured: Type-Safe Retrofitting of Legacy Code](http://scottmcpeak.com/papers/ccured_popl02.pdf) [POPL'02]
+[POPL'02] [CCured: Type-Safe Retrofitting of Legacy
+Code](http://scottmcpeak.com/papers/ccured_popl02.pdf) 
 
-[Ensuring Code Safety Without Runtime Checks for Real-Time Control
-Systems](https://llvm.org/pubs/2002-08-08-CASES02-ControlC.pdf) [CASES'02] 
+[CASES'02] [Ensuring Code Safety Without Runtime Checks for Real-Time Control
+Systems](https://llvm.org/pubs/2002-08-08-CASES02-ControlC.pdf)  
 
-[Backwards-Compatible Array Bounds Checking for C with Very Low Overhead](http://llvm.org/pubs/2006-05-24-SAFECode-BoundsCheck.pdf) [ICSE'06]
+[ICSE'06] [Backwards-Compatible Array Bounds Checking for C with Very Low
+Overhead](http://llvm.org/pubs/2006-05-24-SAFECode-BoundsCheck.pdf) 
 
-[SafeDrive: Safe and Recoverable Extensions Using Language-Based Techniques](http://ivy.cs.berkeley.edu/safedrive/safedrive-osdi06.pdf) [OSDI'06]
+[OSDI'06] [SafeDrive: Safe and Recoverable Extensions Using Language-Based
+Techniques](http://ivy.cs.berkeley.edu/safedrive/safedrive-osdi06.pdf) 
 
-[An Empirical Security Study of the Native Code in the JDK](https://www.usenix.org/legacy/event/sec08/tech/full_papers/tan_g/tan_g.pdf) [USS'08]
+[USS'08] [An Empirical Security Study of the Native Code in the
+JDK](https://www.usenix.org/legacy/event/sec08/tech/full_papers/tan_g/tan_g.pdf) 
 
-[Bringing Java’s Wild Native World under
+[TISSEC'13] [Bringing Java’s Wild Native World under
 Control](http://delivery.acm.org/10.1145/2540000/2535505/a9-sun.pdf?ip=66.24.201.76&id=2535505&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1556129280_0a5924a20764886e4b39ea8c83eacdd9)
-[TISSEC'13]
 
-[CHERI JNI: Sinking the Java security model into the C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.pdf) [ASPLOS'17]
-
-[Bringing the Web up to Speed with
+[PLDI'17] [Bringing the Web up to Speed with
 WebAssembly](https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly.pdf)
-[PLDI'17]
 
-[Checked C: Making C Safe by Extension](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) [SecDev'18]
+[SecDev'18] [Checked C: Making C Safe by
+Extension](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) 
