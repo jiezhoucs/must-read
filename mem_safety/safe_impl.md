@@ -1,7 +1,7 @@
 # Safe C/C++ Implementations
 
 [USENIX-Winter'92] [Purify: Fast Detection of Memory Leaks and Access
-Errors](https://courses.cs.washington.edu/courses/cse484/14au/reading/purify.pdf)
+Errors](https://pdfs.semanticscholar.org/b2c4/44e8ab6b9bea1072bb0a7dd321543c8520ea.pdf)
 
 [PLDI'94] [Efficient Detection of All Pointer and Array Access
 Errors](https://web.eecs.umich.edu/~taustin/papers/PLDI94-safec.pdf) 
