@@ -24,10 +24,14 @@ Escalation](http://www.citi.umich.edu/u/provos/papers/privsep.pdf)
 Policies](https://www.usenix.org/legacy/event/sec03/tech/full_papers/provos/provos.pdf)
 
 
-# Virtual Machine
+## Virtual Machine
 
 [SOSP'03] [Xen and the Art of
 Virtualization](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/papers/xen.pdf) 
+
+## Bug Detection and Fixation
+[ICSE'10] [Has the Bug Really Been
+Fixed?](https://people.inf.ethz.ch/suz/publications/icse10-badfix.pdf)
 
 
 ## Web Security
