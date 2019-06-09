@@ -14,4 +14,7 @@
 
 ### What are other solutions and what are the most relevant works?
 
+### Thing(s) that I like particularly about this paper.
+
 ### What is the take-away message from this paper?
+
