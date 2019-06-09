@@ -1,8 +1,10 @@
 # Title and Author(s)
 
-Efficiently Detecting All Dangling Pointer Uses in Production Servers]
+Efficiently Detecting All Dangling Pointer Uses in Production Servers
 
 Dinakar Dhurjati and Vikram Adve
+
+DSN'06
 
 ### Category and Keywords
 C; dangling pointers; server software; automatic pool allocation
