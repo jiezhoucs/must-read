@@ -31,7 +31,9 @@ to invalid.
   brings.
 
 ### What are the limitations of this paper?
-- Not-low performance overhead: average overhead of 80% on SPEC (1% to 472%).
+- Both the performance overhead and memory overhead are high for
+  pointer-intensive programs. The performance average overhead is 80% on SPEC
+  with the highest to be more than 400%. The highest memory overhead is 472%.
 - Requires source code.
 
 ### What are other solutions and what are the most relevant works?
