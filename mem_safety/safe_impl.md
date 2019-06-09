@@ -41,6 +41,9 @@ Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf)
 [ATC'12] [AddressSanitizer: A Fast Address Sanity
 Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
 
+[CCS'10] [DieHarder: Securing the
+Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)
+
 [USS'17] [Venerable Variadic Vulnerabilities
 Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
 
