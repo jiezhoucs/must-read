@@ -45,7 +45,8 @@ Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
 Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)
 
 [NDSS'15] [Preventing Use-after-free with Dangling Pointers
-Nullification](https://wenke.gtisc.gatech.edu/papers/dangnull.pdf)
+Nullification](https://wenke.gtisc.gatech.edu/papers/dangnull.pdf) 
+[note](../notes/mem_safety/safe_impl/DANGNULL.md)
 
 [USS'17] [Venerable Variadic Vulnerabilities
 Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
