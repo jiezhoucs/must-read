@@ -48,6 +48,10 @@ Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)
 Nullification](https://wenke.gtisc.gatech.edu/papers/dangnull.pdf) 
 [note](../notes/mem_safety/safe_impl/DANGNULL.md)
 
+[NDSS'15] [FreeSentry: Protecting Against Use-After-Free Vulnerabilities Due to
+Dangling
+Pointers](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_4_2.pdf)
+
 [USS'17] [Venerable Variadic Vulnerabilities
 Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
 
