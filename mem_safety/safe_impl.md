@@ -55,5 +55,8 @@ Pointers](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_4_2.pdf)
 [USS'17] [Venerable Variadic Vulnerabilities
 Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
 
+[EuroSys'17] [DangSan: Scalable Use-after-free
+Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
+
 [Oakland'17] [Protecting Bare-metal Embedded Systems With Privilege
 Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf) 
