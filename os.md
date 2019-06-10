@@ -1,5 +1,10 @@
 # Secure kernel/OS
 
+[[SOSP'91](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)
+[TOSC'92](http://delivery.acm.org/10.1145/150000/146943/p26-rosenblum.pdf?ip=131.107.147.5&id=146943&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1560139377_7198165cda03785fe8763770cc6866d9)]
+The Design and Implementation of a Log-Structured File
+System
+
 [SOSP'03] [Improving the Reliability of Commodity Operating
 Systems](http://nooks.cs.washington.edu/nooks-sosp.pdf) 
 
