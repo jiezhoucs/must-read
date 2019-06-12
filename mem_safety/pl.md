@@ -30,6 +30,9 @@ JDK](https://www.usenix.org/legacy/event/sec08/tech/full_papers/tan_g/tan_g.pdf)
 [TISSEC'13] [Bringing Java’s Wild Native World under
 Control](http://delivery.acm.org/10.1145/2540000/2535505/a9-sun.pdf?ip=66.24.201.76&id=2535505&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1556129280_0a5924a20764886e4b39ea8c83eacdd9)
 
+[PLDI'16] [Into the Depths of C: Elaborating the De Facto
+Standards](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201606-pldi2016-clanguage.pdf)
+
 [PLDI'17] [Bringing the Web up to Speed with
 WebAssembly](https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly.pdf)
 
