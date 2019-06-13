@@ -9,6 +9,9 @@ Collection](https://argp.github.io/public/a8f45baeab77e1bf41d30dce444523b3.pdf)
 [ICSE'05] [Improving software security with a C pointer
 analysis](https://suif.stanford.edu/papers/icse05.pdf) 
 
+[POPL'02] [CCured: Type-Safe Retrofitting of Legacy
+Code](http://scottmcpeak.com/papers/ccured_popl02.pdf) 
+
 [PLDI'05] [SAFECode: Enforcing Alias Analysis for Weakly Typed 
 Languages](https://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf) 
 

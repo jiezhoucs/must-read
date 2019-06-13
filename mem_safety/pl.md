@@ -12,9 +12,6 @@ C](http://trevorjim.com/papers/usenix2002.pdf)
 [PLDI'02] [Region-Based Memory Management in
 Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf) 
 
-[POPL'02] [CCured: Type-Safe Retrofitting of Legacy
-Code](http://scottmcpeak.com/papers/ccured_popl02.pdf) 
-
 [CASES'02] [Ensuring Code Safety Without Runtime Checks for Real-Time Control
 Systems](https://llvm.org/pubs/2002-08-08-CASES02-ControlC.pdf)  
 
