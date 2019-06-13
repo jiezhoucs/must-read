@@ -7,6 +7,9 @@ Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-c
 [Oakland'01] [Intrusion Detection via Static
 Analysis](http://www.csl.sri.com/users/ddean/papers/oakland01.pdf) 
 
+[PASTE'01] [PointerAnalysis:Haven’tWe
+SolvedThisProblemYet?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.9469&rep=rep1&type=pdf)
+
 [PLDI'05] [Automatic Pool Allocation: Improving Performance by Controlling Data
 Structure Layout in the
 Heap](https://llvm.org/pubs/2005-05-21-PLDI-PoolAlloc.pdf)
