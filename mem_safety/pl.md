@@ -8,7 +8,7 @@ Software](https://www.microsoft.com/en-us/research/wp-content/uploads/2001/05/pl
 
 [ATC'02] [Cyclone: A safe dialect of
 C](http://trevorjim.com/papers/usenix2002.pdf)
-[[note](notes/mem_safety/pl/cyclone.md]]
+[[note](../notes/mem_safety/pl/cyclone.md)]
 
 [PLDI'02] [Region-Based Memory Management in
 Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf) 
