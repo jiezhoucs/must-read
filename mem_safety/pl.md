@@ -7,7 +7,8 @@ code](http://www.cs.jhu.edu/~fabian/courses/CS600.624/proof-carrying-code.pdf)
 Software](https://www.microsoft.com/en-us/research/wp-content/uploads/2001/05/pldi01.pdf) 
 
 [ATC'02] [Cyclone: A safe dialect of
-C](http://trevorjim.com/papers/usenix2002.pdf) 
+C](http://trevorjim.com/papers/usenix2002.pdf)
+[[note](notes/mem_safety/pl/cyclone.md]]
 
 [PLDI'02] [Region-Based Memory Management in
 Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf) 
