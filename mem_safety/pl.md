@@ -20,7 +20,7 @@ Systems](https://llvm.org/pubs/2002-08-08-CASES02-ControlC.pdf)
 Overhead](http://llvm.org/pubs/2006-05-24-SAFECode-BoundsCheck.pdf) 
 
 [OSDI'06] [SafeDrive: Safe and Recoverable Extensions Using Language-Based
-Techniques](http://ivy.cs.berkeley.edu/safedrive/safedrive-osdi06.pdf) 
+Techniques](https://www.usenix.org/legacy/event/osdi06/tech/full_papers/zhou/zhou.pdf)
 
 [USS'08] [An Empirical Security Study of the Native Code in the
 JDK](https://www.usenix.org/legacy/event/sec08/tech/full_papers/tan_g/tan_g.pdf) 
