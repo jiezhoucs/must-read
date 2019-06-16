@@ -2,7 +2,7 @@
 
 ### Category and Keywords
 
-### What problem this paper tried to solve?
+### What problem does this paper try to solve?
 
 ### Why is the problem important?
 
@@ -17,4 +17,6 @@
 ### Thing(s) that I like particularly about this paper.
 
 ### What is the take-away message from this paper?
+
+### Other comments.
 
