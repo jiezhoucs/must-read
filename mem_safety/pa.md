@@ -19,6 +19,9 @@ Languages](https://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf)
 Signature Generation of Exploits on Commodity
 Software](http://www.valgrind.org/docs/newsome2005.pdf)
 
+[PLDI'06] [SAFECode: Enforcing Alias Analysis for Weakly Typed
+Languages](http://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf)
+
 [Oakland'08] [Preventing memory error exploits with
 WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf) 
 
