@@ -40,3 +40,6 @@ WebAssembly](https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Sch
 [SecDev'18] [Checked C: Making C Safe by
 Extension](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) 
 [[note](../notes/mem_safety/pl/checkedc.md)]
+
+[POPL'19] [Exploring C Semantics and Pointer
+Provenance](https://www.cl.cam.ac.uk/~km569/exploring_provenance.pdf)
