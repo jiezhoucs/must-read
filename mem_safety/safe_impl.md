@@ -23,6 +23,9 @@ Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf)
 Servers](https://llvm.org/pubs/2006-DSN-DanglingPointers.pdf) 
 [[note](../notes/mem_safety/d-a_dan_ptr.md)]
 
+[PLDI'06] [SAFECode: Enforcing Alias Analysis for Weakly Typed
+Languages](http://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf)
+
 [PLDI'07] [Valgrind: A Framework for Heavyweight Dynamic Binary
 Instrumentation](http://valgrind.org/docs/valgrind2007.pdf)
 
