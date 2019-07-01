@@ -38,6 +38,18 @@ Virtualization](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/pape
 Fixed?](https://people.inf.ethz.ch/suz/publications/icse10-badfix.pdf)
 
 
+## Side Channel Attacks
+
+[Oakland'13] [Practical Timing Side Channel Attacks Against Kernel Space
+ASLR](https://www.ieee-security.org/TC/SP2013/papers/4977a191.pdf) 
+
+[USS'14] [FLUSH+RELOAD: A High Resolution, Low Noise, L3 Cache Side-Channel
+Attack](https://eprint.iacr.org/2013/448.pdf) 
+
+[USS'18] [Shielding Software from Privileged Side-Channel Attacks
+](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-dong.pdf) 
+
+
 ## Web Security
 [CCS'16] [The “Web/Local” Boundary Is Fuzzy: A Security Study of Chrome’s
 Process-based
