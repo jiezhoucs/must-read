@@ -17,7 +17,7 @@ Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf)
 Systems](https://llvm.org/pubs/2002-08-08-CASES02-ControlC.pdf)  
 
 [Elsevier SCP'06] [Safe manual memory management in
-Cyclone](https://reader.elsevier.com/reader/sd/pii/S0167642306000785?token=50E40602712027DF44A72D4207EECF49F411C516D3C9A952ED2E8DC5A2ACC14EC4B3B614B6BFC859FA91124BF1203DD5]
+Cyclone](https://reader.elsevier.com/reader/sd/pii/S0167642306000785?token=50E40602712027DF44A72D4207EECF49F411C516D3C9A952ED2E8DC5A2ACC14EC4B3B614B6BFC859FA91124BF1203DD5)
 
 [ICSE'06] [Backwards-Compatible Array Bounds Checking for C with Very Low
 Overhead](http://llvm.org/pubs/2006-05-24-SAFECode-BoundsCheck.pdf) 

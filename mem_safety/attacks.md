@@ -1,6 +1,6 @@
 # Attacks against Memory Safety Vulnerabilities
 
-## Code Reuse Attacks ret2libc and Return-Oriented Programming (ROP)
+## Code Reuse Attacks: ret2libc and Return-Oriented Programming (ROP)
 
 [Phrack'07] [The advanced return-into-lib(c)
 exploits](http://hamsa.cs.northwestern.edu/media/readings/advanced_libc.pdf)
