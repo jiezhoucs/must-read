@@ -14,7 +14,7 @@
 
 ### What are other solutions and what are the most relevant works?
 
-#### Useful links
+#### Related links
 
 ### Thing(s) that I like particularly about this paper.
 
