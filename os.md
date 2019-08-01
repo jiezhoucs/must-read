@@ -1,9 +1,19 @@
-# Secure kernel/OS
+# Operating Systems
+
+['86] [Mach: A New Kernel Foundation For UNIX
+Development](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.3964&rep=rep1&type=pdf)
+
+[USENIX Summer'90] [Unix as an Application
+Program](https://pdfs.semanticscholar.org/980b/46ec731b3048fe40113212df5d67aa6cf313.pdf]
 
 [[SOSP'91](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)
 [TOSC'92](http://delivery.acm.org/10.1145/150000/146943/p26-rosenblum.pdf?ip=131.107.147.5&id=146943&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1560139377_7198165cda03785fe8763770cc6866d9)]
 The Design and Implementation of a Log-Structured File
 System
+
+[USS'96] [A secure environment for untrusted helper applications confining the
+Wily
+Hacker](https://www.usenix.org/legacy/publications/library/proceedings/sec96/full_papers/goldberg/goldberg.pdf)
 
 [SOSP'03] [Improving the Reliability of Commodity Operating
 Systems](http://nooks.cs.washington.edu/nooks-sosp.pdf) 
