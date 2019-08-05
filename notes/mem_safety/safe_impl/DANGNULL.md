@@ -39,7 +39,7 @@ to invalid.
 ### What are other solutions and what are the most relevant works?
 
 ### Thing(s) that I like particularly about this paper.
-It used Chromium to test their implementation. And they looks as honest as the 
+It used Chromium to test their implementation. And they look as honest as the 
 RocSec group.
 
 ### What is the take-away message from this paper?
