@@ -27,6 +27,10 @@ Escalation](http://www.citi.umich.edu/u/provos/papers/privsep.pdf)
 [USS'03] [Improving Host Security with System Call
 Policies](https://www.usenix.org/legacy/event/sec03/tech/full_papers/provos/provos.pdf)
 
+[CCS'18] [Lord of the x86 Rings: A Portable User Mode Privilege
+Separation Architecture on
+x86](http://delivery.acm.org/10.1145/3250000/3243748/p1441-lee.pdf?ip=173.225.52.220&id=3243748&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1568052681_fb719f668be9339d1214087794f18289)
+
 
 ## Virtual Machine
 
