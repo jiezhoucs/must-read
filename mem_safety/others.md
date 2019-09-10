@@ -20,3 +20,6 @@ Transformations](https://www.cs.vu.nl/~herbertb/download/papers/probeguard_asplo
 
 [ASPLOS'19] [BOGO: Buy Spatial Memory Safety, Get Temporal Memory Safety (Almost)
 Free](http://people.cs.vt.edu/~dongyoon/papers/ASPLOS-19-BOGO.pdf) 
+
+[ECRTS'19] [Control-Flow Integrity for Real-Time Embedded
+Systems](http://drops.dagstuhl.de/opus/volltexte/2019/10739/pdf/LIPIcs-ECRTS-2019-2.pdf)
