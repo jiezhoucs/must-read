@@ -24,6 +24,9 @@ Stack](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/osr20
 [SOSP'09] [seL4: Formal Verification of an OS
 Kernel](https://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf) 
 
+[APSys'11] [Linux kernel vulnerabilities: State-of-the-art defenses and open 
+problems](https://pdos.csail.mit.edu/papers/chen-kbugs.pdf)
+
 [ASPLOS'15] [Nested Kernel: An Operating System Architecture for Intra-Kernel
 Privilege
 Separation](http://nathandautenhahn.com/downloads/publications/asplos200-dautenhahn.pdf) 
