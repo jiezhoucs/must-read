@@ -4,6 +4,9 @@
 of Programs by Construction or Approximation of
 Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-cousot.pdf)
 
+[PLDI'00] [Unification Based Pointer Analysis with
+Directional](http://web.cs.ucla.edu/~palsberg/course/purdue/cs661/F01/papers/das-pldi00.pdf)
+
 [Oakland'01] [Intrusion Detection via Static
 Analysis](http://www.csl.sri.com/users/ddean/papers/oakland01.pdf) 
 
