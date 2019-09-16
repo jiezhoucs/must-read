@@ -11,6 +11,9 @@ Program](https://pdfs.semanticscholar.org/980b/46ec731b3048fe40113212df5d67aa6cf
 The Design and Implementation of a Log-Structured File
 System
 
+[CompSystems'95] [Plan 9 from Bell
+Labs](https://pdos.csail.mit.edu/archive/6.824-2012/papers/plan9.pdf)
+
 [USS'96] [A secure environment for untrusted helper applications confining the
 Wily
 Hacker](https://www.usenix.org/legacy/publications/library/proceedings/sec96/full_papers/goldberg/goldberg.pdf)
