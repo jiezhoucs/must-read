@@ -1,5 +1,8 @@
 # Operating Systems
 
+[SOSP'73] [The UNIX Time-Sharing
+System](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)
+
 ['86] [Mach: A New Kernel Foundation For UNIX
 Development](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.3964&rep=rep1&type=pdf)
 
