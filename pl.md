@@ -1,5 +1,8 @@
 # Programming Language Design and Implementation
 
+[1978] [UNIX time-sharing system: The C programming
+language](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6770408)
+
 ## Memory Management
 
 [OOPSLA'02] [Reconsidering Custom Memory
