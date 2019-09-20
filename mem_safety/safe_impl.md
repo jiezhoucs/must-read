@@ -60,3 +60,6 @@ Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
 
 [Oakland'17] [Protecting Bare-metal Embedded Systems With Privilege
 Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf) 
+
+[CCS'17] [FreeGuard: A Faster Secure Heap
+Allocator](https://dl.acm.org/citation.cfm?id=3133957)
