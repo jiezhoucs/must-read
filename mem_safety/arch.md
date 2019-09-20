@@ -26,3 +26,7 @@ C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.
 [ASPLOS'19] [CheriABI: Enforcing Valid Pointer Provenance and Minimizing Pointer Privilege 
 in the POSIX C Run-time
 Environment](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201904-asplos-cheriabi.pdf)
+
+[MICRO'19] [CHERIvoke: Characterising Pointer Revocation using CHERI 
+Capabilities for Temporal Memory
+Safety](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201910micro-cheri-temporal-safety.pdf)
