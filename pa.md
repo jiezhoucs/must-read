@@ -7,6 +7,9 @@ Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-c
 [PLDI'00] [Unification Based Pointer Analysis with
 Directional](http://web.cs.ucla.edu/~palsberg/course/purdue/cs661/F01/papers/das-pldi00.pdf)
 
+[PLDI'01] [Incrementalized Pointer and Escape
+Analysis](https://people.csail.mit.edu/rinard/paper/pldi01.full.pdf)
+
 [Oakland'01] [Intrusion Detection via Static
 Analysis](http://www.csl.sri.com/users/ddean/papers/oakland01.pdf) 
 
