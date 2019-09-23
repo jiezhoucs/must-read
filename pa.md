@@ -4,6 +4,9 @@
 of Programs by Construction or Approximation of
 Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-cousot.pdf)
 
+[OOPSLA'99] [Compositional Pointer and Escape Analysis for Java
+Programs](https://people.csail.mit.edu/rinard/paper/oopsla99.pdf)
+
 [PLDI'00] [Unification Based Pointer Analysis with
 Directional](http://web.cs.ucla.edu/~palsberg/course/purdue/cs661/F01/papers/das-pldi00.pdf)
 
