@@ -28,9 +28,12 @@ Program](http://www-leland.stanford.edu/class/cs343/resources/shadow-memory2007.
 
 [Book'15] [Pointer Analysis](https://yanniss.github.io/points-to-tutorial15.pdf) 
 
+[ACMComm'15] [In defense of soundiness: a 
+manifesto](https://dl.acm.org/citation.cfm?doid=2728770.2644805)
+
 [PLDI'18] [PMAF: An Algebraic Framework for Static Analysis of Probabilistic
 Programs](https://www.cs.cmu.edu/~diw3/papers/WangHR17.pdf) 
-[[note](notes/pa/pmaf.md]
+[[note](notes/pa/pmaf.md)]
 
 [CGO'19] [Function Merging by Sequence
 Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmergesequencealign_cgo2019.pdf)
