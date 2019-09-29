@@ -49,7 +49,7 @@ Executables](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6547133)
 Binaries](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_zhang.pdf)
 
 [PLDI'14] [Modular Control-Flow
-Integrity](http://www.cse.psu.edu/~gxt29/papers/mcfi.pdf]
+Integrity](http://www.cse.psu.edu/~gxt29/papers/mcfi.pdf)
 
 [USS'14] [Enforcing Forward-Edge Control-Flow Integrity in GCC &
 LLVM](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42808.pdf) 
