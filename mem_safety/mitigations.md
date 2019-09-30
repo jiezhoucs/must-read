@@ -27,7 +27,7 @@ Exploits](https://www.usenix.org/legacy/event/sec03/tech/full_papers/bhatkar/bha
 
 
 [CCS'04] [On the Effectiveness of Address-Space
-Randomization](http://delivery.acm.org/10.1145/1040000/1030124/p298-shacham.pdf?ip=128.151.150.2&id=1030124&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1554590191_6dfbc3b2e74b6f7ce35d6c8d457f378c)
+Randomization](https://dl.acm.org/citation.cfm?id=1030124)
 
 [PLDI'06] [DieHard: Probabilistic Memory Safety for Unsafe
 Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs)
