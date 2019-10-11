@@ -19,3 +19,8 @@ Defense](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-p
 
 [CCS'17] [The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years
 Later](http://vvdveen.com/publications/newton.pdf) 
+
+
+## Use-After-Free (UAF)
+[CCS'15] [From Collision To Exploitation: Unleashing Use-After-Free
+Vulnerabilities in Linux Kernel](https://dl.acm.org/citation.cfm?id=2813637)
