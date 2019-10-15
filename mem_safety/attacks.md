@@ -24,3 +24,9 @@ Later](http://vvdveen.com/publications/newton.pdf)
 ## Use-After-Free (UAF)
 [CCS'15] [From Collision To Exploitation: Unleashing Use-After-Free
 Vulnerabilities in Linux Kernel](https://dl.acm.org/citation.cfm?id=2813637)
+
+## Defeat Diversification/Randomization
+[NDSS'16] [Enabling Client-Side Crash-Resistance to Overcome Diversification
+and Information
+Hiding](https://www.ndss-symposium.org/wp-content/uploads/2017/09/enabling-client-side-crash-resistance-overcome-diversification-information-hiding.pdf)
+
