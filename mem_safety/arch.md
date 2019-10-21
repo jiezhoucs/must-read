@@ -23,6 +23,8 @@ machine](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201503-asplos2015
 [ASPLOS'17] [CHERI JNI: Sinking the Java security model into the
 C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.pdf)
 
+[USS'18] [IMIX: In-Process Memory Isolation
+EXtension](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-frassetto.pdf)
 
 [ASPLOS'19] [CheriABI: Enforcing Valid Pointer Provenance and Minimizing Pointer Privilege 
 in the POSIX C Run-time
