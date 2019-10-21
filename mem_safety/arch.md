@@ -1,5 +1,6 @@
 # Solving Memory Safety Programs on the Architecture Level
 
+## New Architecture
 [USS'01] [StackGhost: Hardware facilitatedstack
 protection](http://projects.cerias.purdue.edu/stackghost/stackghost.pdf)
 
@@ -30,3 +31,7 @@ Environment](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201904-asplos
 [MICRO'19] [CHERIvoke: Characterising Pointer Revocation using CHERI 
 Capabilities for Temporal Memory
 Safety](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201910micro-cheri-temporal-safety.pdf)
+
+## Exploiting Hardware Features
+[USS'19] [ERIM: Secure, Efficient In-process Isolation with Protection Keys
+(MPK)](https://www.usenix.org/system/files/sec19-vahldiek-oberwagner_0.pdf)
