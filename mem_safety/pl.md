@@ -38,7 +38,7 @@ Standards](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201606-pldi2016
 WebAssembly](https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly.pdf)
 
 [SecDev'18] [Checked C: Making C Safe by
-Extension](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf) 
+Extension](https://www.microsoft.com/en-us/research/uploads/prod/2018/09/checkedc-secdev2018-preprint.pdf)
 [[note](../notes/mem_safety/pl/checkedc.md)]
 
 [POPL'19] [Exploring C Semantics and Pointer

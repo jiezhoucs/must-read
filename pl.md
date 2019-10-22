@@ -14,6 +14,6 @@ Collection](https://www.researchgate.net/publication/314828995_Combining_region_
 [HotOS'17] [System Programming in Rust: Beyond
 Safety](https://www.ics.uci.edu/~aburtsev/doc/crust-hotos17.pdf)
 
-[EUROSEC'16] [METAlloc: Efficient and Comprehensive Metadata Management for 
+[EUROSEC'16] [METAlloc: Efficient and Comprehensive Metadata Management for
 Software Security
-Hardening](https://www.cs.vu.nl/~giuffrida/papers/eurosec-2016.pdf]
+Hardening](https://www.cs.vu.nl/~giuffrida/papers/eurosec-2016.pdf)
