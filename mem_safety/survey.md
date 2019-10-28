@@ -7,10 +7,10 @@ decade](https://crypto.stanford.edu/cs155/papers/cowan-vulnerability.pdf)
 Overruns](https://www.kapravelos.com/teaching/csc591-f17/readings/pincus.pdf)
 
 [Bugs'05] [BugBench: Benchmarks for Evaluating Bug Detection
-Tools](http://mir.cs.illinois.edu/~marinov/sp05-cs598dm/ShanLu.pdf) 
+Tools](http://mir.cs.illinois.edu/~marinov/sp05-cs598dm/ShanLu.pdf)
 
 [RAID'12] [Memory Errors: The Past, the Present, and the
-Future](http://vvdveen.com/publications/RAID2012.pdf) 
+Future](http://vvdveen.com/publications/RAID2012.pdf)
 
 [Oakland'19] [SoK: Sanitizing for
 Security](https://oaklandsok.github.io/papers/song2019.pdf)

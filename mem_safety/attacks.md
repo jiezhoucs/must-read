@@ -1,4 +1,4 @@
-# Attacks against Memory Safety Vulnerabilities
+# Attacks and Security Evaluation
 
 ## Code Reuse Attacks: ret2libc and Return-Oriented Programming (ROP)
 
@@ -29,4 +29,10 @@ Vulnerabilities in Linux Kernel](https://dl.acm.org/citation.cfm?id=2813637)
 [NDSS'16] [Enabling Client-Side Crash-Resistance to Overcome Diversification
 and Information
 Hiding](https://www.ndss-symposium.org/wp-content/uploads/2017/09/enabling-client-side-crash-resistance-overcome-diversification-information-hiding.pdf)
+
+
+## Security Evaluation
+[CSET'19] [Is Less Really More? Towards Better Metrics for Measuring Security
+Improvements Realized Through Software
+Debloating](https://www.usenix.org/system/files/cset19-paper_brown.pdf)
 
