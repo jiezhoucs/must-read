@@ -53,3 +53,7 @@ Software](https://people.eecs.berkeley.edu/~dawnsong/papers/taintcheck.pdf)
 
 [SOSP'05] [Vigilante: End-to-End Containment of Internet
 Worms](http://rowstron.azurewebsites.net/MS/VigilanteSOSP.pdf)
+
+## Debugging
+[OSDI'18] [REPT: Reverse Debugging of Failures in Deployed
+Software](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/osdi18-final211.pdf)
