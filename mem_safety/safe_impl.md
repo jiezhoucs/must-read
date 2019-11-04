@@ -67,5 +67,8 @@ Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf)
 [CCS'17] [FreeGuard: A Faster Secure Heap
 Allocator](https://dl.acm.org/citation.cfm?id=3133957)
 
+[NDSS'18] [Securing Real-Time Microcontroller Systems through Customized Memory
+View Switching](https://lifeasageek.github.io/papers/kim-minion.pdf)
+
 [USS'19] [uXOM: Efficient eXecute-Only Memory on ARM
 Cortex-M](https://www.usenix.org/system/files/sec19-kwon_0.pdf)
