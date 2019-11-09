@@ -64,6 +64,9 @@ Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
 [Oakland'17] [Protecting Bare-metal Embedded Systems With Privilege
 Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf)
 
+[DAC'17] [Instruction-Level Data Isolation for the Kernel on
+ARM](https://dl.acm.org/citation.cfm?id=3062267)
+
 [CCS'17] [FreeGuard: A Faster Secure Heap
 Allocator](https://dl.acm.org/citation.cfm?id=3133957)
 
