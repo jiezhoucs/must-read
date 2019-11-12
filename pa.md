@@ -4,6 +4,9 @@
 of Programs by Construction or Approximation of
 Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-cousot.pdf)
 
+[TOPLAS'94] [The Undecidability of
+Aliasing](http://web.cs.ucla.edu/~palsberg/course/cs232/papers/ramalingam-toplas94.pdf)
+
 [OOPSLA'99] [Compositional Pointer and Escape Analysis for Java
 Programs](https://people.csail.mit.edu/rinard/paper/oopsla99.pdf)
 
