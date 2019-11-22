@@ -18,7 +18,7 @@ risk](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cher
 [ASPLOS'15] [Beyond the PDP-11: Architectural support for a memory-safe C
 abstract
 machine](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201503-asplos2015-cheri-cmachine.pdf)
-[[note](notes/arch/cheri15.md)]
+[[note](../notes/mem_safety/arch/cheri_pdp11.md)]
 
 [ASPLOS'17] [CHERI JNI: Sinking the Java security model into the
 C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.pdf)
