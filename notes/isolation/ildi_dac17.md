@@ -41,7 +41,7 @@ It utilizes the `hyp mode` to realize these two invariants.
 the kernel maps memories and configures system registers.
 To maintain the first invariant, the `hyp mode` sets the PAN bit,
 and all the instructions, e.g., `MSR PAN, <imm|reg>`, that could modify the
-PAN bit in the `CPSR` or `SCTLR` register are moved from the kernel.
+PAN bit in the `CPSR` or `SCTLR` register are removed from the kernel.
 To keep the second invariant, kernel page tables are configured as read-only,
 and all attempts of modifying the kernel page tables are sent to the
 the `hyp mode` for verification.
