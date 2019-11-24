@@ -1,5 +1,9 @@
 # Memory Region Isolation
 
+[DAC'17] [Instruction-Level Data Isolation for the Kernel on
+ARM](https://dl.acm.org/citation.cfm?id=3062267)
+[[note](notes/mem_safety/safe_impl/ildi_dac17.md)]
+
 [ATC'19] [Hodor: Intra-Process Isolation for High-Throughput Data Plane
 Libraries](https://www.usenix.org/system/files/atc19-hedayati-hodor.pdf)
 
