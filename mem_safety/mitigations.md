@@ -40,7 +40,7 @@ integrity](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/11/d
 
 [CCS'11] [Combining Control-Flow Integrity and Static Analysis for Efficient and
 Validated Data
-Sandboxing](http://www.cse.psu.edu/~gxt29/papers/cfiDataSandboxing.pdf) 
+Sandboxing](http://www.cse.psu.edu/~gxt29/papers/cfiDataSandboxing.pdf)
 
 [Oakland'13] [Practical Control Flow Integrity & Randomization for Binary
 Executables](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6547133)
@@ -52,38 +52,29 @@ Binaries](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-
 Integrity](http://www.cse.psu.edu/~gxt29/papers/mcfi.pdf)
 
 [USS'14] [Enforcing Forward-Edge Control-Flow Integrity in GCC &
-LLVM](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42808.pdf) 
+LLVM](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42808.pdf)
 
 [USS'14] [Stitching the Gadgets: On the Ineffectiveness of Coarse-Grained
 Control-Flow Integrity
-Protection](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-davi.pdf) 
+Protection](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-davi.pdf)
 
 [Oakland'15] [Counterfeit Object-oriented
 Programming](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2015/03/28/COOP-Oakland15.pdf)
 
-[USS'15] [Control-Flow Bending: On the Effectiveness of Control-Flow
-Integrity](http://nebelwelt.net/publications/files/15SEC.pdf) 
-
 [CCS'15] [Per-Input Control-Flow
-Integrity](http://www.cse.psu.edu/~gxt29/papers/picfi.pdf) 
-
-[CCS'15] [Control Jujutsu: On the Weaknesses of Fine-Grained Control Flow
-Integrity](https://people.csail.mit.edu/fanl/papers/jujutsu-ccs15.pdf) 
-
-[CCS'15] [Losing Control: On the Effectiveness of Control-Flow Integrity under Stack
-Attacks](https://www.ics.uci.edu/~perl/ccs15_stackdefiler.pdf) 
+Integrity](http://www.cse.psu.edu/~gxt29/papers/picfi.pdf)
 
 [CSUR'17] [Control-Flow Integrity: Precision, Security, and
 Performance](https://www.sba-research.org/wp-content/uploads/publications/CFI_brunthaler.pdf)
 
 [FEAST'18] [Towards Interface-Driven COTS Binary
-Hardening](https://www.utdallas.edu/~hamlen/xu18feast.pdf) 
+Hardening](https://www.utdallas.edu/~hamlen/xu18feast.pdf)
 
 [CCS'18] [Enforcing Unique Code Target Property for Control-Flow
-Integrity](https://www.cc.gatech.edu/~hhu86/papers/ucfi.pdf) 
+Integrity](https://www.cc.gatech.edu/~hhu86/papers/ucfi.pdf)
 
 
-## Sandboxing / Software Fault Isolation (SFI) 
+## Sandboxing / Software Fault Isolation (SFI)
 
 [NSPW'99] [SASI Enforcement of Security Policies: A
 Retrospective](https://www.cs.cornell.edu/fbs/publications/sasiNSPW.ps)

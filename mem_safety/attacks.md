@@ -17,6 +17,15 @@ Defense](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-p
 
 [Oakland'14] [Hacking Blind](http://www.scs.stanford.edu/brop/bittau-brop.pdf)
 
+[USS'15] [Control-Flow Bending: On the Effectiveness of Control-Flow
+Integrity](http://nebelwelt.net/publications/files/15SEC.pdf)
+
+[CCS'15] [Control Jujutsu: On the Weaknesses of Fine-Grained Control Flow
+Integrity](https://people.csail.mit.edu/fanl/papers/jujutsu-ccs15.pdf)
+
+[CCS'15] [Losing Control: On the Effectiveness of Control-Flow Integrity under Stack
+Attacks](https://www.ics.uci.edu/~perl/ccs15_stackdefiler.pdf)
+
 [CCS'17] [The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years
 Later](http://vvdveen.com/publications/newton.pdf)
 
