@@ -61,14 +61,5 @@ Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec1
 [EuroSys'17] [DangSan: Scalable Use-after-free
 Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
 
-[Oakland'17] [Protecting Bare-metal Embedded Systems With Privilege
-Overlays](https://nebelwelt.net/publications/files/17Oakland.pdf)
-
 [CCS'17] [FreeGuard: A Faster Secure Heap
 Allocator](https://dl.acm.org/citation.cfm?id=3133957)
-
-[NDSS'18] [Securing Real-Time Microcontroller Systems through Customized Memory
-View Switching](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04B-2_Kim_paper.pdf)
-
-[USS'19] [uXOM: Efficient eXecute-Only Memory on ARM
-Cortex-M](https://www.usenix.org/system/files/sec19-kwon_0.pdf)
