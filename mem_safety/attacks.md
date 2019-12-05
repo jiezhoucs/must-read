@@ -17,6 +17,9 @@ Defense](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-p
 
 [Oakland'14] [Hacking Blind](http://www.scs.stanford.edu/brop/bittau-brop.pdf)
 
+[Oakland'14] [Out Of Control: Overcoming Control-Flow
+Integrity](http://www.portokalidis.net/files/outofcontrol_oakland14.pdf)
+
 [USS'15] [Control-Flow Bending: On the Effectiveness of Control-Flow
 Integrity](http://nebelwelt.net/publications/files/15SEC.pdf)
 
