@@ -20,6 +20,10 @@ Defense](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-p
 [Oakland'14] [Out Of Control: Overcoming Control-Flow
 Integrity](http://www.portokalidis.net/files/outofcontrol_oakland14.pdf)
 
+[USS'14] [Stitching the Gadgets: On the Ineffectiveness of Coarse-Grained
+Control-Flow Integrity
+Protection](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-davi.pdf)
+
 [USS'15] [Control-Flow Bending: On the Effectiveness of Control-Flow
 Integrity](http://nebelwelt.net/publications/files/15SEC.pdf)
 
