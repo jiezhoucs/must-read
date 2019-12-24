@@ -38,5 +38,8 @@ Safety](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201910micro-cheri-
 
 ## Exploiting Hardware Features
 
+[ASPLOS'17' [GRIFFIN: Guarding Control Flows Using Intel Processor
+Trace](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/griffin-asplos17.pdf)
+
 [ATC'19] [libmpk: Software Abstraction for Intel Memory Protection Keys (Intel
 MPK)](https://www.usenix.org/system/files/atc19-park-soyeon.pdf)
