@@ -19,8 +19,8 @@ Analysis](https://people.csail.mit.edu/rinard/paper/pldi01.full.pdf)
 [Oakland'01] [Intrusion Detection via Static
 Analysis](http://www.csl.sri.com/users/ddean/papers/oakland01.pdf)
 
-[PASTE'01] [PointerAnalysis:Haven’tWe
-SolvedThisProblemYet?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.9469&rep=rep1&type=pdf)
+[PASTE'01] [Pointer Analysis: Haven’t We
+Solved This Problem Yet?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.9469&rep=rep1&type=pdf)
 
 [PLDI'05] [Automatic Pool Allocation: Improving Performance by Controlling Data
 Structure Layout in the
