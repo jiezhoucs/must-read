@@ -7,6 +7,9 @@ Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-c
 [TOPLAS'94] [The Undecidability of
 Aliasing](http://web.cs.ucla.edu/~palsberg/course/cs232/papers/ramalingam-toplas94.pdf)
 
+[POPL'96] [Points-to Analysis in Almost Linear
+Time](https://www.cs.cornell.edu/courses/cs711/2005fa/papers/steensgaard-popl96.pdf)
+
 [OOPSLA'99] [Compositional Pointer and Escape Analysis for Java
 Programs](https://people.csail.mit.edu/rinard/paper/oopsla99.pdf)
 
