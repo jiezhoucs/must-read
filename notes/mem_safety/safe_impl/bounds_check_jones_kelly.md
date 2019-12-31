@@ -42,3 +42,8 @@ common in C programs.
 ### What is the take-away message from this paper?
 
 ### Other comments
+It's not clear to me how this paper handles cast between pointers and
+integers. For example, if a pointer is cast to an integer, and the
+integer gets incremented to out of the bound of the intended referent
+of the pointer, and then the integer gets cast back to a pointer and it
+points to another valid memory object, would this situation be detected?

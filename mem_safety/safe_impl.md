@@ -8,6 +8,7 @@ Errors](https://web.eecs.umich.edu/~taustin/papers/PLDI94-safec.pdf)
 
 [Automated Debugging 97] [Backwards-compatible bounds checking for arrays and pointers in C
 programs](https://www.doc.ic.ac.uk/~phjk/Publications/BoundsCheckingForC.pdf)
+[[note](../notes/memory_safety/safe-impl/bounds_check_jones_kelly.md)]
 
 [FSE'04] [An Efficient and Backwards-Compatible Transformation to Ensure Memory
 Safety of C
