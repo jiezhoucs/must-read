@@ -57,6 +57,7 @@ the `hyp mode` for verification.
 
 ### What are other solutions and what are the most relevant works?
 - Virtual Ghost
+- Nested Kernel
 
 #### Related links
 
