@@ -54,10 +54,6 @@ Integrity](http://www.cse.psu.edu/~gxt29/papers/mcfi.pdf)
 [USS'14] [Enforcing Forward-Edge Control-Flow Integrity in GCC &
 LLVM](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42808.pdf)
 
-[USS'14] [Stitching the Gadgets: On the Ineffectiveness of Coarse-Grained
-Control-Flow Integrity
-Protection](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-davi.pdf)
-
 [Oakland'15] [Counterfeit Object-oriented
 Programming](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2015/03/28/COOP-Oakland15.pdf)
 
