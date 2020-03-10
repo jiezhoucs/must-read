@@ -62,3 +62,7 @@ Vector](https://www.cs.vu.nl/~herbertb/download/papers/dedup-est-machina_sp16.pd
 [CCS'16] [The “Web/Local” Boundary Is Fuzzy: A Security Study of Chrome’s
 Process-based
 Sandboxing](https://www.cc.gatech.edu/~hhu86/papers/chrome_ccs.pdf) 
+
+## IoT
+[Oakland'20] [Automated Reverse Engineering and Privacy Analysis of Modern
+Cars](https://www.computer.org/csdl/proceedings-article/sp/2020/349700b129/1i0rItAsoi4)
