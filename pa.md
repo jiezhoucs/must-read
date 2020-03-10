@@ -67,3 +67,7 @@ Debugging](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.338.3420&rep
 
 [OSDI'18] [REPT: Reverse Debugging of Failures in Deployed
 Software](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/osdi18-final211.pdf)
+
+## Fuzzing
+[Oakland'16] [LAVA: Large-scale Automated Vulnerability
+Addition](https://www.andreamambretti.com/files/papers/oakland2016_lava.pdf)
