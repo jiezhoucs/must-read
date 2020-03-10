@@ -20,10 +20,6 @@ Detector](https://suif.stanford.edu/papers/tunji04.pdf)
 [TECS'05] [Memory Safety Without Garbage Collection for Embedded
 Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf)
 
-[DSN'06] [Efficiently Detecting All Dangling Pointer Uses in Production
-Servers](https://llvm.org/pubs/2006-DSN-DanglingPointers.pdf)
-[[note](../notes/mem_safety/d-a_dan_ptr.md)]
-
 [PLDI'07] [Valgrind: A Framework for Heavyweight Dynamic Binary
 Instrumentation](http://valgrind.org/docs/valgrind2007.pdf)
 
@@ -33,9 +29,6 @@ Compiler](http://delivery.acm.org/10.1145/1550000/1542505/p259-oiwa.pdf?ip=131.1
 [PLDI'09] [SoftBound: Highly Compatible and Complete Spatial Memory Safety for
 C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf)
 
-[ISMM'10] [CETS: Compiler-Enforced Temporal Safety for
-C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf)
-
 [ToIFaS'11] [Comprehensive and Efficient Protection of Kernel Control
 Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf)
 
@@ -44,6 +37,21 @@ Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
 
 [SPE'13] [MemSafe: ensuring the spatial and temporal memory safety ofC at
 runtime](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2105)
+
+[USS'17] [Venerable Variadic Vulnerabilities
+Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
+
+[CCS'17] [FreeGuard: A Faster Secure Heap
+Allocator](https://dl.acm.org/citation.cfm?id=3133957)
+
+
+## Temporal
+[DSN'06] [Efficiently Detecting All Dangling Pointer Uses in Production
+Servers](https://llvm.org/pubs/2006-DSN-DanglingPointers.pdf)
+[[note](../notes/mem_safety/d-a_dan_ptr.md)]
+
+[ISMM'10] [CETS: Compiler-Enforced Temporal Safety for
+C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf)
 
 [CCS'10] [DieHarder: Securing the
 Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)
@@ -56,11 +64,8 @@ Nullification](https://wenke.gtisc.gatech.edu/papers/dangnull.pdf)
 Dangling
 Pointers](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_4_2.pdf)
 
-[USS'17] [Venerable Variadic Vulnerabilities
-Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
-
 [EuroSys'17] [DangSan: Scalable Use-after-free
 Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
 
-[CCS'17] [FreeGuard: A Faster Secure Heap
-Allocator](https://dl.acm.org/citation.cfm?id=3133957)
+[Oakland'20] [MarkUs: Drop-in use-after-free prevention for low-level
+languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
