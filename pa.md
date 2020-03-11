@@ -50,6 +50,12 @@ Analysis](https://people.csail.mit.edu/rinard/paper/pldi01.full.pdf)
 [PASTE'01] [Pointer Analysis: Haven’t We
 Solved This Problem Yet?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.9469&rep=rep1&type=pdf)
 
+[PASTE'04] [Importance of Heap Specialization in Pointer
+Analysis](http://impact.crhc.illinois.edu/shared/papers/paste-04-nystrom.pdf)
+
+[CGO'11] [Flow-Sensitive Pointer Analysis for Millions of Lines of
+Code](https://www.cs.utexas.edu/users/lin/papers/cgo11.pdf)
+
 [Book'15] [Pointer Analysis](https://yanniss.github.io/points-to-tutorial15.pdf)
 
 
