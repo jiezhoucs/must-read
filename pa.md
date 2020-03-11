@@ -7,9 +7,6 @@ Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-c
 [TOPLAS'94] [The Undecidability of
 Aliasing](http://web.cs.ucla.edu/~palsberg/course/cs232/papers/ramalingam-toplas94.pdf)
 
-[POPL'96] [Points-to Analysis in Almost Linear
-Time](https://www.cs.cornell.edu/courses/cs711/2005fa/papers/steensgaard-popl96.pdf)
-
 [Oakland'01] [Intrusion Detection via Static
 Analysis](http://www.csl.sri.com/users/ddean/papers/oakland01.pdf)
 
@@ -20,6 +17,8 @@ Heap](https://llvm.org/pubs/2005-05-21-PLDI-PoolAlloc.pdf)
 [VEE'07] [How to Shadow Every Byte of Memory Used by a
 Program](http://www-leland.stanford.edu/class/cs343/resources/shadow-memory2007.pdf)
 
+[PLDI'07] [Making Context-sensitive Points-to Analysis with Heap Cloning
+Practical For The Real World](http://llvm.org/pubs/2007-06-10-PLDI-DSA.pdf)
 
 [ACMComm'15] [In defense of soundiness: a
 manifesto](https://dl.acm.org/citation.cfm?doid=2728770.2644805)
@@ -33,6 +32,9 @@ Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmerg
 
 
 ## Pointer Analysis
+[POPL'96] [Points-to Analysis in Almost Linear
+Time](https://www.cs.cornell.edu/courses/cs711/2005fa/papers/steensgaard-popl96.pdf)
+
 [PLDI'98] [Type-Based Alias
 Analysis](http://web.cs.ucla.edu/~palsberg/tba/papers/diwan-mckinley-moss-pldi98.pdf)
 
