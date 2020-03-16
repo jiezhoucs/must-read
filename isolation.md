@@ -11,6 +11,9 @@ Libraries](https://www.usenix.org/system/files/atc19-hedayati-hodor.pdf)
 (MPK)](https://www.usenix.org/system/files/sec19-vahldiek-oberwagner_0.pdf)
 
 ## Trusted Execution Environment (TEE)
+[TR] [A Memory Encryption Engine Suitable for General Purpose
+Processors](https://eprint.iacr.org/2016/204.pdf)
+
 [Oakland'20] [SoK: Understanding the Prevailing Security Vulnerabilities in
 TrustZone-assisted TEE
 Systems](https://www.cs.purdue.edu/homes/pfonseca/papers/sp2020-tees.pdf)
