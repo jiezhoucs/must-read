@@ -32,6 +32,9 @@ C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf)
 [ToIFaS'11] [Comprehensive and Efficient Protection of Kernel Control
 Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf)
 
+[CGO'12] [Light-weight Bounds
+Checking](http://seclab.cs.sunysb.edu/seclab/pubs/lbc.pdf)
+
 [ATC'12] [AddressSanitizer: A Fast Address Sanity
 Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
 
