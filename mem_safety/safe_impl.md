@@ -32,6 +32,9 @@ C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf)
 [ToIFaS'11] [Comprehensive and Efficient Protection of Kernel Control
 Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf)
 
+[CGO'11] [Practical Memory Checking with Dr.
+Memory](https://dl.acm.org/doi/10.5555/2190025.2190067)
+
 [CGO'12] [Light-weight Bounds
 Checking](http://seclab.cs.sunysb.edu/seclab/pubs/lbc.pdf)
 
