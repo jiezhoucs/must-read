@@ -23,3 +23,9 @@ Safety](https://www.ics.uci.edu/~aburtsev/doc/crust-hotos17.pdf)
 
 [SLE'17] [Energy Efficiency across Programming
 Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/09/paperSLE.pdf)
+
+
+## Secure Compilation
+[CSF'19] [Journey Beyond Full Abstraction Exploring Robust Property Preservation
+for Secure
+Compilation](https://theory.stanford.edu/~mp/mp/Publications_files/rc.pdf)
