@@ -32,6 +32,9 @@ Translations](https://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-154.pdf)
 [SNAPL'15] [Verified Compilers for a Multi-Language
 World](https://drops.dagstuhl.de/opus/volltexte/2015/5013/pdf/3.pdf)
 
+[CSUR'19] [Formal Approaches to Secure
+Compilation](http://theory.stanford.edu/~mp/mp/Publications_files/main-full.pdf)
+
 [CSF'19] [Journey Beyond Full Abstraction Exploring Robust Property Preservation
 for Secure
 Compilation](https://theory.stanford.edu/~mp/mp/Publications_files/rc.pdf)
