@@ -9,6 +9,9 @@ Shepherding](http://groups.csail.mit.edu/commit/papers/02/RIO-security-usenix.pd
 [OSDI'06]
 [XFI: Software Guards for System Address Spaces](https://www.usenix.org/legacy/event/osdi06/tech/full_papers/erlingsson/erlingsson.pdf) 
 
+[IMC'14] [The Matter of
+Heartbleed](https://jhalderm.com/pub/papers/heartbleed-imc14.pdf)
+
 [USS'15] [Type Casting Verification: Stopping an Emerging Attack
 Vector](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-lee.pdf)
 
