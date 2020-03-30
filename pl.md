@@ -26,6 +26,9 @@ Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/09/paperSLE.pdf
 
 
 ## Secure Compilation
+[ICALP'98] [Protection in Programming-Language
+Translations](https://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-154.pdf)
+
 [SNAPL'15] [Verified Compilers for a Multi-Language
 World](https://drops.dagstuhl.de/opus/volltexte/2015/5013/pdf/3.pdf)
 
