@@ -35,6 +35,9 @@ World](https://drops.dagstuhl.de/opus/volltexte/2015/5013/pdf/3.pdf)
 [POPL'15] [Sound Modular Verification of C Code Executing in an Unverified
 Context](https://lirias.kuleuven.be/retrieve/290977)
 
+[TR'18] [Towards a Fully Abstract Compiler Using
+Micro-Policies](https://arxiv.org/pdf/1510.00697.pdf)
+
 [CSUR'19] [Formal Approaches to Secure
 Compilation](http://theory.stanford.edu/~mp/mp/Publications_files/main-full.pdf)
 
