@@ -17,3 +17,10 @@ Processors](https://eprint.iacr.org/2016/204.pdf)
 [Oakland'20] [SoK: Understanding the Prevailing Security Vulnerabilities in
 TrustZone-assisted TEE
 Systems](https://www.cs.purdue.edu/homes/pfonseca/papers/sp2020-tees.pdf)
+
+
+# Compartmentalization
+
+[NDSI'08] [Wedge: Splitting Applications into Reduced-Privilege
+Compartments])https://www.usenix.org/legacy/event/nsdi08/tech/full_papers/bittau/bittau.pdf)
+
