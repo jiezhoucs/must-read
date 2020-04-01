@@ -21,6 +21,10 @@ abstract
 machine](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201503-asplos2015-cheri-cmachine.pdf)
 [[note](../notes/mem_safety/arch/cheri_pdp11.md)]
 
+[Oakland'15] [CHERI: A Hybrid Capability-System Architecture for Scalable
+Software
+Compartmentalization](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201505-oakland2015-cheri-compartmentalization.pdf)
+
 [ASPLOS'17] [CHERI JNI: Sinking the Java security model into the
 C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.pdf)
 
