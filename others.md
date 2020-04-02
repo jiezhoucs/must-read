@@ -66,3 +66,7 @@ Sandboxing](https://www.cc.gatech.edu/~hhu86/papers/chrome_ccs.pdf)
 ## IoT
 [Oakland'20] [Automated Reverse Engineering and Privacy Analysis of Modern
 Cars](https://www.computer.org/csdl/proceedings-article/sp/2020/349700b129/1i0rItAsoi4)
+
+## Memory Encryption
+[CSUR'14] [Memory encryption: A survey of existing
+techniques](https://dl.acm.org/doi/10.1145/2566673)
