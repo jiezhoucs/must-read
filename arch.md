@@ -15,3 +15,7 @@ Incremental Encryption](https://ieeexplore.ieee.org/document/6307756)
 
 [ASPLOS'15] [DEUCE: Write-Efficient Encryption for Non-Volatile
 Memories](https://courses.engr.illinois.edu/ece598ms/sp2018/papers/paper142.pdf)
+
+### OS-related
+[SOSP'09] [Better I/O Through Byte-Addressable, Persistent
+Memory](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BPFS.pdf)
