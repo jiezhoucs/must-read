@@ -35,6 +35,10 @@ World](https://drops.dagstuhl.de/opus/volltexte/2015/5013/pdf/3.pdf)
 [POPL'15] [Sound Modular Verification of C Code Executing in an Unverified
 Context](https://lirias.kuleuven.be/retrieve/290977)
 
+[CSF'16, arXiv'17] [Beyond Good and Evil:
+Formalizing the Security Guarantees of Compartmentalizing
+Compilation](https://arxiv.org/pdf/1602.04503.pdf)
+
 [TR'18] [Towards a Fully Abstract Compiler Using
 Micro-Policies](https://arxiv.org/pdf/1510.00697.pdf)
 
