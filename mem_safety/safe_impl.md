@@ -73,5 +73,8 @@ Pointers](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_4_2.pdf)
 [EuroSys'17] [DangSan: Scalable Use-after-free
 Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
 
+[IEEE Access'19] [Mpchecker: Use-After-Free Vulnerabilities Protection Based on
+Multi-Level Pointers](https://ieeexplore.ieee.org/document/8675929)
+
 [Oakland'20] [MarkUs: Drop-in use-after-free prevention for low-level
 languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
