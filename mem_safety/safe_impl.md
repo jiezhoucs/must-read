@@ -44,6 +44,9 @@ Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
 [SPE'13] [MemSafe: ensuring the spatial and temporal memory safety ofC at
 runtime](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2105)
 
+[NDSS'17] [SafeInit: Comprehensive and Practical Mitigation of Uninitialized
+Read Vulnerabilities](https://download.vusec.net/papers/safeinit_ndss17.pdf)
+
 [USS'17] [Venerable Variadic Vulnerabilities
 Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
 
