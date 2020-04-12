@@ -5,6 +5,9 @@ language](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6770408)
 
 ## Memory Management
 
+[PLDI'91] [Mostly Parallel Garbage
+Collection](https://dl.acm.org/doi/10.1145/113446.113459)
+
 [OOPSLA'02] [Reconsidering Custom Memory
 Allocation](https://people.cs.umass.edu/~emery/pubs/berger-oopsla2002.pdf)
 
