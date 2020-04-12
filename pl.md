@@ -5,6 +5,9 @@ language](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6770408)
 
 ## Memory Management
 
+[Softw. Pract. Exper'98] [Garbage Collection in an Uncooperative
+Environment](https://hboehm.info/spe_gc_paper/preprint.pdf)
+
 [PLDI'91] [Mostly Parallel Garbage
 Collection](https://dl.acm.org/doi/10.1145/113446.113459)
 
