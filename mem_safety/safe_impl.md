@@ -73,6 +73,12 @@ Pointers](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_4_2.pdf)
 [EuroSys'17] [DangSan: Scalable Use-after-free
 Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
 
+[PLDI'17] [Simple, Fast and Safe Manual Memory
+Management](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/kedia2017mem.pdf)
+
+[CCS'17] [FreeGuard: A Faster Secure Heap
+Allocator](https://dl.acm.org/doi/10.1145/3133956.3133957)
+
 [CCS'18] [A Robust and Efficient Defense against Use-after-Free Exploits
 via Concurrent Pointer
 Sweeping](https://www.eecis.udel.edu/~hnw/paper/ccs18.pdf)
