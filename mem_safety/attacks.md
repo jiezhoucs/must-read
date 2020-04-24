@@ -33,6 +33,9 @@ Integrity](https://people.csail.mit.edu/fanl/papers/jujutsu-ccs15.pdf)
 [CCS'15] [Losing Control: On the Effectiveness of Control-Flow Integrity under Stack
 Attacks](https://www.ics.uci.edu/~perl/ccs15_stackdefiler.pdf)
 
+[NDSS'17] [Address-Oblivious Code Reuse: On the Effectiveness of
+Leakage-Resilient Diversity](https://www.ics.uci.edu/~perl/ndss17_aocr.pdf)
+
 [CCS'17] [The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years
 Later](http://vvdveen.com/publications/newton.pdf)
 
