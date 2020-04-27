@@ -3,6 +3,9 @@
 [1978] [UNIX time-sharing system: The C programming
 language](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6770408)
 
+[OOPSLA'18] [Reconciling High-Level Optimizations and Low-Level Code in
+LLVM](https://www.cs.utah.edu/~regehr/oopsla18.pdf)
+
 ## Memory Management
 
 [Softw. Pract. Exper'98] [Garbage Collection in an Uncooperative
