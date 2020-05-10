@@ -20,8 +20,15 @@ Labs](https://pdos.csail.mit.edu/archive/6.824-2012/papers/plan9.pdf)
 Wily
 Hacker](https://www.usenix.org/legacy/publications/library/proceedings/sec96/full_papers/goldberg/goldberg.pdf)
 
+[SOSP'97] [The Flux OSKit: a substrate for kernel and language
+research](https://dl.acm.org/doi/10.1145/268998.266642)
+
 [SOSP'03] [Improving the Reliability of Commodity Operating
 Systems](http://nooks.cs.washington.edu/nooks-sosp.pdf)
+
+[EuroSys'06] [Language Support for Fast and Reliable Message-based
+Communication in Singularity
+OS](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/04/singsharp.pdf)
 
 [OSR'07] [Singularity: Rethinking the Software
 Stack](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/osr2007_rethinkingsoftwarestack.pdf)
