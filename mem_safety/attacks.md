@@ -39,6 +39,9 @@ Leakage-Resilient Diversity](https://www.ics.uci.edu/~perl/ndss17_aocr.pdf)
 [CCS'17] [The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years
 Later](http://vvdveen.com/publications/newton.pdf)
 
+[SecDev'18] [There’s a Hole in the Bottom of the C: On the Effectiveness
+of Allocation Protection](http://web.mit.edu/ha22286/www/papers/SecDev18.pdf)
+
 
 ## Use-After-Free (UAF)
 [CCS'15] [From Collision To Exploitation: Unleashing Use-After-Free
