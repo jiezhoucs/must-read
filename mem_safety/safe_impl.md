@@ -44,6 +44,9 @@ Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
 [SPE'13] [MemSafe: ensuring the spatial and temporal memory safety ofC at
 runtime](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2105)
 
+[CCS'16] [Heap Bounds Protection with Low Fat
+Pointers](https://www.comp.nus.edu.sg/~gregory/papers/cc16lowfatptrs.pdf)
+
 [NDSS'17] [SafeInit: Comprehensive and Practical Mitigation of Uninitialized
 Read Vulnerabilities](https://download.vusec.net/papers/safeinit_ndss17.pdf)
 
