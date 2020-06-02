@@ -47,6 +47,13 @@ Separation](http://nathandautenhahn.com/downloads/publications/asplos200-dautenh
 Concurrent OS
 Kernels](https://www.usenix.org/system/files/conference/osdi16/osdi16-gu.pdf)
 
+[Sec'17] [How Double-Fetch Situations turn into DoubleFetch Vulnerabilities: A
+Study of Double Fetches in the Linux
+Kernel](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang.pdf)
+
+[Oakland'18] [Precise and Scalable Detection of Double-Fetch Bugs in OS
+Kernels](https://gts3.org/assets/papers/2018/xu:deadline.pdf)
+
 [OSDI'18] [The benefits and costs of writing a POSIX kernel in a high-level
 language](https://www.usenix.org/system/files/osdi18-cutler.pdf)
 
