@@ -60,6 +60,10 @@ language](https://www.usenix.org/system/files/osdi18-cutler.pdf)
 [CCS'18] [Check It Again: Detecting Lacking-Recheck Bugs in OS
 Kernels](https://www-users.cs.umn.edu/~kjlu/papers/lrsan.pdf)
 
+[USS'19] [Detecting Missing-Check Bugs via Semantic- and Context-Aware
+Criticalness and Constraints
+Inferences](https://www.usenix.org/system/files/sec19-lu.pdf)
+
 
 ## Real-time OS
 
