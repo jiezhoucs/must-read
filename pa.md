@@ -53,6 +53,9 @@ Solved This Problem Yet?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1
 [PASTE'04] [Importance of Heap Specialization in Pointer
 Analysis](http://impact.crhc.illinois.edu/shared/papers/paste-04-nystrom.pdf)
 
+[PLDI'07] [The Ant and the Grasshopper: Fast and Accurate Pointer Analysis
+for Millions of Lines of Code](https://www.cs.utexas.edu/~lin/papers/pldi07.pdf)
+
 [CGO'11] [Flow-Sensitive Pointer Analysis for Millions of Lines of
 Code](https://www.cs.utexas.edu/users/lin/papers/cgo11.pdf)
 
