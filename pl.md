@@ -3,6 +3,9 @@
 [1978] [UNIX time-sharing system: The C programming
 language](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6770408)
 
+[IEEEToSE'86] [Typestate: A programming language concept for enhancing software
+reliability](https://www.computer.org/csdl/journal/ts/1986/01/06312929/13rRUwIF6aQ)
+
 [OOPSLA'18] [Reconciling High-Level Optimizations and Low-Level Code in
 LLVM](https://www.cs.utah.edu/~regehr/oopsla18.pdf)
 
