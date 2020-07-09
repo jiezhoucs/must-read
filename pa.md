@@ -4,6 +4,9 @@
 of Programs by Construction or Approximation of
 Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-cousot.pdf)
 
+[ACMToPLS] [Efficient Computation of Interprocedural Definition-Use
+Chains](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8860&rep=rep1&type=pdf)
+
 [TOPLAS'94] [The Undecidability of
 Aliasing](http://web.cs.ucla.edu/~palsberg/course/cs232/papers/ramalingam-toplas94.pdf)
 
