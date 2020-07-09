@@ -1,5 +1,8 @@
 # Safer C and Language-based Techniques
 
+[IEEEToSE'85] [Making Pointers Safe in System Programming
+Languages](https://ieeexplore-ieee-org.ezp.lib.rochester.edu/stamp/stamp.jsp?tp=&arnumber=1701901)
+
 [POPL'97] [Proof-carrying
 code](http://www.cs.jhu.edu/~fabian/courses/CS600.624/proof-carrying-code.pdf)
 
