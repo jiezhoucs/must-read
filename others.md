@@ -4,6 +4,9 @@
 Random
 Testing](https://www.usenix.org/legacy/events/usenix-win2000/full_papers/forrester/forrester.pdf)
 
+[Oakland'10] [Experimental Security Analysis of a Modern
+Automobile](http://www.autosec.org/pubs/cars-oakland2010.pdf)
+
 [Oakland'13] [SoK: Secure Data
 Deletion](https://oaklandsok.github.io/papers/reardon2013.pdf) 
 
