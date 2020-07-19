@@ -31,3 +31,6 @@ Vulnerabilities](https://www.microsoft.com/en-us/research/wp-content/uploads/201
 
 [USS'17] [DR. CHECKER: A Soundy Analysis for Linux Kernel
 Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-machiry.pdf)
+
+[ICSE'18] [Spatio-Temporal Context Reduction: A Pointer-Analysis-Based
+Static Approach for Detecting Use-After-Free Vulnerabilities]https://yuleisui.github.io/publications/icse18a.pdf)
