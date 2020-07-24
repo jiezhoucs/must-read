@@ -38,6 +38,9 @@ Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmerg
 
 
 ## Pointer Analysis
+[POPL'90] [Pointer-induced Aliasing: A Problem
+Classification](https://www.cmi.ac.in/~madhavan/courses/program-analysis-2008/papers/landi91-ptr-analysis-popl.pdf)
+
 [POPL'96] [Points-to Analysis in Almost Linear
 Time](https://www.cs.cornell.edu/courses/cs711/2005fa/papers/steensgaard-popl96.pdf)
 
