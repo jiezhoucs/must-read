@@ -53,6 +53,9 @@ Directional](http://web.cs.ucla.edu/~palsberg/course/purdue/cs661/F01/papers/das
 [PLDI'01] [Incrementalized Pointer and Escape
 Analysis](https://people.csail.mit.edu/rinard/paper/pldi01.full.pdf)
 
+[PLDI'01] [Demand-Driven Pointer
+Analysis](https://dl.acm.org/doi/10.1145/381694.378802#:~:text=16-,ABSTRACT,a%20program%20or%20program%20component.&text=Specifically%2C%20we%20describe%20a%20demand,%2Dinsensitive%20points%2Dto%20analysis.)
+
 [PASTE'01] [Pointer Analysis: Haven’t We
 Solved This Problem Yet?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.9469&rep=rep1&type=pdf)
 
