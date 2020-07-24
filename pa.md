@@ -23,6 +23,9 @@ Program](http://www-leland.stanford.edu/class/cs343/resources/shadow-memory2007.
 [PLDI'07] [Making Context-sensitive Points-to Analysis with Heap Cloning
 Practical For The Real World](http://llvm.org/pubs/2007-06-10-PLDI-DSA.pdf)
 
+[ISSTA'12] [Static Memory Leak Detection Using Full-Sparse Value-Flow
+Analysis](https://yuleisui.github.io/publications/issta12.pdf)
+
 [ACMComm'15] [In defense of soundiness: a
 manifesto](https://dl.acm.org/citation.cfm?doid=2728770.2644805)
 
