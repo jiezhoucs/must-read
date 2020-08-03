@@ -52,3 +52,6 @@ Language](https://plv.mpi-sws.org/rustbelt/popl18/paper.pdf)
 
 [POPL'19] [Exploring C Semantics and Pointer
 Provenance](https://www.cl.cam.ac.uk/~km569/exploring_provenance.pdf)
+
+[Sec'20] [Everything Old is New Again: Binary Security of
+WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
