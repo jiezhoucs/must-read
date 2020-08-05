@@ -71,6 +71,9 @@ Analysis](http://impact.crhc.illinois.edu/shared/papers/paste-04-nystrom.pdf)
 [PLDI'07] [The Ant and the Grasshopper: Fast and Accurate Pointer Analysis
 for Millions of Lines of Code](https://www.cs.utexas.edu/~lin/papers/pldi07.pdf)
 
+[POPL'08] [Demand-Driven Alias Analysis for
+C](https://www.cs.cornell.edu/~xinz/papers/alias-popl08.pdf)
+
 [CGO'11] [Flow-Sensitive Pointer Analysis for Millions of Lines of
 Code](https://www.cs.utexas.edu/users/lin/papers/cgo11.pdf)
 
