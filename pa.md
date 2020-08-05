@@ -32,6 +32,9 @@ manifesto](https://dl.acm.org/citation.cfm?doid=2728770.2644805)
 [CC'16][SVF: Interprocedural Static Value-Flow Analysis in
 LLVM](https://yuleisui.github.io/publications/cc16.pdf)
 
+[ACMCompSurvey'16] [Heap Abstractions for Static
+Analysis](https://dl.acm.org/doi/abs/10.1145/2931098)
+
 [PLDI'18] [PMAF: An Algebraic Framework for Static Analysis of Probabilistic
 Programs](https://www.cs.cmu.edu/~diw3/papers/WangHR17.pdf)
 [[note](notes/pa/pmaf.md)]
