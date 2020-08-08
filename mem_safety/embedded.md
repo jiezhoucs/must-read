@@ -14,3 +14,6 @@ Cortex-M](https://www.usenix.org/system/files/sec19-kwon_0.pdf)
 
 [NDSS'20] [µRAI: Securing Embedded Systems with Return Address
 Integrity](http://nebelwelt.net/files/20NDSS.pdf)
+
+[Article'20] [TZmCFI: RTOS-Aware Control-Flow Integrity UsingTrustZone for
+Armv8-M](https://link.springer.com/content/pdf/10.1007/s10766-020-00673-z.pdf)
