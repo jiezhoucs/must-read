@@ -13,6 +13,10 @@ Deletion](https://oaklandsok.github.io/papers/reardon2013.pdf)
 [Oakland'14] [SoK: Automated Software
 Diversity](https://www.ics.uci.edu/~perl/automated_software_diversity.pdf) 
 
+[Sec'20] [Understanding security mistakes developers make: Qualitative analysis
+from Build It, Break It, Fix
+It](https://www.usenix.org/conference/usenixsecurity20/presentation/votipka-understanding)
+
 ## Undefined Behavior and other C/C++ errors
 
 [OSDI'12] [Improving Integer Security for Systems with
