@@ -17,6 +17,9 @@ Diversity](https://www.ics.uci.edu/~perl/automated_software_diversity.pdf)
 from Build It, Break It, Fix
 It](https://www.usenix.org/conference/usenixsecurity20/presentation/votipka-understanding)
 
+[Sec'20] [Temporal System Call Specialization for Attack Surface
+Reduction](https://www.usenix.org/conference/usenixsecurity20/presentation/ghavamnia)
+
 ## Undefined Behavior and other C/C++ errors
 
 [OSDI'12] [Improving Integer Security for Systems with
