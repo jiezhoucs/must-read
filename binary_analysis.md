@@ -11,3 +11,6 @@ Analysis](http://sefcom.asu.edu/publications/sok-the-art-of-war-offensive-techni
 
 [Sec'20] [Datalog
 Disassembly](https://www.usenix.org/conference/usenixsecurity20/presentation/flores-montoya)
+
+[Sec'20] [DECAF: Automatic, Adaptive De-bloating and Hardening of COTS
+Firmware](https://www.usenix.org/conference/usenixsecurity20/presentation/christensen)
