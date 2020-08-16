@@ -4,6 +4,9 @@
 Random
 Testing](https://www.usenix.org/legacy/events/usenix-win2000/full_papers/forrester/forrester.pdf)
 
+[TACO'08] [Virtual Machine Showdown: Stack Versus
+Registers](https://dl.acm.org/doi/pdf/10.1145/1328195.1328197)
+
 [Oakland'10] [Experimental Security Analysis of a Modern
 Automobile](http://www.autosec.org/pubs/cars-oakland2010.pdf)
 
