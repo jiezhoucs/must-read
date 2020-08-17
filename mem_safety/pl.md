@@ -55,3 +55,6 @@ Provenance](https://www.cl.cam.ac.uk/~km569/exploring_provenance.pdf)
 
 [Sec'20] [Everything Old is New Again: Binary Security of
 WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
+
+[Sec'20] [Retrofitting Fine Grain Isolation in the Firefox
+Renderer](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2020:rlbox.pdf)
