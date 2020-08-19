@@ -77,6 +77,12 @@ for Millions of Lines of Code](https://www.cs.utexas.edu/~lin/papers/pldi07.pdf)
 [POPL'08] [Demand-Driven Alias Analysis for
 C](https://www.cs.cornell.edu/~xinz/papers/alias-popl08.pdf)
 
+[CGO'09] [Wave Propagation and Deep Propagation for Pointer
+Analysis](http://compilers.cs.ucla.edu/fernando/publications/papers/CGO09.pdf)
+
+[POPL'09] [Semi-Sparse Flow-Sensitive Pointer
+Analysis](https://sites.cs.ucsb.edu/~benh/research/papers/hardekopf09semisparse.pdf)
+
 [CGO'11] [Flow-Sensitive Pointer Analysis for Millions of Lines of
 Code](https://www.cs.utexas.edu/users/lin/papers/cgo11.pdf)
 
