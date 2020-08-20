@@ -59,6 +59,9 @@ Programs](https://people.csail.mit.edu/rinard/paper/oopsla99.pdf)
 [PLDI'00] [Unification Based Pointer Analysis with
 Directional](http://web.cs.ucla.edu/~palsberg/course/purdue/cs661/F01/papers/das-pldi00.pdf)
 
+[ISSTA'00] [Which Pointer Analysis Should I
+Use?](https://logic.pdmi.ras.ru/~yura/of/alias.pdf)
+
 [PLDI'01] [Incrementalized Pointer and Escape
 Analysis](https://people.csail.mit.edu/rinard/paper/pldi01.full.pdf)
 
