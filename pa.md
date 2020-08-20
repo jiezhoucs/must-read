@@ -107,6 +107,9 @@ Software](https://people.eecs.berkeley.edu/~dawnsong/papers/taintcheck.pdf)
 [SOSP'05] [Vigilante: End-to-End Containment of Internet
 Worms](http://rowstron.azurewebsites.net/MS/VigilanteSOSP.pdf)
 
+[CSUR'18] [A Survey of Symbolic Execution
+Techniques](https://dl.acm.org/doi/10.1145/318265)
+
 
 ## Debugging
 [S4DC'12] [A Review Of Reverse
