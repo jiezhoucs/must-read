@@ -29,6 +29,12 @@ WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf)
 and Double-Free
 Vulnerabilities](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/Undangle.pdf)
 
+[Journal'14] [Statically Detecting Use After Free on Binary
+Code](http://binsec.gforge.inria.fr/pdf/detection-use-after-free-GREHACK13.pdf)
+
+[ARES'15] [Uncovering Use-After-Free Conditions in Compiled
+Code](https://www.cise.ufl.edu/~traynor/papers/uaf15.pdf)
+
 [USS'17] [DR. CHECKER: A Soundy Analysis for Linux Kernel
 Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-machiry.pdf)
 
