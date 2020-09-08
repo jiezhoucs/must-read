@@ -5,6 +5,12 @@
 [Phrack'07] [The advanced return-into-lib(c)
 exploits](http://hamsa.cs.northwestern.edu/media/readings/advanced_libc.pdf)
 
+[BlackHat'07] [Heap Feng Shui in
+javascript](https://www.blackhat.com/presentations/bh-usa-07/Sotirov/Whitepaper/bh-usa-07-sotirov-WP.pdf)
+
+[WOOT'08] [Engineering Heap Overflow Exploits with
+JavaScript](https://www.usenix.org/legacy/events/woot08/tech/full_papers/daniel/daniel.pdf)
+
 [CCS'10] [Return-Oriented Programming without
 Returns](https://hovav.net/ucsd/dist/noret-ccs.pdf)
 
