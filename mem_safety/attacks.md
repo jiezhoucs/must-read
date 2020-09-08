@@ -44,6 +44,9 @@ of Allocation Protection](http://web.mit.edu/ha22286/www/papers/SecDev18.pdf)
 
 
 ## Use-After-Free (UAF)
+[BlackHat'07] [Dangling pointer: Smashing the pointer for fun and
+profit](https://www.blackhat.com/presentations/bh-usa-07/Afek/Whitepaper/bh-usa-07-afek-WP.pdf)
+
 [CCS'15] [From Collision To Exploitation: Unleashing Use-After-Free
 Vulnerabilities in Linux Kernel](https://dl.acm.org/citation.cfm?id=2813637)
 
