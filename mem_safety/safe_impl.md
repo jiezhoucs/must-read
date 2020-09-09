@@ -89,6 +89,9 @@ Allocator](https://dl.acm.org/doi/10.1145/3133956.3133957)
 via Concurrent Pointer
 Sweeping](https://www.eecis.udel.edu/~hnw/paper/ccs18.pdf)
 
+[Internetware'18] [DangDone: Eliminating Dangling Pointers via Intermediate
+Pointers](https://dl.acm.org/doi/abs/10.1145/3275219.3275231)
+
 [IEEE Access'19] [Mpchecker: Use-After-Free Vulnerabilities Protection Based on
 Multi-Level Pointers](https://ieeexplore.ieee.org/document/8675929)
 
