@@ -56,6 +56,9 @@ Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec1
 [CCS'17] [FreeGuard: A Faster Secure Heap
 Allocator](https://dl.acm.org/citation.cfm?id=3133957)
 
+[PLDI'18] [EffectiveSan: Type and Memory Error Detection using Dynamically
+Typed C/C++](https://arxiv.org/pdf/1710.06125.pdf)
+
 
 ## Temporal
 [DSN'06] [Efficiently Detecting All Dangling Pointer Uses in Production
