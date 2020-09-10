@@ -68,9 +68,6 @@ Servers](https://llvm.org/pubs/2006-DSN-DanglingPointers.pdf)
 [ISMM'10] [CETS: Compiler-Enforced Temporal Safety for
 C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf)
 
-[CCS'10] [DieHarder: Securing the
-Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)
-
 [NDSS'15] [Preventing Use-after-free with Dangling Pointers
 Nullification](https://wenke.gtisc.gatech.edu/papers/dangnull.pdf)
 [note](../notes/mem_safety/safe_impl/DANGNULL.md)
@@ -100,3 +97,13 @@ Multi-Level Pointers](https://ieeexplore.ieee.org/document/8675929)
 
 [Oakland'20] [MarkUs: Drop-in use-after-free prevention for low-level
 languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
+
+## Secure Memory Allocator
+[PLDI'06] [DieHard: Probabilistic Memory Safety for Unsafe
+Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs)
+
+[ASPLOS'08] [Archipelago: Trading Address Space for Reliability and
+Security](https://people.cs.umass.edu/~emery/pubs/asplos147-lvin.pdf)
+
+[CCS'10] [DieHarder: Securing the
+Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)

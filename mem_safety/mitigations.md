@@ -25,12 +25,8 @@ Stacks](http://nebelwelt.net/publications/files/19Oakland.pdf)
 Memory Error
 Exploits](https://www.usenix.org/legacy/event/sec03/tech/full_papers/bhatkar/bhatkar.pdf)
 
-
 [CCS'04] [On the Effectiveness of Address-Space
 Randomization](https://dl.acm.org/citation.cfm?id=1030124)
-
-[PLDI'06] [DieHard: Probabilistic Memory Safety for Unsafe
-Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs)
 
 
 ## Control Flow Integrity (CFI)
