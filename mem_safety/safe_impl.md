@@ -107,3 +107,6 @@ Security](https://people.cs.umass.edu/~emery/pubs/asplos147-lvin.pdf)
 
 [CCS'10] [DieHarder: Securing the
 Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)
+
+[Sec'18] [GUARDER: A Tunable Secure
+Allocator](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-silvestro.pdf)
