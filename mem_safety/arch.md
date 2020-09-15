@@ -40,6 +40,9 @@ Environment](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201904-asplos
 Capabilities for Temporal Memory
 Safety](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201910micro-cheri-temporal-safety.pdf)
 
+[Oakland'20] [Cornucopia: Temporal Safety for CHERI
+Heaps](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/2020oakland-cornucopia.pdf)
+
 
 ## Exploiting Hardware Features
 
