@@ -32,6 +32,9 @@ C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.
 EXtension](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-frassetto.pdf)
 [[note](../notes/mem_safety/arch/imix.md)]
 
+[arXiv'18] [Memory Tagging and how it improves C/C++ memory
+safety](https://arxiv.org/pdf/1802.09517.pdf)
+
 [ASPLOS'19] [CheriABI: Enforcing Valid Pointer Provenance and Minimizing Pointer Privilege
 in the POSIX C Run-time
 Environment](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201904-asplos-cheriabi.pdf)
