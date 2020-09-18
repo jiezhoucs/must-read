@@ -11,3 +11,6 @@ Engineering](https://homes.cs.washington.edu/~bershad/Papers/hotos95.ps)
 
 [2018] [Computation and State
 Machines](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
+
+[arXiv'20] [The Cost of Software-Based Memory Management Without Virtual
+Memory](https://arxiv.org/pdf/2009.06789.pdf)
