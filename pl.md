@@ -17,6 +17,9 @@ Environment](https://hboehm.info/spe_gc_paper/preprint.pdf)
 [PLDI'91] [Mostly Parallel Garbage
 Collection](https://dl.acm.org/doi/10.1145/113446.113459)
 
+[PLDI'96] [Simple
+Garbage-Collector-Safety](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.47.3141&rep=rep1&type=pdf)
+
 [PLDI'98] [The Design and Implementation of a Certifying
 Compiler](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.739.9675&rep=rep1&type=pdf)
 
