@@ -11,13 +11,13 @@ LLVM](https://www.cs.utah.edu/~regehr/oopsla18.pdf)
 
 ## Memory Management
 
-[Softw. Pract. Exper'98] [Garbage Collection in an Uncooperative
+[Softw. Pract. Exper'88] [Garbage Collection in an Uncooperative
 Environment](https://hboehm.info/spe_gc_paper/preprint.pdf)
 
 [PLDI'91] [Mostly Parallel Garbage
 Collection](https://dl.acm.org/doi/10.1145/113446.113459)
 
-[Journal of C Translate] [A Proposal for Garbage-Collector-Safe C
+[Journal of C Translate'92] [A Proposal for Garbage-Collector-Safe C
 Compilation](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=7B3956129ED6EC5713B8B849F4F41978?doi=10.1.1.47.432&rep=rep1&type=pdf)
 
 [PLDI'96] [Simple
