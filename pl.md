@@ -17,6 +17,9 @@ Environment](https://hboehm.info/spe_gc_paper/preprint.pdf)
 [PLDI'91] [Mostly Parallel Garbage
 Collection](https://dl.acm.org/doi/10.1145/113446.113459)
 
+[Journal of C Translate] [A Proposal for Garbage-Collector-Safe C
+Compilation](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=7B3956129ED6EC5713B8B849F4F41978?doi=10.1.1.47.432&rep=rep1&type=pdf)
+
 [PLDI'96] [Simple
 Garbage-Collector-Safety](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.47.3141&rep=rep1&type=pdf)
 
