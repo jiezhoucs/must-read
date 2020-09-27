@@ -35,6 +35,9 @@ Collection](https://www.researchgate.net/publication/314828995_Combining_region_
 [OOPSLA'05] [Quantifying the Performance of Garbage Collection vs. Explicit
 Memory Management](https://people.cs.umass.edu/~emery/pubs/gcvsmalloc.pdf)
 
+[ISMM'07] [Safe Manual Memory
+Management](https://dl.acm.org/doi/pdf/10.1145/1296907.1296911?casa_token=eYixiMgIfe4AAAAA:5oza6iJATPQhf_evLytZ3QIuPBg5I68Zq3jA3HhkmobST3HpQO51BatP_h_ijD3ZeRMa3y-ScsD4)
+
 [EUROSEC'16] [METAlloc: Efficient and Comprehensive Metadata Management for
 Software Security
 Hardening](https://www.cs.vu.nl/~giuffrida/papers/eurosec-2016.pdf)
