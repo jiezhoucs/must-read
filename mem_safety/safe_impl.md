@@ -44,6 +44,9 @@ Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
 [SPE'13] [MemSafe: ensuring the spatial and temporal memory safety ofC at
 runtime](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2105)
 
+[SNAPL'15] [Everything You Want to Know About Pointer-Based
+Checking](https://core.ac.uk/download/pdf/62919692.pdf)
+
 [CCS'16] [Heap Bounds Protection with Low Fat
 Pointers](https://www.comp.nus.edu.sg/~gregory/papers/cc16lowfatptrs.pdf)
 
