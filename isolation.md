@@ -1,5 +1,8 @@
 # Memory Region Isolation
 
+[CCS'10] [Robusta: Taming the Native Beast of the
+JVM](http://www.cse.psu.edu/~gxt29/papers/robusta.pdf)
+
 [PLDI'16] [A Design and Verification Methodology for Secure Isolated
 Regions](https://people.eecs.berkeley.edu/~sseshia/pubdir/pldi16.pdf)
 
