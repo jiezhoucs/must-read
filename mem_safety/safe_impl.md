@@ -29,6 +29,9 @@ Compiler](http://delivery.acm.org/10.1145/1550000/1542505/p259-oiwa.pdf?ip=131.1
 [PLDI'09] [SoftBound: Highly Compatible and Complete Spatial Memory Safety for
 C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf)
 
+[AsiaCCS'10] [PAriCheck: An Efficient Pointer Arithmetic Checker for C
+Programs](http://fort-knox.org/files/paricheck.pdf)
+
 [ToIFaS'11] [Comprehensive and Efficient Protection of Kernel Control
 Data](http://people.duke.edu/~tkb13/pubs/KernelControlData.pdf)
 
