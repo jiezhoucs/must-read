@@ -25,6 +25,9 @@ Reduction](https://www.usenix.org/conference/usenixsecurity20/presentation/ghava
 
 ## Undefined Behavior and other C/C++ errors
 
+[ICSE'12] [Understanding Integer Overflow in
+C/C++](https://www.cs.utah.edu/~regehr/papers/overflow12.pdf)
+
 [OSDI'12] [Improving Integer Security for Systems with
 KINT](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-88.pdf)
 
