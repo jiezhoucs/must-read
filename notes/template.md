@@ -10,7 +10,7 @@
 
 ### What are the strengths of this paper?
 
-### What are the limitations of this paper?
+### What are the limitations and weaknesses of this paper?
 
 ### What are other solutions and what are the most relevant works?
 
