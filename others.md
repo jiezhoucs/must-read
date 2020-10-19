@@ -1,5 +1,8 @@
 # Other Papers (still, mainly security papers)
 
+[Oakland'00] [IRM Enforcement of Java Stack
+Inspection](https://www.cs.cornell.edu/fbs/publications/2000-1786.pdf)
+
 [WSS'00] [An Empirical Study of the Robustness of Windows NT Applications Using
 Random
 Testing](https://www.usenix.org/legacy/events/usenix-win2000/full_papers/forrester/forrester.pdf)
