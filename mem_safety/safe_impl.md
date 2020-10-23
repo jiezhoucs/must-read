@@ -65,6 +65,10 @@ Allocator](https://dl.acm.org/citation.cfm?id=3133957)
 [PLDI'18] [EffectiveSan: Type and Memory Error Detection using Dynamically
 Typed C/C++](https://arxiv.org/pdf/1710.06125.pdf)
 
+[AsiaCCS'18] [CUP: Comprehensive User-Space Protection for
+C/C++](https://nebelwelt.net/files/18AsiaCCS.pdf)
+[[note](../notes/mem_safety/safe_impl/2018-CUP-AsiaCCS18.md)]
+
 
 ## Temporal
 [DSN'06] [Efficiently Detecting All Dangling Pointer Uses in Production
