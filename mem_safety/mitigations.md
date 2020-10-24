@@ -25,6 +25,10 @@ Stacks](http://nebelwelt.net/publications/files/19Oakland.pdf)
 Memory Error
 Exploits](https://www.usenix.org/legacy/event/sec03/tech/full_papers/bhatkar/bhatkar.pdf)
 
+[Sec'05] [Efficient Techniques for Comprehensive Protection from Memory
+Error
+Exploits](https://www.usenix.org/legacy/event/sec05/tech/full_papers/bhatkar/bhatkar.pdf)
+
 [CCS'04] [On the Effectiveness of Address-Space
 Randomization](https://dl.acm.org/citation.cfm?id=1030124)
 
