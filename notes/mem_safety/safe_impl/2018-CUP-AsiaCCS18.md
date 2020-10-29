@@ -54,6 +54,11 @@ memory object is still alive.
   approaches for full memory safety.
 - The dereference check is very accurate to the byte level.
   `base <= ptr + element_size - 1 < base + length`.
+  *Updated on 10/29/2020*: I thought CUP is the first paper to discuss this but
+  it turns out not. The [Low-fat pointer for heap
+  paper](https://dl.acm.org/doi/abs/10.1145/2892208.2892212) presents this
+  at the beginning of the Background Section. I believe an older paper does
+  this too.
 
 ### What are the limitations/weaknesses of this paper?
 - It must transform ALL source code, otherwise the uninstrumented part will
