@@ -31,6 +31,9 @@ Techniques](https://www.usenix.org/legacy/event/osdi06/tech/full_papers/zhou/zho
 [USS'08] [An Empirical Security Study of the Native Code in the
 JDK](https://www.usenix.org/legacy/event/sec08/tech/full_papers/tan_g/tan_g.pdf)
 
+[CSF'11] [Modular Protections against Non-control Data
+Attacks](https://www.cs.princeton.edu/~dpw/papers/yarra-csf11.pdf)
+
 [TISSEC'13] [Bringing Java’s Wild Native World under
 Control](http://delivery.acm.org/10.1145/2540000/2535505/a9-sun.pdf?ip=66.24.201.76&id=2535505&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1556129280_0a5924a20764886e4b39ea8c83eacdd9)
 
