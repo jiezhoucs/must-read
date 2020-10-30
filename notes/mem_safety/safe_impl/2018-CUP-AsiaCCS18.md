@@ -1,6 +1,7 @@
 # Title, Author(s), and Venue
 **CUP: Comprehensive User-Space Protection for C/C++**
 Nathan Burrow, Derrick McKee, Scott A. Carr, Mathias Payer
+
 Purdue University
 
 [AsiaCCS'18]
