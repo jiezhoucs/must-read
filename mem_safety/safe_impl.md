@@ -53,11 +53,18 @@ VM](https://chrisseaton.com/plas15/safec.pdf)
 [SNAPL'15] [Everything You Want to Know About Pointer-Based
 Checking](https://core.ac.uk/download/pdf/62919692.pdf)
 
+[EuroSec'16] [METAlloc: Efficient and Comprehensive Metadata Management
+for Software Security
+Hardening](https://www.cs.vu.nl/~giuffrida/papers/eurosec-2016.pdf)
+
 [CCS'16] [Heap Bounds Protection with Low Fat
 Pointers](https://www.comp.nus.edu.sg/~gregory/papers/cc16lowfatptrs.pdf)
 
 [NDSS'17] [SafeInit: Comprehensive and Practical Mitigation of Uninitialized
 Read Vulnerabilities](https://download.vusec.net/papers/safeinit_ndss17.pdf)
+
+[EuroSec'17] [Fast and Generic Metadata Management with Mid-Fat
+Pointers](https://www.cs.vu.nl/~giuffrida/papers/midfat_eurosec17.pdf)
 
 [USS'17] [Venerable Variadic Vulnerabilities
 Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
