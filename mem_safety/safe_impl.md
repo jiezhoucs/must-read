@@ -57,9 +57,9 @@ Checking](https://core.ac.uk/download/pdf/62919692.pdf)
 for Software Security
 Hardening](https://www.cs.vu.nl/~giuffrida/papers/eurosec-2016.pdf)
 
-[CCS'16] [Heap Bounds Protection with Low Fat
+[CC'16] [Heap Bounds Protection with Low Fat
 Pointers](https://www.comp.nus.edu.sg/~gregory/papers/cc16lowfatptrs.pdf)
-[[note](../notes/mem_safety/2016-Low-fat_Ptr_Heap-CC16)]
+[[note](../notes/mem_safety/safe_impl/2016-Low-fat_Ptr_Heap-CC16.md)]
 
 [NDSS'17] [SafeInit: Comprehensive and Practical Mitigation of Uninitialized
 Read Vulnerabilities](https://download.vusec.net/papers/safeinit_ndss17.pdf)
