@@ -12,6 +12,9 @@ analysis](https://suif.stanford.edu/papers/icse05.pdf)
 [POPL'02] [CCured: Type-Safe Retrofitting of Legacy
 Code](http://scottmcpeak.com/papers/ccured_popl02.pdf)
 
+[PLDI'03] [CSSV: Towards a Realistic Tool for Statically Detecting All
+Buffer Overflows in C](https://dl.acm.org/doi/abs/10.1145/781131.781149)
+
 [PLDI'05] [SAFECode: Enforcing Alias Analysis for Weakly Typed
 Languages](https://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf)
 
