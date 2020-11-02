@@ -3,6 +3,9 @@
 [PLDI'00] [ABCD: Eliminating Array Bounds Checks on
 Demand](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.6386&rep=rep1&type=pdf)
 
+[Sec'01] [Statically Detecting Likely Buffer Overflow
+Vulnerabilities](http://lclint.cs.virginia.edu/usenix01.pdf)
+
 [LCTES'03] [Memory Safety Without Runtime Checks or Garbage
 Collection](https://argp.github.io/public/a8f45baeab77e1bf41d30dce444523b3.pdf)
 
