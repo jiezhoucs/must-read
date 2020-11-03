@@ -33,7 +33,11 @@ after the former object. Unfortunately, it cannot pad function parameters
 because it would change the parameter layout and thus may break
 compatibility between checked and unchecked code.
 
-For stack objects, it adopted C++'s constructor/destructor mechanism.
+For stack objects, it adopted C++'s constructor/destructor mechanism
+to register and de-register them in the object table. To be more specific,
+before the definition of every stack object, it inserts a call to a function
+that registers the object in the object table, and before the return of the
+function, it inserts calls to functions that delete the stack objects.
 
 For static and global variables, it constructed a table for them and
 loaded at run-time before the programs stats. Statically allocated objects
