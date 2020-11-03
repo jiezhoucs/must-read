@@ -6,9 +6,9 @@ Errors](https://pdfs.semanticscholar.org/b2c4/44e8ab6b9bea1072bb0a7dd321543c8520
 [PLDI'94] [Efficient Detection of All Pointer and Array Access
 Errors](https://web.eecs.umich.edu/~taustin/papers/PLDI94-safec.pdf)
 
-[Automated Debugging 97] [Backwards-compatible bounds checking for arrays and pointers in C
+[AADEBUG'97] [Backwards-compatible bounds checking for arrays and pointers in C
 programs](https://www.doc.ic.ac.uk/~phjk/Publications/BoundsCheckingForC.pdf)
-[[note](../notes/memory_safety/safe-impl/bounds_check_jones_kelly.md)]
+[[note](../notes/mem_safety/safe_impl/1997-J_K_Bounds_Check-AADEBUG97.md)]
 
 [FSE'04] [An Efficient and Backwards-Compatible Transformation to Ensure Memory
 Safety of C
