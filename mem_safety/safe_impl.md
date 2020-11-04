@@ -16,6 +16,7 @@ Programs](http://www.sis.pitt.edu/jjoshi/courses/IS2620/Spring09/Xu.pdf)
 
 [NDSS'04] [A Practical Dynamic Buffer Overflow
 Detector](https://suif.stanford.edu/papers/tunji04.pdf)
+[[notes](../notes/mem_safety/safe_impl/2004-CRED-NDSS04.md)]
 
 [TECS'05] [Memory Safety Without Garbage Collection for Embedded
 Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf)
