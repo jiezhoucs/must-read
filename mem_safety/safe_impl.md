@@ -87,6 +87,9 @@ C/C++](https://nebelwelt.net/files/18AsiaCCS.pdf)
 Servers](https://llvm.org/pubs/2006-DSN-DanglingPointers.pdf)
 [[note](../notes/mem_safety/d-a_dan_ptr.md)]
 
+[PLDI'07][Exterminator: Automatically Correcting Memory Errors with High
+Probability](https://people.cs.umass.edu/~emery/pubs/pldi028-novark.pdf)
+
 [ISMM'10] [CETS: Compiler-Enforced Temporal Safety for
 C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf)
 
