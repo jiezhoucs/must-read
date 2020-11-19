@@ -6,6 +6,9 @@ JVM](http://www.cse.psu.edu/~gxt29/papers/robusta.pdf)
 [PLDI'16] [A Design and Verification Methodology for Secure Isolated
 Regions](https://people.eecs.berkeley.edu/~sseshia/pubdir/pldi16.pdf)
 
+[CCS'16] [Enforcing Least Privilege Memory Views for Multithreaded
+Applications](https://www.cs.purdue.edu/homes/hsu62/ccs16_smv.pdf)
+
 [DAC'17] [Instruction-Level Data Isolation for the Kernel on
 ARM](https://dl.acm.org/citation.cfm?id=3062267)
 [[note](notes/mem_safety/safe_impl/ildi_dac17.md)]
