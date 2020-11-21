@@ -49,9 +49,12 @@ Later](http://vvdveen.com/publications/newton.pdf)
 of Allocation Protection](http://web.mit.edu/ha22286/www/papers/SecDev18.pdf)
 
 
-## Use-After-Free (UAF)
+## Temporal Memory Safety Related
 [BlackHat'07] [Dangling pointer: Smashing the pointer for fun and
 profit](https://www.blackhat.com/presentations/bh-usa-07/Afek/Whitepaper/bh-usa-07-afek-WP.pdf)
+
+[ACSAC'10] [Heap Taichi: Exploiting Memory Allocation Granularity in
+Heap-spraying Attacks](https://dl.acm.org/doi/10.1145/1920261.1920310)
 
 [CCS'15] [From Collision To Exploitation: Unleashing Use-After-Free
 Vulnerabilities in Linux Kernel](https://dl.acm.org/citation.cfm?id=2813637)
