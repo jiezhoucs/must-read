@@ -95,7 +95,7 @@ C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf)
 
 [NDSS'15] [Preventing Use-after-free with Dangling Pointers
 Nullification](https://wenke.gtisc.gatech.edu/papers/dangnull.pdf)
-[note](../notes/mem_safety/safe_impl/DANGNULL.md)
+[[note](../notes/mem_safety/safe_impl/2015-DANGNULL-NDSS15.md)]
 
 [NDSS'15] [FreeSentry: Protecting Against Use-After-Free Vulnerabilities Due to
 Dangling
