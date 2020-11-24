@@ -18,6 +18,9 @@ Programs](http://www.sis.pitt.edu/jjoshi/courses/IS2620/Spring09/Xu.pdf)
 Detector](https://suif.stanford.edu/papers/tunji04.pdf)
 [[notes](../notes/mem_safety/safe_impl/2004-CRED-NDSS04.md)]
 
+[ACSAC'04] [A Dynamic Technique for Eliminating Buffer Overflow Vulnerabilities
+(and Other Memory Errors)](https://www.acsac.org/2004/papers/98.pdf)
+
 [TECS'05] [Memory Safety Without Garbage Collection for Embedded
 Applications](https://llvm.org/pubs/2005-02-TECS-SAFECode.pdf)
 
