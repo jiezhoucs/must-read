@@ -74,9 +74,6 @@ Pointers](https://www.cs.vu.nl/~giuffrida/papers/midfat_eurosec17.pdf)
 [USS'17] [Venerable Variadic Vulnerabilities
 Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
 
-[CCS'17] [FreeGuard: A Faster Secure Heap
-Allocator](https://dl.acm.org/citation.cfm?id=3133957)
-
 [PLDI'18] [EffectiveSan: Type and Memory Error Detection using Dynamically
 Typed C/C++](https://arxiv.org/pdf/1710.06125.pdf)
 
