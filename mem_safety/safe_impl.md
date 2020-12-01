@@ -100,6 +100,7 @@ Nullification](https://wenke.gtisc.gatech.edu/papers/dangnull.pdf)
 [NDSS'15] [FreeSentry: Protecting Against Use-After-Free Vulnerabilities Due to
 Dangling
 Pointers](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_4_2.pdf)
+[[note](../notes/mem_safety/safe_impl/2015-FreeSentry-NDSS15.md)]
 
 [EuroSys'17] [DangSan: Scalable Use-after-free
 Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
