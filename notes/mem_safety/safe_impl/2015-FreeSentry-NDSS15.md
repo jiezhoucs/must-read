@@ -33,8 +33,9 @@ Supporting data structures: (illustrated in Figure 2)
   4 bits to the address of the pointer's PRI item.
 
 At memory allocation, the label lookup table is updated; the address of the
-pointer to the new object is registered in the object lookup table and
-the pointer and related information is registered in the PRI table.
+pointer to the new object is registered in both the object lookup table and
+the pointer lookup table; the pointer and related information is registered
+in the PRI.
 When a pointer is updated, it is looked up via the pointer lookup table
 and the corresponding entry in the PRI is updated.
 
@@ -50,11 +51,20 @@ memory purpose) and adds more labels in the label lookup table.
 For `setjmp/longjmp`, it intercepts calls to `longjmp()` and unwinds
 the stack frames to invalidate all the pointers on those stacks.
 
+To allow pointer arithmetic on pointers after they are invalidated,
+it invalidates a dangling pointer by setting the fist two bits to 1, instead
+of setting the whole pointer to 0.
+
 ### What are the strengths of this paper?
 
 ### What are the limitations and weaknesses of this paper?
 - The prototype only works for C but not C++.
-- It does not track pointers cast integers.
+- It does not track pointers cast integers. Again, this is a limitation shared
+  by most related works.
+- It did not measure memory overhead. Based on all the data structures it
+  uses and the minimum object size (32 byte) for easy shadow memory,
+  the memory overhead should be very high. I bet the geo. mean on SPEC06
+  would be at least 3x.
 
 ### What are other solutions and what are the most relevant works?
 Mostly related:
