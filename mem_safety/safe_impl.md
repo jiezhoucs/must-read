@@ -104,6 +104,7 @@ Pointers](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_4_2.pdf)
 
 [EuroSys'17] [DangSan: Scalable Use-after-free
 Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
+[[note](../notes/mem_safety/safe_impl/2017-DangSan-EuroSys17.md)]
 
 [PLDI'17] [Simple, Fast and Safe Manual Memory
 Management](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/kedia2017mem.pdf)
