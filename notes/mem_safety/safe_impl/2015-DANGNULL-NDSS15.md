@@ -39,8 +39,8 @@ Besides, it removes all its out-bound pointers from the in-bound tree of
 the objects to which these out-bound pointers point.
 
 ### What are the strengths of this paper?
-- The algorithm of instrumenting the code is relatively straightforward
-  and easy to follow.
+- ~~The algorithm of instrumenting the code is relatively straightforward
+  and easy to follow.~~
 - The evaluation is strong: it evaluates DANGNULL on SPEC2006 and Chromium, and
   it breaks down their implementation to see how much impact each component
   brings.
