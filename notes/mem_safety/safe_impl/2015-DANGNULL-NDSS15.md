@@ -53,7 +53,10 @@ the objects to which these out-bound pointers point.
   intuitively but lacks convincing scientific evidence.
 - Both the performance overhead and memory overhead are high for
   pointer-intensive programs. The performance average overhead is 80% on SPEC
-  with the highest more than 400%. The highest memory overhead is over 10x
+  with the highest more than 400%. It doesn't report all memory overhead.
+  For the two benchmarks reported, their memory overhead are 213% and 472%.
+  It's not clear how they measured it and whether its maximum or average
+  memory usage.
   Note that this the overhead from only tracking pointers living on the heap.
   As result, they did not track any pointers for 9 out of 16 SPEC benchmarks
   (Table V).
