@@ -115,6 +115,7 @@ Allocator](https://dl.acm.org/doi/10.1145/3133956.3133957)
 [CCS'18] [A Robust and Efficient Defense against Use-after-Free Exploits
 via Concurrent Pointer
 Sweeping](https://www.eecis.udel.edu/~hnw/paper/ccs18.pdf)
+[[note](../notes/mem_safety/safe_impl/2018-pSweeper-CCS18.md)]
 
 [Internetware'18] [DangDone: Eliminating Dangling Pointers via Intermediate
 Pointers](https://dl.acm.org/doi/abs/10.1145/3275219.3275231)
