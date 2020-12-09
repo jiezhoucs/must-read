@@ -126,6 +126,9 @@ Multi-Level Pointers](https://ieeexplore.ieee.org/document/8675929)
 [Oakland'20] [MarkUs: Drop-in use-after-free prevention for low-level
 languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
 
+[ACSAC'20] [HeapExpo: Pinpointing Promoted Pointers to Prevent Use-After-Free
+Vulnerabilities](http://moyix.net/~moyix/papers/heapexpo.pdf)
+
 ## Secure Memory Allocator
 [PLDI'06] [DieHard: Probabilistic Memory Safety for Unsafe
 Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs)
