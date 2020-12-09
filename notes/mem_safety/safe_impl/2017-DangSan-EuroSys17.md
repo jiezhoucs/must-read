@@ -39,7 +39,7 @@ from the METAlloc paper.
 
 **pointer logger**: it keeps track of all the pointers to their pointee on
 a per-thread view. Whenever a pointer is updated (excluding certain cases
-such as simple pointer arithmetic on the same pointer), it is register in
+such as simple pointer arithmetic on the same pointer), it is registered in
 the logger. When an object is freed, a function `invalptrs()` walks through the
 log invalidates all valid pointers. It invalidates a pointer by setting
 the most significant bit to 1.
