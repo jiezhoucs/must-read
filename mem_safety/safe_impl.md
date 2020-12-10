@@ -128,6 +128,7 @@ languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
 
 [ACSAC'20] [HeapExpo: Pinpointing Promoted Pointers to Prevent Use-After-Free
 Vulnerabilities](http://moyix.net/~moyix/papers/heapexpo.pdf)
+[[note](../notes/mem_safety/safe_impl/2020-HeapExpo-ACSAC20.md)]
 
 ## Secure Memory Allocator
 [PLDI'06] [DieHard: Probabilistic Memory Safety for Unsafe
