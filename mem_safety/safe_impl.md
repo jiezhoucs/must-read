@@ -123,6 +123,12 @@ Pointers](https://dl.acm.org/doi/abs/10.1145/3275219.3275231)
 [IEEE Access'19] [Mpchecker: Use-After-Free Vulnerabilities Protection Based on
 Multi-Level Pointers](https://ieeexplore.ieee.org/document/8675929)
 
+[NDSS'19] [CRCount: Pointer Invalidation with Reference Counting to Mitigate
+Use-after-free in Legacy
+C/C++](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_05A-4_Shin_paper.pdf)
+[[note](../notes/mem_safety/safe_impl/2019-CRCount-NDSS19.md)]
+
+
 [Oakland'20] [MarkUs: Drop-in use-after-free prevention for low-level
 languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
 
