@@ -35,3 +35,7 @@ Compilation](http://theory.stanford.edu/~mp/mp/Publications_files/main-full.pdf)
 [CSF'19] [Journey Beyond Full Abstraction Exploring Robust Property Preservation
 for Secure
 Compilation](https://theory.stanford.edu/~mp/mp/Publications_files/rc.pdf)
+
+## Rust
+[PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
+Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
