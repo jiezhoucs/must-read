@@ -36,6 +36,10 @@ Compilation](http://theory.stanford.edu/~mp/mp/Publications_files/main-full.pdf)
 for Secure
 Compilation](https://theory.stanford.edu/~mp/mp/Publications_files/rc.pdf)
 
+## CGO
+[PLDI'00] [Dynamo: A Transparent Dynamic Optimization
+System](https://www.complang.tuwien.ac.at/andi/bala.pdf)
+
 ## Rust
 [PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
 Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
