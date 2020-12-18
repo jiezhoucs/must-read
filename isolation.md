@@ -3,6 +3,11 @@
 [CCS'10] [Robusta: Taming the Native Beast of the
 JVM](http://www.cse.psu.edu/~gxt29/papers/robusta.pdf)
 
+[CCS'11] [Combining control-flow integrity and static analysis for efficient and
+validated data
+sandboxing](https://dash.harvard.edu/bitstream/handle/1/9943234/Zeng_CombiningControlFlow.pdf?sequence=1&isAllowed=y)
+
+
 [PLDI'16] [A Design and Verification Methodology for Secure Isolated
 Regions](https://people.eecs.berkeley.edu/~sseshia/pubdir/pldi16.pdf)
 
