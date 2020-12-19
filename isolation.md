@@ -7,6 +7,8 @@ JVM](http://www.cse.psu.edu/~gxt29/papers/robusta.pdf)
 validated data
 sandboxing](https://dash.harvard.edu/bitstream/handle/1/9943234/Zeng_CombiningControlFlow.pdf?sequence=1&isAllowed=y)
 
+[CCS'15] [Thwarting Memory Disclosure with Efficient Hypervisor-enforced
+Intra-domain Isolation](https://ipads.se.sjtu.edu.cn/_media/publications/secage-ccs15.pdf)
 
 [PLDI'16] [A Design and Verification Methodology for Secure Isolated
 Regions](https://people.eecs.berkeley.edu/~sseshia/pubdir/pldi16.pdf)
