@@ -36,6 +36,9 @@ Stack](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/osr20
 [SOSP'09] [seL4: Formal Verification of an OS
 Kernel](https://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf)
 
+[PLDI'10] [Safe to the Last Instruction: Automated Verification of a Type-Safe
+Operating System](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/pldi117-yang.pdf)
+
 [APSys'11] [Linux kernel vulnerabilities: State-of-the-art defenses and open
 problems](https://pdos.csail.mit.edu/papers/chen-kbugs.pdf)
 
