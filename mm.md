@@ -15,6 +15,9 @@ Garbage-Collector-Safety](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.
 [PLDI'98] [The Design and Implementation of a Certifying
 Compiler](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.739.9675&rep=rep1&type=pdf)
 
+[PLDI'98] [Memory Management with Explicit
+Regions](https://theory.stanford.edu/~aiken/publications/papers/pldi98a.ps)
+
 [ISMM'00] [On the Type Accuracy of Garbage
 Collection](https://www.cs.purdue.edu/homes/hosking/ismm2000/papers/hirzel.pdf)
 
