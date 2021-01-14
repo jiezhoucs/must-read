@@ -37,6 +37,10 @@ Rust-SGX](https://dl.acm.org/doi/pdf/10.1145/3319535.3354241)
 TrustZone-assisted TEE
 Systems](https://www.cs.purdue.edu/homes/pfonseca/papers/sp2020-tees.pdf)
 
+[ICSE-SEIP'20] [Building and Maintaining a Third-Party Library Supply Chain
+for Productive and Secure SGX Enclave
+Development](https://arxiv.org/pdf/2005.04367.pdf)
+
 
 # Compartmentalization
 
