@@ -30,6 +30,9 @@ Libraries](https://www.usenix.org/system/files/atc19-hedayati-hodor.pdf)
 [TR] [A Memory Encryption Engine Suitable for General Purpose
 Processors](https://eprint.iacr.org/2016/204.pdf)
 
+[CCS'19] [Towards Memory Safe Enclave Programming with
+Rust-SGX](https://dl.acm.org/doi/pdf/10.1145/3319535.3354241)
+
 [Oakland'20] [SoK: Understanding the Prevailing Security Vulnerabilities in
 TrustZone-assisted TEE
 Systems](https://www.cs.purdue.edu/homes/pfonseca/papers/sp2020-tees.pdf)
