@@ -9,9 +9,6 @@ reliability](https://www.computer.org/csdl/journal/ts/1986/01/06312929/13rRUwIF6
 [ACMToPLS'91] [Dynamic Typing in a Statically Typed
 Language](https://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-47.pdf)
 
-[OOPSLA'18] [Reconciling High-Level Optimizations and Low-Level Code in
-LLVM](https://www.cs.utah.edu/~regehr/oopsla18.pdf)
-
 ## Secure Compilation
 [ICALP'98] [Protection in Programming-Language
 Translations](https://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-154.pdf)
