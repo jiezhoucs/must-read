@@ -47,6 +47,7 @@ Checking](http://seclab.cs.sunysb.edu/seclab/pubs/lbc.pdf)
 
 [ATC'12] [AddressSanitizer: A Fast Address Sanity
 Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
+[[notes](../notes/mem_safety/safe_impl/2012-ASan-ATC12.md)]
 
 [SPE'13] [MemSafe: ensuring the spatial and temporal memory safety ofC at
 runtime](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2105)
