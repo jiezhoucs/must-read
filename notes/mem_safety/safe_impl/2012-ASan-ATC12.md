@@ -57,7 +57,22 @@ regions by putting them into quarantine.
 **temporal memory safety**: A dangling pointer can access a reallocated memory
 region after it is released from the quarantine space.
 
+ASan works fine for testing, but is not suitable for being deployed in
+production software because of all the high overhead. On SPEC CPU2006,
+- 73% performance overhead; up to 2.67x slowdown (`483.xalancbmk`).
+- 3.37x memory overhead; up to 24.55x (`453.povray`).
+- 2.5x binary size increase; up to 3.2x.
+
+### What makes this paper publishable?
+- Efficient mapping and encoding of shadow memory. The performance overhead
+  is not ideal but lower than others tools. For example, Valgrind slow down
+  SPEC CPU2006 by 20x.
+- It found many bugs in large real-world programs.
+
 ### What are other solutions and what are the most relevant works?
+- Valgrind
+- Dr. Memory
+- Mudflap
 
 #### Related links
 
@@ -66,3 +81,6 @@ region after it is released from the quarantine space.
 ### What is the take-away message from this paper?
 
 ### Other comments
+The paper talks about "stack unwinding" for `malloc` and `free`(the first
+paragraph of Section 4 and the first point of Section 4.3). I don't
+understand what this is for.
