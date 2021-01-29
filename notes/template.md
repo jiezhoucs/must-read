@@ -12,6 +12,8 @@
 
 ### What are the limitations and weaknesses of this paper?
 
+### What makes this paper publishable?
+
 ### What are other solutions and what are the most relevant works?
 
 #### Related links
