@@ -94,6 +94,9 @@ Probability](https://people.cs.umass.edu/~emery/pubs/pldi028-novark.pdf)
 [ISMM'10] [CETS: Compiler-Enforced Temporal Safety for
 C](http://www.cis.upenn.edu/acg/papers/ismm10_cets.pdf)
 
+[Sec'10] [Cling: A Memory Allocator to Mitigate Dangling
+Pointers](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.8557&rep=rep1&type=pdf)
+
 [NDSS'15] [Preventing Use-after-free with Dangling Pointers
 Nullification](https://wenke.gtisc.gatech.edu/papers/dangnull.pdf)
 [[note](../notes/mem_safety/safe_impl/2015-DANGNULL-NDSS15.md)]
