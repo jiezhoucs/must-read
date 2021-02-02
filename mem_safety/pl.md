@@ -13,11 +13,17 @@ Software](https://www.microsoft.com/en-us/research/wp-content/uploads/2001/05/pl
 C](http://trevorjim.com/papers/usenix2002.pdf)
 [[note](../notes/mem_safety/pl/cyclone.md)]
 
+[POPL'02] [CCured: Type-Safe Retrofitting of Legacy
+Code](http://scottmcpeak.com/papers/ccured_popl02.pdf)
+
 [PLDI'02] [Region-Based Memory Management in
 Cyclone](https://www.cs.umd.edu/projects/cyclone/papers/cyclone-regions.pdf)
 
 [CASES'02] [Ensuring Code Safety Without Runtime Checks for Real-Time Control
 Systems](https://llvm.org/pubs/2002-08-08-CASES02-ControlC.pdf)
+
+[TOPLAS'05] [CCured: Type-Safe Retrofitting of Legacy
+Software](http://people.eecs.berkeley.edu/~necula/Papers/ccured_toplas.pdf)
 
 [Elsevier SCP'06] [Safe manual memory management in
 Cyclone](https://reader.elsevier.com/reader/sd/pii/S0167642306000785?token=50E40602712027DF44A72D4207EECF49F411C516D3C9A952ED2E8DC5A2ACC14EC4B3B614B6BFC859FA91124BF1203DD5)
