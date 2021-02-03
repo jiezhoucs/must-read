@@ -18,6 +18,10 @@ Compiler](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.739.9675&rep=
 [PLDI'98] [Memory Management with Explicit
 Regions](https://theory.stanford.edu/~aiken/publications/papers/pldi98a.ps)
 
+[ATC'98] [malloc(3)
+Revisited](https://www.usenix.org/conference/1998-usenix-annual-technical-conference/malloc3-revisited)
+[[note](notes/mm/1998-mallocRevisited-ATC98.md)]
+
 [ISMM'00] [On the Type Accuracy of Garbage
 Collection](https://www.cs.purdue.edu/homes/hosking/ismm2000/papers/hirzel.pdf)
 
