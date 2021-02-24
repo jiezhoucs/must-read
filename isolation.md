@@ -26,6 +26,9 @@ Libraries](https://www.usenix.org/system/files/atc19-hedayati-hodor.pdf)
 [USS'19] [ERIM: Secure, Efficient In-process Isolation with Protection Keys
 (MPK)](https://www.usenix.org/system/files/sec19-vahldiek-oberwagner_0.pdf)
 
+[Sec'20] [PKU Pitfalls: Attacks on PKU-based Memory Isolation
+Systems](https://www.usenix.org/conference/usenixsecurity20/presentation/connor)
+
 [;login:20winter] [The Road to Less Trusted Code Lowering the Barrier to
 In-Process
 Sandboxing](https://www.usenix.org/system/files/login/articles/login_winter20_04_garfinkel-tal.pdf)
