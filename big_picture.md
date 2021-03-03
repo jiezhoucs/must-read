@@ -3,6 +3,9 @@
 [1965] [Programming Semantics for Multiprogrammed
 Computations](https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/ProgramSemantics_DennisvanHorn.pdf)
 
+[CACM'70] [The Nucleus of a Multiprogramming
+System](https://www.classes.cs.uchicago.edu/archive/2020/winter/33100-1/papers/nucleus.pdf)
+
 [1984] [Reflections on Trusting
 Trust](http://inst.eecs.berkeley.edu/~cs161/fa08/papers/p761-thompson.pdf)
 
