@@ -54,6 +54,9 @@ Kernels](https://www.usenix.org/system/files/conference/osdi16/osdi16-gu.pdf)
 Study of Double Fetches in the Linux
 Kernel](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang.pdf)
 
+[APSys'17] [The Case for Writing a Kernel in
+Rust](https://www.cs.virginia.edu/~bjc8c/papers/levy17rustkernel.pdf)
+
 [Oakland'18] [Precise and Scalable Detection of Double-Fetch Bugs in OS
 Kernels](https://gts3.org/assets/papers/2018/xu:deadline.pdf)
 

@@ -1,5 +1,7 @@
 # Memory Region Isolation
 
+## Software-based Isolation
+
 [CCS'10] [Robusta: Taming the Native Beast of the
 JVM](http://www.cse.psu.edu/~gxt29/papers/robusta.pdf)
 
@@ -32,6 +34,10 @@ Systems](https://www.usenix.org/conference/usenixsecurity20/presentation/connor)
 [;login:20winter] [The Road to Less Trusted Code Lowering the Barrier to
 In-Process
 Sandboxing](https://www.usenix.org/system/files/login/articles/login_winter20_04_garfinkel-tal.pdf)
+
+## Hardware-based Isolation
+[ISCA'14] [CODOMs: Protecting Software with Code-centric Memory
+Domains](https://yoav.net.technion.ac.il/files/2016/05/CODOMS-HW-ISCA2014.pdf)
 
 ## Trusted Execution Environment (TEE)
 [TR] [A Memory Encryption Engine Suitable for General Purpose
