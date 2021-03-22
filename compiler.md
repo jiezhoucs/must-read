@@ -18,3 +18,6 @@ Law](https://arxiv.org/pdf/2002.11054.pdf)
 ## General
 [SPW'15] [The Correctness-Security Gap in Compiler
 Optimization](https://people.eecs.berkeley.edu/~dawnsong/papers/The%20Correctness-Security%20Gap%20in%20Compiler%20Optimization_may%202015.pdf)
+
+[PLAS'17] [Compiler Optimizations with Retrofitting Transformations: Is there a
+Semantic Mismatch?](https://www.cs.rutgers.edu/~santosh.nagarakatte/papers/plas2017.pdf)
