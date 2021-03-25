@@ -19,6 +19,9 @@ Deletion](https://oaklandsok.github.io/papers/reardon2013.pdf)
 [Oakland'14] [SoK: Automated Software
 Diversity](https://www.ics.uci.edu/~perl/automated_software_diversity.pdf) 
 
+[AsiaBSDCon'17] [Everything you ever wanted to know about “hello, world”*
+(*but were afraid to ask.)](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
+
 [Sec'20] [Understanding security mistakes developers make: Qualitative analysis
 from Build It, Break It, Fix
 It](https://www.usenix.org/conference/usenixsecurity20/presentation/votipka-understanding)
