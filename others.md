@@ -97,3 +97,10 @@ Cars](https://www.computer.org/csdl/proceedings-article/sp/2020/349700b129/1i0rI
 ## Memory Encryption
 [CSUR'14] [Memory encryption: A survey of existing
 techniques](https://dl.acm.org/doi/10.1145/2566673)
+
+## Evaluation & Measurement
+[ASPLOS'09] [Producing Wrong Data Without Doing Anything Obviously
+Wrong!](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.207.4105&rep=rep1&type=pdf)
+
+[ASPLOS'13] [STABILIZER: Statistically Sound Performance
+Evaluation](https://dl.acm.org/doi/pdf/10.1145/2490301.2451141)
