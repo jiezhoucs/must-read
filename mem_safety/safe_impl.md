@@ -72,6 +72,9 @@ Read Vulnerabilities](https://download.vusec.net/papers/safeinit_ndss17.pdf)
 [EuroSec'17] [Fast and Generic Metadata Management with Mid-Fat
 Pointers](https://www.cs.vu.nl/~giuffrida/papers/midfat_eurosec17.pdf)
 
+[AsiaCCS'17] [DataShield: Configurable Data Confidentiality and
+Integrity](https://nebelwelt.net/publications/files/17AsiaCCS.pdf)
+
 [USS'17] [Venerable Variadic Vulnerabilities
 Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
 
