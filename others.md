@@ -104,3 +104,10 @@ Wrong!](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.207.4105&rep=re
 
 [ASPLOS'13] [STABILIZER: Statistically Sound Performance
 Evaluation](https://dl.acm.org/doi/pdf/10.1145/2490301.2451141)
+
+[ASPLOS'13] [Why You Should Care About Quantile
+Regression](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41873.pdf)
+
+[TOPLAS'16] [The Truth, The Whole Truth, and Nothing But the Truth: A Pragmatic
+Guide to Assessing Empirical
+Evaluations](https://dl.acm.org/doi/10.1145/2451116.2451140)
