@@ -42,6 +42,9 @@ Programs](https://www.cs.cmu.edu/~diw3/papers/WangHR17.pdf)
 [CGO'19] [Function Merging by Sequence
 Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmergesequencealign_cgo2019.pdf)
 
+[ASPLOS'21] [Who’s Debugging the Debuggers? Exposing Debug Information Bugs in
+Optimized Binaries](https://download.vusec.net/papers/debug2_asplos21.pdf)
+
 
 ## Pointer Analysis
 [POPL'90] [Pointer-induced Aliasing: A Problem
