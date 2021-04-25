@@ -43,6 +43,9 @@ Environment](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201904-asplos
 Capabilities for Temporal Memory
 Safety](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201910micro-cheri-temporal-safety.pdf)
 
+[Sec'20] [PAC it up: Towards Pointer Integrity using ARM Pointer
+Authentication](https://www.usenix.org/system/files/sec19-liljestrand_0.pdf)
+
 [Oakland'20] [Cornucopia: Temporal Safety for CHERI
 Heaps](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/2020oakland-cornucopia.pdf)
 
