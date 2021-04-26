@@ -45,6 +45,10 @@ Alignment](http://homepages.inf.ed.ac.uk/hleather/publications/2019_functionmerg
 [ASPLOS'21] [Who’s Debugging the Debuggers? Exposing Debug Information Bugs in
 Optimized Binaries](https://download.vusec.net/papers/debug2_asplos21.pdf)
 
+[DAC'21] [Towards Reliable Spatial Memory Safety for Embedded Software by
+Combining Checked C with Concolic
+Testing](http://www.informatik.uni-bremen.de/agra/doc/konf/DAC-2021-CheckedC-Concolic-Testing.pdf)
+
 
 ## Pointer Analysis
 [POPL'90] [Pointer-induced Aliasing: A Problem
