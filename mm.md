@@ -37,6 +37,9 @@ Memory Management](https://people.cs.umass.edu/~emery/pubs/gcvsmalloc.pdf)
 [ISMM'07] [Safe Manual Memory
 Management](https://dl.acm.org/doi/pdf/10.1145/1296907.1296911?casa_token=eYixiMgIfe4AAAAA:5oza6iJATPQhf_evLytZ3QIuPBg5I68Zq3jA3HhkmobST3HpQO51BatP_h_ijD3ZeRMa3y-ScsD4)
 
+[ISMM'09] [Precise Garbage Collection for
+C](https://www.cs.utah.edu/~regehr/papers/ismm15-rafkind.pdf)
+
 [CGO'10] [Umbra: Efficient and Scalable Memory
 Shadowing](http://groups.csail.mit.edu/commit/papers/2010/zhao-cgo10-umbra.pdf)
 
