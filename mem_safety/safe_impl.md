@@ -10,6 +10,9 @@ Errors](https://web.eecs.umich.edu/~taustin/papers/PLDI94-safec.pdf)
 programs](https://www.doc.ic.ac.uk/~phjk/Publications/BoundsCheckingForC.pdf)
 [[note](../notes/mem_safety/safe_impl/1997-J_K_Bounds_Check-AADEBUG97.md)]
 
+[FSE'03] [Protecting C Programs from Attacks via Invalid Pointer
+Dereferences](http://groups.csail.mit.edu/pag/data/OLD/reading-group/yong03protecting.ps)
+
 [FSE'04] [An Efficient and Backwards-Compatible Transformation to Ensure Memory
 Safety of C
 Programs](http://www.sis.pitt.edu/jjoshi/courses/IS2620/Spring09/Xu.pdf)
