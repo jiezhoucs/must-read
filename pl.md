@@ -44,6 +44,9 @@ Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
 [ICSE'20] [Is Rust Used Safely by Software
 Developers?](https://dl.acm.org/doi/abs/10.1145/3377811.3380413)
 
+[ICSE'20] [Securing UnSafe Rust Programs with
+XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf)
+
 [OOPSLA'20] [How Do Programmers Use Unsafe
 Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummers20.pdf)
 
