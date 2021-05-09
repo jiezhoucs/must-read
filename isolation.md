@@ -10,7 +10,10 @@ validated data
 sandboxing](https://dash.harvard.edu/bitstream/handle/1/9943234/Zeng_CombiningControlFlow.pdf?sequence=1&isAllowed=y)
 
 [CCS'15] [Thwarting Memory Disclosure with Efficient Hypervisor-enforced
-Intra-domain Isolation](https://ipads.se.sjtu.edu.cn/_media/publications/secage-ccs15.pdf)
+Intra-domain Isolation](https://dl.acm.org/doi/10.1145/2810103.2813690)
+
+[Oakland'16] [Shreds: Fine-grained Execution Units with Private
+Memory](https://www.longlu.org/publication/chen-2016/chen-2016.pdf)
 
 [PLDI'16] [A Design and Verification Methodology for Secure Isolated
 Regions](https://people.eecs.berkeley.edu/~sseshia/pubdir/pldi16.pdf)
