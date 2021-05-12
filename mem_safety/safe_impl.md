@@ -149,6 +149,10 @@ languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
 Vulnerabilities](http://moyix.net/~moyix/papers/heapexpo.pdf)
 [[note](../notes/mem_safety/safe_impl/2020-HeapExpo-ACSAC20.md)]
 
+[Oakland'21] [DynPTA: Combining Static and Dynamic Analysis for Practical
+Selective Data
+Protection](https://www3.cs.stonybrook.edu/~mikepo/papers/dynpta.sp21.pdf)
+
 ## Secure Memory Allocator
 [PLDI'06] [DieHard: Probabilistic Memory Safety for Unsafe
 Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs)
