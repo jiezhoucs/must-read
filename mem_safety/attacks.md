@@ -1,7 +1,5 @@
 # Attacks and Security Evaluation
 
-## Code Reuse Attacks: ret2libc and Return-Oriented Programming (ROP)
-
 [Phrack'07] [The advanced return-into-lib(c)
 exploits](http://hamsa.cs.northwestern.edu/media/readings/advanced_libc.pdf)
 
@@ -47,6 +45,9 @@ Later](http://vvdveen.com/publications/newton.pdf)
 
 [SecDev'18] [There’s a Hole in the Bottom of the C: On the Effectiveness
 of Allocation Protection](http://web.mit.edu/ha22286/www/papers/SecDev18.pdf)
+
+[WOOT'21] [Identifying Valuable Pointers in Heap
+Data](https://mickens.seas.harvard.edu/files/mickens/files/memory_cartography.pdf)
 
 
 ## Temporal Memory Safety Related
