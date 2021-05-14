@@ -24,6 +24,9 @@ Programs](http://www.sis.pitt.edu/jjoshi/courses/IS2620/Spring09/Xu.pdf)
 Detector](https://suif.stanford.edu/papers/tunji04.pdf)
 [[notes](../notes/mem_safety/safe_impl/2004-CRED-NDSS04.md)]
 
+[SPACE'04] [Bounds-Checking Entire Programs without
+Recompiling](http://forskning.diku.dk/topps/space2004/space_final/nethercote-fitzhardinge.pdf)
+
 [ACSAC'04] [A Dynamic Technique for Eliminating Buffer Overflow Vulnerabilities
 (and Other Memory Errors)](https://www.acsac.org/2004/papers/98.pdf)
 
