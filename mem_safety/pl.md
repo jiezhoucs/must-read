@@ -1,4 +1,4 @@
-# Safer C and Language-based Techniques
+# Safer C/C++ and Language-based Techniques
 
 [IEEEToSE'85] [Making Pointers Safe in System Programming
 Languages](https://ieeexplore-ieee-org.ezp.lib.rochester.edu/stamp/stamp.jsp?tp=&arnumber=1701901)
@@ -42,6 +42,9 @@ Attacks](https://www.cs.princeton.edu/~dpw/papers/yarra-csf11.pdf)
 
 [TISSEC'13] [Bringing Java’s Wild Native World under
 Control](http://delivery.acm.org/10.1145/2540000/2535505/a9-sun.pdf?ip=66.24.201.76&id=2535505&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1556129280_0a5924a20764886e4b39ea8c83eacdd9)
+
+[OOPSLA'13] [Ironclad C++ A Library-Augmented Type-Safe Subset of
+C++](https://dl.acm.org/doi/abs/10.1145/2544173.2509550)
 
 [PLDI'15] [Defining the Undefinedness of
 C](http://fsl.cs.illinois.edu/FSL/papers/2015/hathhorn-ellison-rosu-2015-pldi/hathhorn-ellison-rosu-2015-pldi-public.pdf)
