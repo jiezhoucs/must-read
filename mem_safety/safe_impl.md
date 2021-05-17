@@ -61,6 +61,9 @@ Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
 [SPE'13] [MemSafe: ensuring the spatial and temporal memory safety ofC at
 runtime](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2105)
 
+[ISSRE'14] [WPBOUND: Enforcing Spatial Memory Safety Efficiently at Runtime
+with Weakest Preconditions](http://www.cse.unsw.edu.au/~jingling/papers/issre14.pdf)
+
 [PLAS'15] [Memory-safe Execution of C on a Java
 VM](https://chrisseaton.com/plas15/safec.pdf)
 
