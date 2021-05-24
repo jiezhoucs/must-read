@@ -29,3 +29,6 @@ Free](http://people.cs.vt.edu/~dongyoon/papers/ASPLOS-19-BOGO.pdf)
 
 [ECRTS'19] [Control-Flow Integrity for Real-Time Embedded
 Systems](http://drops.dagstuhl.de/opus/volltexte/2019/10739/pdf/LIPIcs-ECRTS-2019-2.pdf)
+
+[Oakland'21] [When Function Signature Recovery Meets Compiler
+Optimization](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1mbmHtHLPAA/pdf)
