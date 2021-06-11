@@ -41,6 +41,9 @@ Compilation](https://theory.stanford.edu/~mp/mp/Publications_files/rc.pdf)
 System](https://www.complang.tuwien.ac.at/andi/bala.pdf)
 
 ## Rust
+[HotOS'17] [System Programming in Rust: Beyond
+Safety](https://www.ics.uci.edu/~aburtsev/doc/crust-hotos17.pdf)
+
 [PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
 Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
 
