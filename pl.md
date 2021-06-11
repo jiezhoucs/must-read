@@ -44,6 +44,8 @@ System](https://www.complang.tuwien.ac.at/andi/bala.pdf)
 [HotOS'17] [System Programming in Rust: Beyond
 Safety](https://www.ics.uci.edu/~aburtsev/doc/crust-hotos17.pdf)
 
+[CODASPY'18] [Fidelius Charm: Isolating Unsafe Rust Code](https://almohri.io/papers/fc.pdf)
+
 [PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
 Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
 
