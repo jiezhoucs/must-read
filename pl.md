@@ -58,6 +58,9 @@ XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf)
 [OOPSLA'20] [How Do Programmers Use Unsafe
 Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummers20.pdf)
 
+[arXiv'20] [Memory-Safety Challenge Considered Solved? An In-Depth Study with
+All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
+
 ## Others
 [OOPSLA'15] [Use at Your Own Risk: The Java Unsafe API in the
 Wild](https://dl.acm.org/doi/10.1145/2814270.2814313)
