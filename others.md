@@ -43,8 +43,8 @@ Behavior](https://people.csail.mit.edu/nickolai/papers/wang-stack.pdf)
 
 ## Privilege Isolation
 
-[USS'03] [Prevent Privilege
-Escalation](http://www.citi.umich.edu/u/provos/papers/privsep.pdf) 
+[USS'03] [Preventing Privilege
+Escalation](https://www.usenix.org/legacy/events/sec03/tech/full_papers/provos_et_al/provos_et_al.pdf)
 
 [USS'03] [Improving Host Security with System Call
 Policies](https://www.usenix.org/legacy/event/sec03/tech/full_papers/provos/provos.pdf)
@@ -83,6 +83,9 @@ Vector](https://www.cs.vu.nl/~herbertb/download/papers/dedup-est-machina_sp16.pd
 
 [USS'18] [Shielding Software from Privileged Side-Channel Attacks
 ](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-dong.pdf) 
+
+[Sec'19] [A Systematic Evaluation of Transient Execution Attacks and
+Defenses](https://www.usenix.org/conference/usenixsecurity19/presentation/canella)
 
 
 ## Web Security
