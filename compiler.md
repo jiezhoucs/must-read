@@ -24,3 +24,6 @@ Optimization](https://people.eecs.berkeley.edu/~dawnsong/papers/The%20Correctnes
 
 [PLAS'17] [Compiler Optimizations with Retrofitting Transformations: Is there a
 Semantic Mismatch?](https://www.cs.rutgers.edu/~santosh.nagarakatte/papers/plas2017.pdf)
+
+[PLDI'21] [Unleashing the Hidden Power of Compiler Optimization on Binary Code
+Difference: An Empirical Study](https://dl.acm.org/doi/10.1145/3453483.3454035)
