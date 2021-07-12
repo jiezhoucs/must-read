@@ -159,6 +159,9 @@ Vulnerabilities](http://moyix.net/~moyix/papers/heapexpo.pdf)
 Selective Data
 Protection](https://www3.cs.stonybrook.edu/~mikepo/papers/dynpta.sp21.pdf)
 
+[ISSTA'21] [UAFSan: An Object-Identifier-Based Dynamic Approach for Detecting
+Use-After-Free Vulnerabilities](https://dl.acm.org/doi/abs/10.1145/3460319.3464835)
+
 ## Secure Memory Allocator
 [PLDI'06] [DieHard: Probabilistic Memory Safety for Unsafe
 Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs)
