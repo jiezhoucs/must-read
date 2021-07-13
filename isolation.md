@@ -38,6 +38,9 @@ Systems](https://www.usenix.org/conference/usenixsecurity20/presentation/connor)
 In-Process
 Sandboxing](https://www.usenix.org/system/files/login/articles/login_winter20_04_garfinkel-tal.pdf)
 
+[AsiaCCS'21] [Cali: Compiler-Assisted Library
+Isolation](https://publications.cispa.saarland/3382/1/CALI_compiler_assisted_library_isolation.pdf_
+
 ## Hardware-based Isolation
 [ISCA'14] [CODOMs: Protecting Software with Code-centric Memory
 Domains](https://yoav.net.technion.ac.il/files/2016/05/CODOMS-HW-ISCA2014.pdf)
