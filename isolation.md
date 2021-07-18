@@ -25,6 +25,9 @@ Applications](https://www.cs.purdue.edu/homes/hsu62/ccs16_smv.pdf)
 ARM](https://dl.acm.org/citation.cfm?id=3062267)
 [[note](notes/mem_safety/safe_impl/ildi_dac17.md)]
 
+[CCS'17] [PtrSplit: Supporting General Pointers in Automatic Program
+Partitioning](http://www.cse.psu.edu/~trj1/papers/ccs17.pdf)
+
 [ATC'19] [Hodor: Intra-Process Isolation for High-Throughput Data Plane
 Libraries](https://www.usenix.org/system/files/atc19-hedayati-hodor.pdf)
 
