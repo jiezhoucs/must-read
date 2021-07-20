@@ -41,6 +41,9 @@ Compilation](https://theory.stanford.edu/~mp/mp/Publications_files/rc.pdf)
 System](https://www.complang.tuwien.ac.at/andi/bala.pdf)
 
 ## Rust
+[PLOS'15] [Ownership is Theft: Experiences Building an Embedded OS in
+Rust](https://patpannuto.com/pubs/levy15ownership.pdf)
+
 [HotOS'17] [System Programming in Rust: Beyond
 Safety](https://www.ics.uci.edu/~aburtsev/doc/crust-hotos17.pdf)
 
