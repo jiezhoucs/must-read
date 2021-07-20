@@ -44,6 +44,9 @@ System](https://www.complang.tuwien.ac.at/andi/bala.pdf)
 [HotOS'17] [System Programming in Rust: Beyond
 Safety](https://www.ics.uci.edu/~aburtsev/doc/crust-hotos17.pdf)
 
+[PLOS'17] [Sandcrust: Automatic Sandboxing of Unsafe Components in
+Rust](https://www.lamowski.net/docs/plos2017-lamowski-rust-sandboxing-paper.pdf)
+
 [CODASPY'18] [Fidelius Charm: Isolating Unsafe Rust Code](https://almohri.io/papers/fc.pdf)
 
 [PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
