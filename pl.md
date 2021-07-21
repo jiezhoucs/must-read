@@ -55,6 +55,8 @@ Rust](https://www.lamowski.net/docs/plos2017-lamowski-rust-sandboxing-paper.pdf)
 
 [CODASPY'18] [Fidelius Charm: Isolating Unsafe Rust Code](https://almohri.io/papers/fc.pdf)
 
+[ISSREW'19] [Towards Rust for Critical Systems](https://ieeexplore.ieee.org/document/8990314)
+
 [PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
 Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
 
