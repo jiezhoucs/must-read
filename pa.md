@@ -4,6 +4,9 @@
 of Programs by Construction or Approximation of
 Fixpoints](https://courses.cs.washington.edu/courses/cse503/10wi/readings/p238-cousot.pdf)
 
+[TOPLAS'87] [The Program Dependence Graph and Its Use in
+Optimization](https://www.cs.utexas.edu/~pingali/CS395T/2009fa/papers/ferrante87.pdf)
+
 [ACMToPLS] [Efficient Computation of Interprocedural Definition-Use
 Chains](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8860&rep=rep1&type=pdf)
 
