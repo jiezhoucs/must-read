@@ -69,6 +69,9 @@ Hardening](https://www.utdallas.edu/~hamlen/xu18feast.pdf)
 [CCS'18] [Enforcing Unique Code Target Property for Control-Flow
 Integrity](https://www.cc.gatech.edu/~hhu86/papers/ucfi.pdf)
 
+[Sec'21] [VScape: Assessing and Escaping Virtual Call
+Protections](https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf)
+
 
 ## Sandboxing / Software Fault Isolation (SFI)
 
