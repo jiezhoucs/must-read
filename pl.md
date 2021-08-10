@@ -39,6 +39,10 @@ Compilation](http://theory.stanford.edu/~mp/mp/Publications_files/main-full.pdf)
 for Secure
 Compilation](https://theory.stanford.edu/~mp/mp/Publications_files/rc.pdf)
 
+## C
+[TOSE'08] [Modular Information Hiding and Type-Safe Linking for
+C](http://www.cs.umd.edu/~mwh/papers/cmod-journal.pdf)
+
 ## CGO
 [PLDI'00] [Dynamo: A Transparent Dynamic Optimization
 System](https://www.complang.tuwien.ac.at/andi/bala.pdf)
