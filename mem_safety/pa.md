@@ -46,3 +46,6 @@ Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-m
 
 [ICSE'18] [Spatio-Temporal Context Reduction: A Pointer-Analysis-Based
 Static Approach for Detecting Use-After-Free Vulnerabilities]https://yuleisui.github.io/publications/icse18a.pdf)
+
+[OSDI'21] [SANRAZOR: Reducing Redundant Sanitizer Checks in C/C++
+Programs](SANRAZOR: Reducing Redundant Sanitizer Checks in C/C++ Programs)
