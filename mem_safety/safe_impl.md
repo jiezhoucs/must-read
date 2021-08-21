@@ -174,3 +174,5 @@ Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)
 
 [Sec'18] [GUARDER: A Tunable Secure
 Allocator](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-silvestro.pdf)
+
+[ARES'21] [MESH: A Memory-Efficient Safe Heap for C/C++])(https://dl.acm.org/doi/pdf/10.1145/3465481.3465760)
