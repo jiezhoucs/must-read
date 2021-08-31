@@ -6,6 +6,9 @@ Computer](https://www.cs.utexas.edu/users/fussell/courses/cs352h/papers/risc.pdf
 [ICCD'17] [Efficient Tagged
 Memory](https://ieeexplore.ieee.org/document/8119285)
 
+## General
+[2007] [What Every Programmer Should Know About
+Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ## Non-volatile Memory
 
