@@ -63,9 +63,12 @@ Systems](https://www.cs.purdue.edu/homes/pfonseca/papers/sp2020-tees.pdf)
 for Productive and Secure SGX Enclave
 Development](https://arxiv.org/pdf/2005.04367.pdf)
 
-
-# Compartmentalization
+## Compartmentalization
 
 [NDSI'08] [Wedge: Splitting Applications into Reduced-Privilege
 Compartments])https://www.usenix.org/legacy/event/nsdi08/tech/full_papers/bittau/bittau.pdf)
+
+## Others
+[CCS'16] [The “Web/Local” Boundary Is Fuzzy: A Security Study of Chrome’s
+Process-based Sandboxing](https://www.comp.nus.edu.sg/~prateeks/papers/ChromeDOP.pdf_
 
