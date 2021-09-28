@@ -84,6 +84,9 @@ All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
 [SOUPS'21] [Benefits and Drawbacks of Adopting a Secure Programming Language:
 Rust as a Case Study](https://www.cs.umd.edu/~mwh/papers/rust-adoption.pdf)
 
+[OOPSLA'21] [Safer at Any Speed: Automatic Context-Aware Safety Enhancement for
+Rust](http://www.amitlevy.com/papers/nader-oopsla21.pdf)
+
 ## Others
 [OOPSLA'15] [Use at Your Own Risk: The Java Unsafe API in the
 Wild](https://dl.acm.org/doi/10.1145/2814270.2814313)
