@@ -32,3 +32,6 @@ Systems](http://drops.dagstuhl.de/opus/volltexte/2019/10739/pdf/LIPIcs-ECRTS-201
 
 [Oakland'21] [When Function Signature Recovery Meets Compiler
 Optimization](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1mbmHtHLPAA/pdf)
+
+[OOPSLA'21] [Not So Fast: Understanding and Mitigating Negative Impacts
+of Compiler Optimizations on Code Reuse Gadget Sets](https://dl.acm.org/doi/pdf/10.1145/3485531)
