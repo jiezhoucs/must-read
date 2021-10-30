@@ -87,6 +87,9 @@ Rust as a Case Study](https://www.cs.umd.edu/~mwh/papers/rust-adoption.pdf)
 [OOPSLA'21] [Safer at Any Speed: Automatic Context-Aware Safety Enhancement for
 Rust](http://www.amitlevy.com/papers/nader-oopsla21.pdf)
 
+[SOSP'21] [RUDRA: Finding Memory Safety Bugs in Rust at the Ecosystem
+Scale](https://dl.acm.org/doi/10.1145/3477132.3483570)
+
 ## Others
 [OOPSLA'15] [Use at Your Own Risk: The Java Unsafe API in the
 Wild](https://dl.acm.org/doi/10.1145/2814270.2814313)
