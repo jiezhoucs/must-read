@@ -84,6 +84,9 @@ All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
 [SOUPS'21] [Benefits and Drawbacks of Adopting a Secure Programming Language:
 Rust as a Case Study](https://www.cs.umd.edu/~mwh/papers/rust-adoption.pdf)
 
+[PLDI'21] [SyRust: Automatic Testing of Rust Libraries with Semantic-Aware
+Program Synthesis](https://dl.acm.org/doi/pdf/10.1145/3453483.3454084)
+
 [OOPSLA'21] [Safer at Any Speed: Automatic Context-Aware Safety Enhancement for
 Rust](http://www.amitlevy.com/papers/nader-oopsla21.pdf)
 
