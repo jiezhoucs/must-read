@@ -53,5 +53,8 @@ Safety](https://www.ics.uci.edu/~aburtsev/doc/crust-hotos17.pdf)
 [SLE'17] [Energy Efficiency across Programming
 Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/09/paperSLE.pdf)
 
+[PLDI'19] [Mesh: Compacting Memory Management for C/C++
+Applications](https://dl.acm.org/doi/10.1145/3314221.3314582)
+
 [OOPSLA'20] [Sound Garbage Collection for C using Pointer
 Provenance](https://dl.acm.org/doi/10.1145/3428244)
