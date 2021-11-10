@@ -166,6 +166,10 @@ Use-After-Free Vulnerabilities](https://dl.acm.org/doi/abs/10.1145/3460319.34648
 [PLDI'06] [DieHard: Probabilistic Memory Safety for Unsafe
 Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs)
 
+[EuroSys'08] [Samurai: Protecting Critical Data in Unsafe
+Languages] [paper](http://blogs.ubc.ca/karthik/files/2009/11/Eurosys-camera-ready.pdf)
+[related slides](https://www.microsoft.com/en-us/research/uploads/prod/2017/01/ndure-overview-12-06.pdf)
+
 [ASPLOS'08] [Archipelago: Trading Address Space for Reliability and
 Security](https://people.cs.umass.edu/~emery/pubs/asplos147-lvin.pdf)
 
