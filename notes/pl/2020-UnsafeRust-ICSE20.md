@@ -1,4 +1,4 @@
-# Title, Author(s), and Venue
+### Title, Author(s), and Venue
 [ICSE'20] **Is Rust Used Safely by Software Developers?**
 
 Ana Nora Evans, Bradford Campbell, and Mary Lou Soffa @UVA
@@ -10,6 +10,8 @@ Ana Nora Evans, Bradford Campbell, and Mary Lou Soffa @UVA
 It investigates how *unsafe Rust* is used by developed.
 
 ### Why is the problem important?
+Rust has proven to be an excellent and very promising alternative for C++ or
+even C. But it still has security flaws.
 
 ### What is this paper's solution to the problem?
 The paper focuses on analyzing call graphs of Rust programs to better understand
@@ -29,7 +31,7 @@ This paper asks several questions.
 
 1. **How much do developers use *Unsafe Rust***?
 It counts how many the `unsafe` keyword is used in four scenarios (block,
-function, trait, trait implementation).
+function, trait, and trait implementation).
 
 2. **How much of the Rust code is *Unsafe Rust***?
 This is the core question asked by this paper. A *Safe Rust* function may not be
@@ -110,26 +112,34 @@ respondents.
 - call a non-syscall external C function (45%)
 - call an unsafe Rust function (25%)
 - work with C-style pointers (25%)
-- work with SIMI intrinsics (5%)
+- work with SIMD intrinsics (5%)
 
 #### Core technique
 A extended call graph where each node contains not only the function, but a list
-of generic type parameters and type substitutions for whose when available.
+of generic type parameters and type substitutions for those when available.
 
 ### What are the strengths of this paper?
+- Worked on a potentially dangerous but not yet well-understood problem---how
+dangerous is encapsulated unsafety? This paper does not have a perfect answer
+for it but it makes good contributions in this direction.
 
 ### What are the limitations and weaknesses of this paper?
+- It assumes the Rust standard library is safe.
+- For the survey of why developers use unsafe Rust, there were only 20
+  respondents.
 
 ### What makes this paper publishable?
 There were no large-scale survey on how unsafe Rust was used by programs before
 this paper. (There are two related survey papers published at the same year.)
 
 ### What are other solutions and what are the most relevant works?
-
-#### Related links
+[PLDI'20] **Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs**
+[OPPSLA'20] **How Do Programmers Use Unsafe Rust?**
+[TOSEM'21] **Memory-Safety Challenge Considered Solved? An In-Depth Study with All Rust CVEs**
 
 ### Thing(s) that I like particularly about this paper.
 
 ### What is the take-away message from this paper?
+Unsafe Rust is used more often than ideal.
 
 ### Other comments
