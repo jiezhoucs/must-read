@@ -72,6 +72,9 @@ Rust](https://www.lamowski.net/docs/plos2017-lamowski-rust-sandboxing-paper.pdf)
 [ICSE'20] [Securing UnSafe Rust Programs with
 XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf)
 
+[ACSAC'21] [Keeping Safe Rust Safe with Galeed](http://web.mit.edu/ha22286/www/papers/ACSAC21.pdf)
+[[notes](notes/pl/2021-Galeed-ACSAC21.md)]
+
 #### Retrofit Memory Safety to Unsafe Rust
 [OOPSLA'21] [Safer at Any Speed: Automatic Context-Aware Safety Enhancement for
 Rust](http://www.amitlevy.com/papers/nader-oopsla21.pdf)
