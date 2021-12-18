@@ -4,8 +4,7 @@
 Inspection](https://www.cs.cornell.edu/fbs/publications/2000-1786.pdf)
 
 [WSS'00] [An Empirical Study of the Robustness of Windows NT Applications Using
-Random
-Testing](https://www.usenix.org/legacy/events/usenix-win2000/full_papers/forrester/forrester.pdf)
+Random Testing](https://www.usenix.org/legacy/events/usenix-win2000/full_papers/forrester/forrester.pdf)
 
 [TACO'08] [Virtual Machine Showdown: Stack Versus
 Registers](https://dl.acm.org/doi/pdf/10.1145/1328195.1328197)
@@ -21,6 +20,9 @@ Diversity](https://www.ics.uci.edu/~perl/automated_software_diversity.pdf)
 
 [AsiaBSDCon'17] [Everything you ever wanted to know about “hello, world”*
 (*but were afraid to ask.)](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
+
+[Sec'17] [Venerable Variadic Vulnerabilities
+Vanquished](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-biswas.pdf)
 
 [Sec'20] [Understanding security mistakes developers make: Qualitative analysis
 from Build It, Break It, Fix
@@ -40,22 +42,8 @@ KINT](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-88.pdf)
 [SOSP'13] [Towards Optimization-Safe Systems: Analyzing the Impact of Undefined
 Behavior](https://people.csail.mit.edu/nickolai/papers/wang-stack.pdf) 
 
-
-## Privilege Isolation
-
-[USS'03] [Preventing Privilege
-Escalation](https://www.usenix.org/legacy/events/sec03/tech/full_papers/provos_et_al/provos_et_al.pdf)
-
-[USS'03] [Improving Host Security with System Call
-Policies](https://www.usenix.org/legacy/event/sec03/tech/full_papers/provos/provos.pdf)
-
-[CCS'18] [Lord of the x86 Rings: A Portable User Mode Privilege
-Separation Architecture on
-x86](http://delivery.acm.org/10.1145/3250000/3243748/p1441-lee.pdf?ip=173.225.52.220&id=3243748&acc=ACTIVE%20SERVICE&key=7777116298C9657D%2EDC6AD36C640314EC%2E6B689847FE614015%2E4D4702B0C3E38B35&__acm__=1568052681_fb719f668be9339d1214087794f18289)
-
-
 ## Logic and Semantic Bugs
-[USS'16] [APISan: Sanitizing API Usages through Semantic
+[Sec'16] [APISan: Sanitizing API Usages through Semantic
 Cross-Checking](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_yun.pdf)
 
 

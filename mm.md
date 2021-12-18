@@ -34,11 +34,9 @@ Collection](https://www.researchgate.net/publication/314828995_Combining_region_
 [OOPSLA'05] [Quantifying the Performance of Garbage Collection vs. Explicit
 Memory Management](https://people.cs.umass.edu/~emery/pubs/gcvsmalloc.pdf)
 
-[ISMM'07] [Safe Manual Memory
-Management](https://dl.acm.org/doi/pdf/10.1145/1296907.1296911?casa_token=eYixiMgIfe4AAAAA:5oza6iJATPQhf_evLytZ3QIuPBg5I68Zq3jA3HhkmobST3HpQO51BatP_h_ijD3ZeRMa3y-ScsD4)
+[ISMM'07] [Safe Manual Memory Management](https://dl.acm.org/doi/10.1145/1296907.1296911)
 
-[ISMM'09] [Precise Garbage Collection for
-C](https://www.cs.utah.edu/~regehr/papers/ismm15-rafkind.pdf)
+[ISMM'09] [Precise Garbage Collection for C](https://www.cs.utah.edu/~regehr/papers/ismm15-rafkind.pdf)
 
 [CGO'10] [Umbra: Efficient and Scalable Memory
 Shadowing](http://groups.csail.mit.edu/commit/papers/2010/zhao-cgo10-umbra.pdf)
@@ -46,9 +44,6 @@ Shadowing](http://groups.csail.mit.edu/commit/papers/2010/zhao-cgo10-umbra.pdf)
 [EUROSEC'16] [METAlloc: Efficient and Comprehensive Metadata Management for
 Software Security
 Hardening](https://www.cs.vu.nl/~giuffrida/papers/eurosec-2016.pdf)
-
-[HotOS'17] [System Programming in Rust: Beyond
-Safety](https://www.ics.uci.edu/~aburtsev/doc/crust-hotos17.pdf)
 
 [SLE'17] [Energy Efficiency across Programming
 Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/09/paperSLE.pdf)

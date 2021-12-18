@@ -26,6 +26,9 @@ LLVM](https://gh-posters.dgzedp99wf8of.amplifyapp.com/pldi21main-p30-p.pdf)
 [1970] [A Catalog of Optimizing
 transformations](https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf)
 
+[PLDI'00] [Dynamo: A Transparent Dynamic Optimization
+System](https://www.complang.tuwien.ac.at/andi/bala.pdf)
+
 [SPW'15] [The Correctness-Security Gap in Compiler
 Optimization](https://people.eecs.berkeley.edu/~dawnsong/papers/The%20Correctness-Security%20Gap%20in%20Compiler%20Optimization_may%202015.pdf)
 

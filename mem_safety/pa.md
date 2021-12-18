@@ -18,22 +18,17 @@ analysis](https://suif.stanford.edu/papers/icse05.pdf)
 [PLDI'03] [CSSV: Towards a Realistic Tool for Statically Detecting All
 Buffer Overflows in C](https://dl.acm.org/doi/abs/10.1145/781131.781149)
 
-[PLDI'05] [SAFECode: Enforcing Alias Analysis for Weakly Typed
-Languages](https://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf)
-
 [NDSS'05] [Dynamic Taint Analysis for Automatic Detection, Analysis, and
-Signature Generation of Exploits on Commodity
-Software](http://www.valgrind.org/docs/newsome2005.pdf)
+Signature Generation of Exploits on Commodity Software](http://www.valgrind.org/docs/newsome2005.pdf)
 
-[PLDI'06] [SAFECode: Enforcing Alias Analysis for Weakly Typed
-Languages](http://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf)
+[PLDI'07] [Valgrind: A Framework for Heavyweight Dynamic Binary
+Instrumentation](http://valgrind.org/docs/valgrind2007.pdf)
 
 [Oakland'08] [Preventing memory error exploits with
 WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf)
 
 [ISSTA'12] [Undangle: Early Detection of Dangling Pointers in Use-After-Free
-and Double-Free
-Vulnerabilities](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/Undangle.pdf)
+and Double-Free Vulnerabilities](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/Undangle.pdf)
 
 [Journal'14] [Statically Detecting Use After Free on Binary
 Code](http://binsec.gforge.inria.fr/pdf/detection-use-after-free-GREHACK13.pdf)
@@ -41,11 +36,14 @@ Code](http://binsec.gforge.inria.fr/pdf/detection-use-after-free-GREHACK13.pdf)
 [ARES'15] [Uncovering Use-After-Free Conditions in Compiled
 Code](https://www.cise.ufl.edu/~traynor/papers/uaf15.pdf)
 
-[USS'17] [DR. CHECKER: A Soundy Analysis for Linux Kernel
+[Sec'17] [DR. CHECKER: A Soundy Analysis for Linux Kernel
 Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-machiry.pdf)
 
 [ICSE'18] [Spatio-Temporal Context Reduction: A Pointer-Analysis-Based
 Static Approach for Detecting Use-After-Free Vulnerabilities]https://yuleisui.github.io/publications/icse18a.pdf)
+
+[Oakland'21] [DynPTA: Combining Static and Dynamic Analysis for Practical
+Selective Data Protection](https://www3.cs.stonybrook.edu/~mikepo/papers/dynpta.sp21.pdf)
 
 [OSDI'21] [SANRAZOR: Reducing Redundant Sanitizer Checks in C/C++
 Programs](SANRAZOR: Reducing Redundant Sanitizer Checks in C/C++ Programs)

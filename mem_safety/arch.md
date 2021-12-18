@@ -28,7 +28,7 @@ Compartmentalization](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/2015
 [ASPLOS'17] [CHERI JNI: Sinking the Java security model into the
 C](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201704-asplos-cherijni.pdf)
 
-[USS'18] [IMIX: In-Process Memory Isolation
+[Sec'18] [IMIX: In-Process Memory Isolation
 EXtension](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-frassetto.pdf)
 [[note](../notes/mem_safety/arch/imix.md)]
 
@@ -52,8 +52,5 @@ Heaps](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/2020oakland-cornuco
 
 ## Exploiting Hardware Features
 
-[ASPLOS'17' [GRIFFIN: Guarding Control Flows Using Intel Processor
+[ASPLOS'17] [GRIFFIN: Guarding Control Flows Using Intel Processor
 Trace](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/griffin-asplos17.pdf)
-
-[ATC'19] [libmpk: Software Abstraction for Intel Memory Protection Keys (Intel
-MPK)](https://www.usenix.org/system/files/atc19-park-soyeon.pdf)

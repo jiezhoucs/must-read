@@ -72,38 +72,13 @@ Integrity](https://www.cc.gatech.edu/~hhu86/papers/ucfi.pdf)
 [Sec'21] [VScape: Assessing and Escaping Virtual Call
 Protections](https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf)
 
-
-## Sandboxing / Software Fault Isolation (SFI)
-
-[NSPW'99] [SASI Enforcement of Security Policies: A
-Retrospective](https://www.cs.cornell.edu/fbs/publications/sasiNSPW.ps)
-
-[USS'06] [Evaluating SFI for a CISC
-Architecture](http://groups.csail.mit.edu/pag/pubs/pittsfield-usenix2006.pdf)
-
-[ATC'08] [Vx32: Lightweight User-level Sandboxing on the
-x86](https://pdfs.semanticscholar.org/1ce0/4e9007a26a21104b8bf4aedc81654463119a.pdf?_ga=2.45664096.598654028.1546450325-1063382891.1546450325)
-
-[Oakland'09] [Native Client: A Sandbox for Portable, Untrusted x86 Native
-Code](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/34913.pdf)
-
-[SOSP'09] [Fast Byte-Granularity Software Fault
-Isolation](https://www.sigops.org/s/conferences/sosp/2009/papers/castro-sosp09.pdf)
-
-[USS'10] [Adapting Software Fault Isolation to Contemporary CPU
-Architectures](https://www.usenix.org/legacy/events/sec10/tech/full_papers/Sehr.pdf)
-
-[Oakland'12] [Safe Loading - A Foundation for Secure Execution of Untrusted
-Programs](http://hexhive.epfl.ch/publications/files/12Oakland.pdf) 
-
-
 ## Others
 
 [USS'98] [StackGuard: Automatic Adaptive Detection and Prevention of
 Buffer-Overflow
 Attacks](https://www.usenix.org/legacy/publications/library/proceedings/sec98/full_papers/cowan/cowan.pdf)
 
-[USS'03] [PointGuardTM: Protecting Pointers From Buffer Overflow
+[USS'03] [PointGuard: Protecting Pointers From Buffer Overflow
 Vulnerabilities](https://www.usenix.org/legacy/event/sec03/tech/full_papers/cowan/cowan.pdf)
 
 [OSDI'06] [Securing software by enforcing data-flow

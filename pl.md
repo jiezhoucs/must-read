@@ -9,6 +9,12 @@ reliability](https://www.computer.org/csdl/journal/ts/1986/01/06312929/13rRUwIF6
 [ACMToPLS'91] [Dynamic Typing in a Statically Typed
 Language](https://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-47.pdf)
 
+[POPL'97] [Proof-carrying
+code](http://www.cs.jhu.edu/~fabian/courses/CS600.624/proof-carrying-code.pdf)
+
+[PLDI'01] [Enforcing High-Level Protocols in Low-Level
+Software](https://www.microsoft.com/en-us/research/wp-content/uploads/2001/05/pldi01.pdf)
+
 ## Overview
 [LNCS'00] [A Language-Based Approach to Security](https://www.cs.cornell.edu/fbs/publications/LangBasedCase.pdf)
 
@@ -42,70 +48,6 @@ Compilation](https://theory.stanford.edu/~mp/mp/Publications_files/rc.pdf)
 ## C
 [TOSE'08] [Modular Information Hiding and Type-Safe Linking for
 C](http://www.cs.umd.edu/~mwh/papers/cmod-journal.pdf)
-
-## CGO
-[PLDI'00] [Dynamo: A Transparent Dynamic Optimization
-System](https://www.complang.tuwien.ac.at/andi/bala.pdf)
-
-## Rust
-
-### Unsafe Rust Survey
-[PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
-Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
-
-[ICSE'20] [Is Rust Used Safely by Software
-Developers?](https://dl.acm.org/doi/abs/10.1145/3377811.3380413)
-
-[OOPSLA'20] [How Do Programmers Use Unsafe
-Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummers20.pdf)
-
-[TOSEM'21] [Memory-Safety Challenge Considered Solved? An In-Depth Study with
-All Rust CVEs](https://dl.acm.org/doi/10.1145/3466642?sid=SCITRUS)
-
-### Secure Unsafe Rust
-#### Sandboxing/Isolating
-[PLOS'17] [Sandcrust: Automatic Sandboxing of Unsafe Components in
-Rust](https://www.lamowski.net/docs/plos2017-lamowski-rust-sandboxing-paper.pdf)
-
-[CODASPY'18] [Fidelius Charm: Isolating Unsafe Rust Code](https://almohri.io/papers/fc.pdf)
-
-[ICSE'20] [Securing UnSafe Rust Programs with
-XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf)
-
-[ACSAC'21] [Keeping Safe Rust Safe with Galeed](http://web.mit.edu/ha22286/www/papers/ACSAC21.pdf)
-[[notes](notes/pl/2021-Galeed-ACSAC21.md)]
-
-#### Retrofit Memory Safety to Unsafe Rust
-[OOPSLA'21] [Safer at Any Speed: Automatic Context-Aware Safety Enhancement for
-Rust](http://www.amitlevy.com/papers/nader-oopsla21.pdf)
-
-### Detect Bugs
-[PLDI'21] [SyRust: Automatic Testing of Rust Libraries with Semantic-Aware
-Program Synthesis](https://dl.acm.org/doi/pdf/10.1145/3453483.3454084)
-
-[SOSP'21] [RUDRA: Finding Memory Safety Bugs in Rust at the Ecosystem
-Scale](https://dl.acm.org/doi/10.1145/3477132.3483570)
-
-[CCS'21] [MirChecker: Detecting Bugs in Rust Programs via Static
-Analysis](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf)
-
-### Formal Semantics of Rust
-[arXiv'20] [Oxide: The Essence of Rust](https://arxiv.org/pdf/1903.00982.pdf)
-
-### Others
-[PLOS'15] [Ownership is Theft: Experiences Building an Embedded OS in
-Rust](https://patpannuto.com/pubs/levy15ownership.pdf)
-
-[HotOS'17] [System Programming in Rust: Beyond
-Safety](https://www.ics.uci.edu/~aburtsev/doc/crust-hotos17.pdf)
-
-[PLATEAU'18] [Identifying Barriers to Adoption for Rust through Online
-Discourse](https://drops.dagstuhl.de/opus/volltexte/2019/10195/pdf/OASIcs-PLATEAU-2018-5.pdf)
-
-[ISSREW'19] [Towards Rust for Critical Systems](https://ieeexplore.ieee.org/document/8990314)
-
-[SOUPS'21] [Benefits and Drawbacks of Adopting a Secure Programming Language:
-Rust as a Case Study](https://www.cs.umd.edu/~mwh/papers/rust-adoption.pdf)
 
 ## Others
 [OOPSLA'15] [Use at Your Own Risk: The Java Unsafe API in the
