@@ -16,7 +16,7 @@ In-Process Sandboxing](https://www.usenix.org/system/files/login/articles/login_
 [Sec'20] [Retrofitting Fine Grain Isolation in the Firefox Renderer](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2020:rlbox.pdf)
 
 [AsiaCCS'21] [Cali: Compiler-Assisted Library
-Isolation](https://publications.cispa.saarland/3382/1/CALI_compiler_assisted_library_isolation.pdf_
+Isolation](https://publications.cispa.saarland/3382/1/CALI_compiler_assisted_library_isolation.pdf)
 
 ## SFI
 [NSPW'99] [SASI Enforcement of Security Policies: A
