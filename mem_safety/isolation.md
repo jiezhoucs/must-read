@@ -8,7 +8,7 @@ Programs](http://hexhive.epfl.ch/publications/files/12Oakland.pdf)
 
 [DAC'17] [Instruction-Level Data Isolation for the Kernel on
 ARM](https://dl.acm.org/citation.cfm?id=3062267)
-[[note](../notes/mem_safety/safe_impl/2017-ILDI-DAC17.md)]
+[[note](../notes/mem_safety/isolation/2017-ILDI-DAC17.md)]
 
 [;login:20winter] [The Road to Less Trusted Code Lowering the Barrier to
 In-Process Sandboxing](https://www.usenix.org/system/files/login/articles/login_winter20_04_garfinkel-tal.pdf)
