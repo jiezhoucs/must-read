@@ -55,3 +55,4 @@ Development](https://arxiv.org/pdf/2005.04367.pdf)
 [CCS'16] [The “Web/Local” Boundary Is Fuzzy: A Security Study of Chrome’s
 Process-based Sandboxing](https://www.comp.nus.edu.sg/~prateeks/papers/ChromeDOP.pdf)
 
+[CSUR'16] [A Study of Security Isolation Techniques](http://dance.csc.ncsu.edu/papers/CSUR2016.pdf)
