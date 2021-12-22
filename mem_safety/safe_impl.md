@@ -125,9 +125,6 @@ Dangling Pointers](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_
 Detection](https://www.cs.vu.nl/~giuffrida/papers/dangsan_eurosys17.pdf)
 [[note](../notes/mem_safety/safe_impl/2017-DangSan-EuroSys17.md)]
 
-[CCS'17] [FreeGuard: A Faster Secure Heap
-Allocator](https://dl.acm.org/doi/10.1145/3133956.3133957)
-
 [CCS'18] [A Robust and Efficient Defense against Use-after-Free Exploits
 via Concurrent Pointer Sweeping](https://www.eecis.udel.edu/~hnw/paper/ccs18.pdf)
 [[note](../notes/mem_safety/safe_impl/2018-pSweeper-CCS18.md)]
@@ -137,9 +134,6 @@ Pointers](https://dl.acm.org/doi/abs/10.1145/3275219.3275231)
 
 [IEEE Access'19] [Mpchecker: Use-After-Free Vulnerabilities Protection Based on
 Multi-Level Pointers](https://ieeexplore.ieee.org/document/8675929)
-
-[Oakland'20] [MarkUs: Drop-in use-after-free prevention for low-level
-languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
 
 [ACSAC'20] [HeapExpo: Pinpointing Promoted Pointers to Prevent Use-After-Free
 Vulnerabilities](http://moyix.net/~moyix/papers/heapexpo.pdf)
@@ -158,6 +152,12 @@ Security](https://people.cs.umass.edu/~emery/pubs/asplos147-lvin.pdf)
 
 [CCS'10] [DieHarder: Securing the Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)
 
+[CCS'17] [FreeGuard: A Faster Secure Heap
+Allocator](https://dl.acm.org/doi/10.1145/3133956.3133957)
+
 [Sec'18] [GUARDER: A Tunable Secure Allocator](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-silvestro.pdf)
+
+[Oakland'20] [MarkUs: Drop-in use-after-free prevention for low-level
+languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
 
 [ARES'21] [MESH: A Memory-Efficient Safe Heap for C/C++](https://dl.acm.org/doi/pdf/10.1145/3465481.3465760)
