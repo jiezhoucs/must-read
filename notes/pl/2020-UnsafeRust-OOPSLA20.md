@@ -1,4 +1,4 @@
-## How Do Programmers Use Unsafe Rust?
+# How Do Programmers Use Unsafe Rust?
 
 [OOPSLA'20]
 Vytautas Astrauskas, Christoph Matheja, Federico Poli, Peter Müller @ETH,
@@ -109,6 +109,59 @@ They counted *how many unsafe functions are
   lib, 24% to `-sys` crates, 25.9% to the same crates, and 4.4% to others.
 - Conclusion: Developers cautiously call unsafe functions that are in other
   crates except they need to interact with system libraries.
+
+4. **(Encapsulation):** *Is unsafe code typically shielded from clients through
+   safe abstractions?*
+(Table 2 and Fig. 9)
+- 88% of unsafe functions are declared as `public`.
+- 78.5% of creates have either all or none of their unsafe functions declared
+  `public`.
+- 34.7% of crates declare unsafe functions that are all hidden from the outside.
+- 43.8% of creates of creates declare all their unsafe functions public. These
+  crates contain 49.2% of all unsafe functions.
+- 59.6% of unsafe functions have foreign item ABI.
+
+5. **(Motivation):** *What are the most prevalent use cases for unsafe code?*
+(Table 3)
+- 89.76% of all functions that have unsafe usage have call to unsafe
+  function, and for 83.5% of such functions, call to unsafe function is the
+  only type of unsafe usage.
+- 93.6% of functions with unsafe usage only have either call to unsafe function
+  or dereferences of raw pointer.
+
+##### Data Structures with Complex Sharing
+- 1.7% of all unsafe functions contain raw pointer dereferences.
+- 0.6% of all safe functions contain raw pointer dereferences.
+- 7% of all crates contain raw pointers dereferences.
+- 6.6 of all crates have types with raw pointer fields.
+
+##### Emphasize Contracts and Invariants
+- 2.5% of trail declarations are unsafe. Five crates account for 40.4% of all
+  unsafe trait declarations.
+- 36.1% of all unsafe functions are written in completely safe Rust. However,
+  many of them are automatically generated to provide peripheral access to
+  micro-controllers.
+
+##### Imcompleteness Issues
+- 8.9% of unsafe blocks call a `transmute` function. 4.5% of crates use
+  `transmute` or `transmute_copy`.
+- 1.7% of crates have more than 3 unsafe blocks with `transmute` calls.
+
+##### Concurrency through Compiler Intrinsics
+Compiler intrinsics are not widely used.
+
+##### Foreign Functions
+- Structure definitions with `#[repr(C]` account for 3.9% of all structures.
+  This annotation is used in 6.2% of all crates.
+- Not all crates  that provide bindings to C system libs are suffixed with
+  `-sys`.
+- Only 493 out of 7 million functions use inline assembly, and 10
+  hardware-related crates contain 69.8% of all functions with inline assembly.
+
+##### Performance
+- Generally, using unsafe code to avoid security checks for performance is not
+frequent. However, it is heavily used by certain crates.
+- 0.55% of creates contain unsafe blocks that use `MaybeUninit`.
 
 ### What are the strengths of this paper?
 
