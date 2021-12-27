@@ -13,6 +13,7 @@ Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummer
 
 [TOSEM'21] [Memory-Safety Challenge Considered Solved? An In-Depth Study with
 All Rust CVEs](https://dl.acm.org/doi/10.1145/3466642?sid=SCITRUS)
+[[notes](notes/pl/2021-RustMemCVE-TOSEM21.md)]
 
 ## Secure Unsafe Rust
 ### Sandboxing/Isolating
