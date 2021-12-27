@@ -5,11 +5,12 @@
 Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
 [[notes](notes/pl/2020-UnsafeRust-PLDI20.md)]
 
-[ICSE'20] [Is Rust Used Safely by Software
-Developers?](https://dl.acm.org/doi/abs/10.1145/3377811.3380413)
+[ICSE'20] [Is Rust Used Safely by Software Developers?](https://dl.acm.org/doi/abs/10.1145/3377811.3380413)
+[[notes](notes/pl/2020-UnsafeRust-ICSE20.md)]
 
 [OOPSLA'20] [How Do Programmers Use Unsafe
 Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummers20.pdf)
+[[notes](notes/pl/2020-UnsafeRust-ICSE20.md)]
 
 [TOSEM'21] [Memory-Safety Challenge Considered Solved? An In-Depth Study with
 All Rust CVEs](https://dl.acm.org/doi/10.1145/3466642?sid=SCITRUS)
