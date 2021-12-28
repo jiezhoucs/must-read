@@ -28,7 +28,8 @@ is simple and well-encapsulated. However, unsafe code is extensively used.
 Interoperation with other languages is the most prevalent motivation for
 using unsafe code.
 
-### Six Reason for using unsafe Rust (in three categories)
+### Six Reason for using unsafe Rust
+(in three categories)
 1. **Overcoming Aliasing Restrictions**
     1. Implementing complex data structures
     2. Incompleteness of Rust's type system (Rust may reject safe programs.)
@@ -44,16 +45,18 @@ contract or invariant that cannot be established by the compiler.
     3. Performance
 
 ### Methodology
-Five questions in two categories
+Five questions in two categories.
 
 **The Rust Hypothesis – Do Developers Use Unsafe Rust as Intended?**
 1. **(Frequency).** *How often does unsafe code appear explicitly in Rust crates?*
+
 They counted *how many crates contain at least one unsafe block, function,
-trait definition, or implementation*. Additionally, they measured the relative
+trait definition or implementation*. Additionally, they measured the relative
 amount of unsafe code in each crate, i.e. *the ratio of the size of both
 unsafe blocks and unsafe function bodies to the total size of the crate.*
 
 2. **(Size).** *What is the size of unsafe blocks that programmers write?*
+
 They counted *how many MIR statements does the compiler generate for unsafe
 blocks*.
 
@@ -63,14 +66,14 @@ They measured *how many function calls in unsafe blocks have a call target which
 is located in
 (1) its own crate,
 (2) a crate belonging to the standard library,
-(3) a -sys crate, or
+(3) a `-sys` crate, or
 (4) any other crate.*
 
 They also measured *how many function calls in unsafe blocks and unsafe
 functions are
-(a) standard function calls,
-(b) calls of trait methods, or
-(c) calls of closures or function pointers.*
+(1) standard function calls,
+(2) calls of trait methods, or
+(3) calls of closures or function pointers.*
 
 4. **(Encapsulation).** *Is unsafe code typically shielded from clients through
    safe abstractions?*
@@ -79,7 +82,6 @@ They counted *how many unsafe functions are
 (2) visible within their crate, and
 (3) visible to other crates.*
 
-**Measuring the Unsafe World – How do Developers Use Unsafe Code?**
 5. **(Motivation).** *What are the most prevalent use cases for unsafe code?*
 
 ### Empirical Results
@@ -114,26 +116,33 @@ They counted *how many unsafe functions are
    safe abstractions?*
 (Table 2 and Fig. 9)
 - 88% of unsafe functions are declared as `public`.
-- 78.5% of creates have either all or none of their unsafe functions declared
+- 78.5% of crates have either all or none of their unsafe functions declared
   `public`.
 - 34.7% of crates declare unsafe functions that are all hidden from the outside.
-- 43.8% of creates of creates declare all their unsafe functions public. These
+- 43.8% of crates declare all their unsafe functions public. These
   crates contain 49.2% of all unsafe functions.
 - 59.6% of unsafe functions have foreign item ABI.
 
 5. **(Motivation):** *What are the most prevalent use cases for unsafe code?*
 (Table 3)
-- 89.76% of all functions that have unsafe usage have call to unsafe
+- 89.76% of all functions that have unsafe usage have call(s) to unsafe
   function, and for 83.5% of such functions, call to unsafe function is the
   only type of unsafe usage.
+- 10.3% of functions with unsafe usage contain dereference(s) to raw pointers.
 - 93.6% of functions with unsafe usage only have either call to unsafe function
   or dereferences of raw pointer.
 
+#### Motivations of Using Unsafe Code
 ##### Data Structures with Complex Sharing
 - 1.7% of all unsafe functions contain raw pointer dereferences.
 - 0.6% of all safe functions contain raw pointer dereferences.
 - 7% of all crates contain raw pointers dereferences.
-- 6.6 of all crates have types with raw pointer fields.
+- 6.6% of all crates have types with raw pointer fields.
+
+##### Incompleteness Issues
+- 8.9% of unsafe blocks call a `transmute` function. 4.5% of crates use
+  `transmute` or `transmute_copy`.
+- 1.7% of crates have more than 3 unsafe blocks with `transmute` calls.
 
 ##### Emphasize Contracts and Invariants
 - 2.5% of trail declarations are unsafe. Five crates account for 40.4% of all
@@ -142,38 +151,41 @@ They counted *how many unsafe functions are
   many of them are automatically generated to provide peripheral access to
   micro-controllers.
 
-##### Imcompleteness Issues
-- 8.9% of unsafe blocks call a `transmute` function. 4.5% of crates use
-  `transmute` or `transmute_copy`.
-- 1.7% of crates have more than 3 unsafe blocks with `transmute` calls.
-
 ##### Concurrency through Compiler Intrinsics
-Compiler intrinsics are not widely used.
+- Compiler intrinsics are not widely used (possibly because they are marked as
+  *nightly-only experimental*).
 
 ##### Foreign Functions
-- Structure definitions with `#[repr(C]` account for 3.9% of all structures.
+- Structure definitions with `#[repr(C)]` account for 3.9% of all structures.
   This annotation is used in 6.2% of all crates.
 - Not all crates  that provide bindings to C system libs are suffixed with
   `-sys`.
+- 5% of crates contain at least one function with a foreign ABI.
 - Only 493 out of 7 million functions use inline assembly, and 10
   hardware-related crates contain 69.8% of all functions with inline assembly.
 
 ##### Performance
 - Generally, using unsafe code to avoid security checks for performance is not
 frequent. However, it is heavily used by certain crates.
-- 0.55% of creates contain unsafe blocks that use `MaybeUninit`.
+- 0.55% of crates contain unsafe blocks that use `MaybeUninit`.
 
 ### What are the strengths of this paper?
+- It does a much more fine-grained analysis on how unsafe Rust is used compared
+  to the [ICSE'20 paper](2020-UnsafeRust-ICSE20.md).
 
 ### What are the limitations and weaknesses of this paper?
 
 ### What makes this paper publishable?
+- It presents many data that facilitate understanding unsafe Rust usage.
 
 ### What are other solutions and what are the most relevant works?
-
-### Thing(s) that I like particularly about this paper.
+- [PLDI'20] **Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs**
+- [ICSE'20] **Is Rust Used Safely by Software Developers?**
+- [TOSEM'21] **Memory-Safety Challenge Considered Solved? An In-Depth Study with All Rust CVEs**
 
 ### What is the take-away message from this paper?
+The Rust hypothesis is supported in general, but unsafe Rust code is extensively
+used.
 
 ### Other comments
 The authors assume that the standard libraries are well-vetted and thus
