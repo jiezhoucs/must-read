@@ -1,49 +1,55 @@
-### Title, Author(s), and Venue
-[ICSE'20] **Is Rust Used Safely by Software Developers?**
-
+# Is Rust Used Safely by Software Developers?
+[ICSE'20]
 Ana Nora Evans, Bradford Campbell, and Mary Lou Soffa @UVA
 
 ### Category and Keywords
-**Rust**
+**Rust**, **memory safety**
 
 ### What problem does this paper try to solve?
-It investigates how *unsafe Rust* is used by developed.
+It investigates how *unsafe Rust* is used by developers.
 
 ### Why is the problem important?
-Rust has proven to be an excellent and very promising alternative for C++ or
+Rust has proven to be an excellent and very promising alternative to C++ or
 even C. But it still has security flaws.
 
 ### What is this paper's solution to the problem?
 The paper focuses on analyzing call graphs of Rust programs to better understand
-how unsafe use is propagated between
+how unsafe use is propagated.
 
-The paper defines **Possibly Unsafe**:
+The paper defines **Possibly Unsafe** as:
 
 > A function may be possibly unsafe if: (1) it is declared unsafe;
 (2) it contains an unsafe block; or
 (3) it calls a possibly unsafe function.
 
-The third condition is interesting because Rust deems it as safe and calls this
-safe abstractions.
+The third condition is interesting because Rust deems it as safe (called
+*safe abstractions*) and even encourages programmers to do so.
 
-#### Questions investigated by this paper
-This paper asks several questions.
+#### Core technique
+A extended call graph where each node contains not only the function, but a list
+of generic type parameters and type substitutions for those when available.
+
+### Questions investigated by this paper
 
 1. **How much do developers use *Unsafe Rust***?
+
 It counts how many the `unsafe` keyword is used in four scenarios (block,
 function, trait, and trait implementation).
 
 2. **How much of the Rust code is *Unsafe Rust***?
+
 This is the core question asked by this paper. A *Safe Rust* function may not be
 completely safe if it calls a safe API whose implementation actually contains
 unsafe code. The paper aims to find out *what percentage of the Rust libraries
 lack full safety compiler guarantees?*
 
 3. **What unsafe Rust operations are used in practice?**
+
 The paper wants to understand if interactions with C are the main source of
-Unsafe Rust.
+unsafe Rust.
 
 4. **What ABI (programming languages) are used in the *declared unsafe* functions?**
+
 Whether most called unsafe functions are from external libs implemented in C
 or from other Rust libs.
 
@@ -51,10 +57,10 @@ or from other Rust libs.
 
 6. **Why do developers use unsafe?**
 
-#### Results of the questions
+#### Results
 1. **How much do developers use *Unsafe Rust***?
 (Results in Table 1)
-- 29% of crates directly include use of *Unsafe Rust*. The most downloaded crates
+- **Crates**: 29% of crates directly include use of *Unsafe Rust*. The most downloaded crates
 have a higher use of unsafe (52%). One reason is that they tend to use unsafe
 to optimize for performance. Another reason is they often interface with C libs.
 - **Blocks**: More than 90% of crates have fewer than ten unsafe blocks.
@@ -93,10 +99,12 @@ intrinsics.
 because of I/O access and common atomic operations.
 
 5. **Does the use of Unsafe Rust change over time?**
+
 Not really.
 
 6. **Why do developers use unsafe?**
-The authors did a survey on Rust Subreddit and collected data from 20
+
+The authors did a survey on the Rust subreddit and collected data from 20
 respondents.
 - For performance (55%)
 - Safe Rust being too restrictive (40%)
@@ -109,17 +117,13 @@ respondents.
       C or other languages
 
 **What operations used by developers that require the unsafe keyword?**
-- call a non-syscall external C function (45%)
-- call an unsafe Rust function (25%)
-- work with C-style pointers (25%)
-- work with SIMD intrinsics (5%)
-
-#### Core technique
-A extended call graph where each node contains not only the function, but a list
-of generic type parameters and type substitutions for those when available.
+- Calling a non-syscall external C function (45%)
+- Calling an unsafe Rust function (25%)
+- Working with C-style pointers (25%)
+- Working with SIMD intrinsics (5%)
 
 ### What are the strengths of this paper?
-- Worked on a potentially dangerous but not yet well-understood problem---how
+- It works on a potentially dangerous but not yet well-understood problem---how
 dangerous is encapsulated unsafety? This paper does not have a perfect answer
 for it but it makes good contributions in this direction.
 
@@ -130,16 +134,16 @@ for it but it makes good contributions in this direction.
 
 ### What makes this paper publishable?
 There were no large-scale survey on how unsafe Rust was used by programs before
-this paper. (There are two related survey papers published at the same year.)
+this paper. (There are two related survey papers published in the same year.)
 
 ### What are other solutions and what are the most relevant works?
-[PLDI'20] **Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs**
-[OPPSLA'20] **How Do Programmers Use Unsafe Rust?**
-[TOSEM'21] **Memory-Safety Challenge Considered Solved? An In-Depth Study with All Rust CVEs**
-
-### Thing(s) that I like particularly about this paper.
+- [PLDI'20] **Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs**
+- [OPPSLA'20] **How Do Programmers Use Unsafe Rust?**
+- [TOSEM'21] **Memory-Safety Challenge Considered Solved? An In-Depth Study with All Rust CVEs**
 
 ### What is the take-away message from this paper?
 Unsafe Rust is used more often than ideal.
 
 ### Other comments
+There are too many numbers in the Results section and thus it is easy to get
+confused. But there seems to be no easy way around it.
