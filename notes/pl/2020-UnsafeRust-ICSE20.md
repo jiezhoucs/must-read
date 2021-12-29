@@ -138,7 +138,7 @@ this paper. (There are two related survey papers published in the same year.)
 
 ### What are other solutions and what are the most relevant works?
 - [PLDI'20] **Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs**
-- [OPPSLA'20] **How Do Programmers Use Unsafe Rust?**
+- [OOPSLA'20] **How Do Programmers Use Unsafe Rust?**
 - [TOSEM'21] **Memory-Safety Challenge Considered Solved? An In-Depth Study with All Rust CVEs**
 
 ### What is the take-away message from this paper?
