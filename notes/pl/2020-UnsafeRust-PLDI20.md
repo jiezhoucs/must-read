@@ -68,10 +68,10 @@ paper](2021-RustMemCVE-TOSEM21.md) calls such behavior "unsound API".
 - **Reading uninitialized memory**: Creating uninitialized memory in unsafe code
   and then using it in safe code.
 - **Invalid free**: Freeing uninitialized memory is UB and dangerous.
-- *Use-After-Free*: Freeing an object in safe code and using it later in unsafe
+- **Use-After-Free**: Freeing an object in safe code and using it later in unsafe
   code. The other way around is also possible, or freeing in unsafe code and
   later using in unsafe code.
-- *Double free*: Unsafe code may create two owners of an object and later drop
+- **Double free**: Unsafe code may create two owners of an object and later drop
   both of the owners.
 
 ### What are the strengths of this paper?
