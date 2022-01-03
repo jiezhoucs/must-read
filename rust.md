@@ -25,6 +25,7 @@ Rust](https://www.lamowski.net/docs/plos2017-lamowski-rust-sandboxing-paper.pdf)
 
 [ICSE'20] [Securing UnSafe Rust Programs with
 XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf)
+[[notes](notes/rust/2020-XRust-ICSE20.md)]
 
 [ACSAC'21] [Keeping Safe Rust Safe with Galeed](http://web.mit.edu/ha22286/www/papers/ACSAC21.pdf)
 [[notes](notes/rust/2021-Galeed-ACSAC21.md)]
