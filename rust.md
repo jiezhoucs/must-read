@@ -3,18 +3,18 @@
 ## Unsafe Rust Survey
 [PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
 Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
-[[notes](notes/pl/2020-UnsafeRust-PLDI20.md)]
+[[notes](notes/rust/2020-UnsafeRust-PLDI20.md)]
 
 [ICSE'20] [Is Rust Used Safely by Software Developers?](https://dl.acm.org/doi/abs/10.1145/3377811.3380413)
-[[notes](notes/pl/2020-UnsafeRust-ICSE20.md)]
+[[notes](notes/rust/2020-UnsafeRust-ICSE20.md)]
 
 [OOPSLA'20] [How Do Programmers Use Unsafe
 Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummers20.pdf)
-[[notes](notes/pl/2020-UnsafeRust-ICSE20.md)]
+[[notes](notes/rust/2020-UnsafeRust-ICSE20.md)]
 
 [TOSEM'21] [Memory-Safety Challenge Considered Solved? An In-Depth Study with
 All Rust CVEs](https://dl.acm.org/doi/10.1145/3466642?sid=SCITRUS)
-[[notes](notes/pl/2021-RustMemCVE-TOSEM21.md)]
+[[notes](notes/rust/2021-RustMemCVE-TOSEM21.md)]
 
 ## Secure Unsafe Rust
 ### Sandboxing/Isolating
@@ -27,7 +27,7 @@ Rust](https://www.lamowski.net/docs/plos2017-lamowski-rust-sandboxing-paper.pdf)
 XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf)
 
 [ACSAC'21] [Keeping Safe Rust Safe with Galeed](http://web.mit.edu/ha22286/www/papers/ACSAC21.pdf)
-[[notes](notes/pl/2021-Galeed-ACSAC21.md)]
+[[notes](notes/rust/2021-Galeed-ACSAC21.md)]
 
 ### Retrofit Memory Safety to Unsafe Rust
 [OOPSLA'21] [Safer at Any Speed: Automatic Context-Aware Safety Enhancement for
