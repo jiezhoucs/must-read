@@ -10,7 +10,7 @@ Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
 
 [OOPSLA'20] [How Do Programmers Use Unsafe
 Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummers20.pdf)
-[[notes](notes/rust/2020-UnsafeRust-ICSE20.md)]
+[[notes](notes/rust/2020-UnsafeRust-OOPSLA20.md)]
 
 [TOSEM'21] [Memory-Safety Challenge Considered Solved? An In-Depth Study with
 All Rust CVEs](https://dl.acm.org/doi/10.1145/3466642?sid=SCITRUS)
