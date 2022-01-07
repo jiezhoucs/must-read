@@ -10,14 +10,6 @@ Programs](http://hexhive.epfl.ch/publications/files/12Oakland.pdf)
 ARM](https://dl.acm.org/citation.cfm?id=3062267)
 [[note](../notes/mem_safety/isolation/2017-ILDI-DAC17.md)]
 
-[;login:20winter] [The Road to Less Trusted Code Lowering the Barrier to
-In-Process Sandboxing](https://www.usenix.org/system/files/login/articles/login_winter20_04_garfinkel-tal.pdf)
-
-[Sec'20] [Retrofitting Fine Grain Isolation in the Firefox Renderer](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2020:rlbox.pdf)
-
-[AsiaCCS'21] [Cali: Compiler-Assisted Library
-Isolation](https://publications.cispa.saarland/3382/1/CALI_compiler_assisted_library_isolation.pdf)
-
 ## SFI
 [NSPW'99] [SASI Enforcement of Security Policies: A
 Retrospective](https://www.cs.cornell.edu/fbs/publications/sasiNSPW.ps)

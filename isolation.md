@@ -15,6 +15,15 @@ Regions](https://people.eecs.berkeley.edu/~sseshia/pubdir/pldi16.pdf)
 [CCS'17] [PtrSplit: Supporting General Pointers in Automatic Program
 Partitioning](http://www.cse.psu.edu/~trj1/papers/ccs17.pdf)
 
+[;login:20winter] [The Road to Less Trusted Code Lowering the Barrier to
+In-Process Sandboxing](https://www.usenix.org/system/files/login/articles/login_winter20_04_garfinkel-tal.pdf)
+
+[Sec'20] [Retrofitting Fine Grain Isolation in the Firefox Renderer](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2020:rlbox.pdf)
+[[notes](notes/isolation/2020-RLBox-Sec20.md)]
+
+[AsiaCCS'21] [Cali: Compiler-Assisted Library
+Isolation](https://publications.cispa.saarland/3382/1/CALI_compiler_assisted_library_isolation.pdf)
+
 ## Privilege Isolation
 [Sec'03] [Preventing Privilege
 Escalation](https://www.usenix.org/legacy/events/sec03/tech/full_papers/provos_et_al/provos_et_al.pdf)
