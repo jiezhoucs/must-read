@@ -128,3 +128,10 @@ callback functions. All arguments to a callback function should be `tainted`.
 be automatically transformed by the compiler. If so, why did not RLBox do it?
 
 - The engineering effort required to pull off this project is tremendous.
+
+- Related links:
+    - [USENIX ;login: version of the paper](https://www.usenix.org/system/files/login/articles/login_winter20_04_garfinkel-tal.pdf)
+    - [PL Perspectives blog](https://blog.sigplan.org/2021/07/27/making-software-sandboxing-practical-using-language-based-techniques/)
+    - [Securing Firefox with WebAssembly](https://hacks.mozilla.org/2020/02/securing-firefox-with-webassembly/)
+    - [WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95](https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/)
+    - [RLBox Sandboxing API](https://plsyssec.github.io/rlbox_sandboxing_api/sphinx/)
