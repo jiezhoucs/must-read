@@ -68,3 +68,7 @@ Discourse](https://drops.dagstuhl.de/opus/volltexte/2019/10195/pdf/OASIcs-PLATEA
 
 [SOUPS'21] [Benefits and Drawbacks of Adopting a Secure Programming Language:
 Rust as a Case Study](https://www.cs.umd.edu/~mwh/papers/rust-adoption.pdf)
+
+[OOPSLA'21][Safer at Any Speed: Automatic Context-Aware Safety Enhancement for
+Rust](https://dl.acm.org/doi/10.1145/3485480?sid=SCITRUS)
+[[notes](notes/rust/2021-NADER-OOPSLA21.md)]
