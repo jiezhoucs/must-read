@@ -14,9 +14,19 @@ This paper tries to prevent this.
 XRust is a custom memory allocator + program analysis and instrumentation
 scheme.  It allocates all heap object accessed by unsafe code to an unsafe
 region (those objects are dubbed "unsafe objects"), objects only accessed by
-safe code to a safe region, and it instruments **all** code with bound checks to
-catch out-of-bounds accesses. (It also provides a guard page solution to prevent
-buffer overflow, but guard page is not very strong in general.)
+safe code to a safe region, and it instruments instructions that access the
+unsafe region with checks to catch out-of-unsafe-region accesses.
+(It also provides a guard page solution to prevent buffer overflow, but guard
+page is not very strong in general.)
+
+**Memory Division**
+XRust adds unsafe versions of Rust’s default memory allocators, e.g.,
+`unsafe_alloc()` for `alloc()`, so that there are two memory regions : safe and
+unsafe. It uses a pre-allocated bitmap to record the type (safe or unsafe) of
+each heap address. The underlying memory allocator `ptmalloc2` aligns its heap
+segments by 1MB, which means the bitmap is 1 MB–1 bit mapping.
+
+The paper is not clear about what the divided heap exactly looks like.
 
 **Object Classification**. It uses a data-flow analysis framework
 ([PhASAR](https://github.com/secure-software-engineering/phasar)) to find all
