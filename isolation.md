@@ -3,6 +3,9 @@
 [CCS'10] [Robusta: Taming the Native Beast of the
 JVM](http://www.cse.psu.edu/~gxt29/papers/robusta.pdf)
 
+[TISSEC'13] [Bringing Java’s Wild Native World under
+Control](http://www.cse.psu.edu/~gxt29/papers/tissec13.pdf)
+
 [CCS'15] [Thwarting Memory Disclosure with Efficient Hypervisor-enforced
 Intra-domain Isolation](https://dl.acm.org/doi/10.1145/2810103.2813690)
 
