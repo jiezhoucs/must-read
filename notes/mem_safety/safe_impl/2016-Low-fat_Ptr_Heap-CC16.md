@@ -1,5 +1,5 @@
-# Title, Author(s), and Venue
-[CC'16] **Heap Bounds Protection with Low Fat Pointers**
+# Heap Bounds Protection with Low Fat Pointers
+[CC'16]
 
 Gregory J. Duck and Roland H. C. Yap
 
@@ -17,7 +17,7 @@ National University of Singapore
 The paper designed a new encoding scheme for pointer/object metadata.
 An pointer is still 64-bit long and contains a valid memory address to
 the referent. The key idea is to change the default memory allocator
-to achieve a desired memory layout so that a pointer's address *implicily*
+to achieve a desired memory layout so that a pointer's address *implicitly*
 contains metadata about the referent.
 
 The low-fat allocator divides the heap evenly into M sub-heaps. Each sub-heap
@@ -33,13 +33,14 @@ the size (not accurate) of a memory object.  For example, pointer
 `p = 0x180000000`'s pointee resides in sub-heap 1 (`p >> 32`) and thus
 its size is 16 bytes. For non-heap objects and large objects (greater than
 the supported largest size), the allocation falls back to use the default
-`malloc`; and for all those memory objects, it treats is size as
-0 and size as `UINT64_MAX`.
+`malloc`; and for all those memory objects, it treats is base as
+0 and size as `UINT64_MAX` so the bounds check will always pass.
 
 At allocation, it instruments the returned pointer with a base and a size
 (adding extra variables). When a new pointer created by deriving from another
 pointer, it propagates the origin pointer's metadata. At pointer dereference,
-it inserts a dynamic bounds check.
+it inserts a dynamic bounds check. It also inserts bounds check for pointer
+arithmetic for several cases (Sec. 4.2.2) such as before passing to a call.
 
 ### What are the strengths of this paper?
 - It maintains full binary compatibility.
@@ -61,6 +62,7 @@ it inserts a dynamic bounds check.
   should be very rare that passing a deliberate-OOB pointer between contexts,
   this limitation may not cause much trouble (breaking "good" program)
   in practice.
+- It may break programs that crate temporary OOB pointers.
 
 ### What are other solutions and what are the most relevant works?
 - [Mid-fat pointer](https://www.cs.vu.nl/~giuffrida/papers/midfat_eurosec17.pdf)
