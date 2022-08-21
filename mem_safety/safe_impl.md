@@ -82,6 +82,9 @@ Pointers](https://www.cs.vu.nl/~giuffrida/papers/midfat_eurosec17.pdf)
 [AsiaCCS'17] [DataShield: Configurable Data Confidentiality and
 Integrity](https://nebelwelt.net/publications/files/17AsiaCCS.pdf)
 
+[CCS'17] [HexType: Eicient Detection of Type Confusion Errors for
+C++](https://lifeasageek.github.io/papers/jeon-hextype.pdf)
+
 [PLDI'18] [EffectiveSan: Type and Memory Error Detection using Dynamically
 Typed C/C++](https://dl.acm.org/doi/10.1145/3296979.3192388)
 
