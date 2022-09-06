@@ -3,6 +3,9 @@
 [SIGARCH News'80] [The Case for the Reduced Instruction Set
 Computer](https://www.cs.utexas.edu/users/fussell/courses/cs352h/papers/risc.pdf)
 
+[ISCA'85] [Tagged Architecture: How Compelling Are its
+Advantages?](https://dl.acm.org/doi/pdf/10.1145/327070.327153)
+
 [ICCD'17] [Efficient Tagged
 Memory](https://ieeexplore.ieee.org/document/8119285)
 
