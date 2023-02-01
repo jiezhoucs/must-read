@@ -57,8 +57,13 @@ Testing](http://www.informatik.uni-bremen.de/agra/doc/konf/DAC-2021-CheckedC-Con
 [POPL'90] [Pointer-induced Aliasing: A Problem
 Classification](https://www.cmi.ac.in/~madhavan/courses/program-analysis-2008/papers/landi91-ptr-analysis-popl.pdf)
 
+[LOPLAS'92] [Undecidability of Static Analysis](https://dl.acm.org/doi/pdf/10.1145/161494.161501)
+
 [POPL'96] [Points-to Analysis in Almost Linear
 Time](https://www.cs.cornell.edu/courses/cs711/2005fa/papers/steensgaard-popl96.pdf)
+
+[TOPLAS'97] [Precise Flow-Insensitive May-Alias Analysis is
+NP-Hard](https://dl.acm.org/doi/pdf/10.1145/239912.239913)
 
 [PLDI'98] [Type-Based Alias
 Analysis](http://web.cs.ucla.edu/~palsberg/tba/papers/diwan-mckinley-moss-pldi98.pdf)
