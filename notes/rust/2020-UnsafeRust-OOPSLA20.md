@@ -145,7 +145,7 @@ They counted *how many unsafe functions are
 - 1.7% of crates have more than 3 unsafe blocks with `transmute` calls.
 
 ##### Emphasize Contracts and Invariants
-- 2.5% of trail declarations are unsafe. Five crates account for 40.4% of all
+- 2.5% of trait declarations are unsafe. Five crates account for 40.4% of all
   unsafe trait declarations.
 - 36.1% of all unsafe functions are written in completely safe Rust. However,
   many of them are automatically generated to provide peripheral access to
