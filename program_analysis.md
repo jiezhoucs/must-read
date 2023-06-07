@@ -62,6 +62,9 @@ Classification](https://www.cmi.ac.in/~madhavan/courses/program-analysis-2008/pa
 [POPL'96] [Points-to Analysis in Almost Linear
 Time](https://www.cs.cornell.edu/courses/cs711/2005fa/papers/steensgaard-popl96.pdf)
 
+[POPL'97] [Fast and Accurate Flow-insensitive Points-to
+Analysis](https://dl.acm.org/doi/pdf/10.1145/263699.263703)
+
 [TOPLAS'97] [Precise Flow-Insensitive May-Alias Analysis is
 NP-Hard](https://dl.acm.org/doi/pdf/10.1145/239912.239913)
 
