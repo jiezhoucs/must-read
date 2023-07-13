@@ -14,6 +14,8 @@
 
 ### What makes this paper publishable?
 
+### What are the key techniques on which this work depends?
+
 ### What are other solutions and what are the most relevant works?
 
 #### Related links
