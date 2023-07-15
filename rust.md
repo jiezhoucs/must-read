@@ -54,6 +54,10 @@ Language](https://plv.mpi-sws.org/rustbelt/popl18/paper.pdf)
 
 [arXiv'20] [Oxide: The Essence of Rust](https://arxiv.org/pdf/1903.00982.pdf)
 
+## Architecture
+[ECOOP'23] [Rust for Morello: Always-On Memory Safety, Even in Unsafe
+Code](https://drops.dagstuhl.de/opus/volltexte/2023/18232/pdf/LIPIcs-ECOOP-2023-39.pdf)
+
 ## Others
 [PLOS'15] [Ownership is Theft: Experiences Building an Embedded OS in
 Rust](https://patpannuto.com/pubs/levy15ownership.pdf)
