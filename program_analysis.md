@@ -109,6 +109,8 @@ Code](https://www.cs.utexas.edu/users/lin/papers/cgo11.pdf)
 
 [Book'15] [Pointer Analysis](https://yanniss.github.io/points-to-tutorial15.pdf)
 
+[SAS'16] [Structure-Sensitive Points-To Analysis for C and C++](https://yanniss.github.io/cclyzer-sas16.pdf)
+
 
 ## Information Flow and Symbolic Execution
 
