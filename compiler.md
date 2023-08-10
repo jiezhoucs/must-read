@@ -1,7 +1,7 @@
 ## LLVM
 
 [CGO'04] [LLVM: A Compilation Framework for Lifelong Program Analysis &
-Transformation](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf) 
+Transformation](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
 
 [ISSTA'16] [Toward Understanding Compiler Bugs in GCC and
 LLVM](https://web.cs.ucdavis.edu/~su/publications/issta16-compiler-bug-study.pdf)
@@ -37,3 +37,7 @@ Semantic Mismatch?](https://www.cs.rutgers.edu/~santosh.nagarakatte/papers/plas2
 
 [PLDI'21] [Unleashing the Hidden Power of Compiler Optimization on Binary Code
 Difference: An Empirical Study](https://dl.acm.org/doi/10.1145/3453483.3454035)
+
+## Techniques
+[TOPLAS'91] [Efficiently Computing Static Single Assignment Form and the Control
+Dependence Graph](https://www.cs.utexas.edu/~pingali/CS380C/2010/papers/ssaCytron.pdf)
