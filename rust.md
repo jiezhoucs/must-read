@@ -44,6 +44,9 @@ Scale](https://dl.acm.org/doi/10.1145/3477132.3483570)
 [CCS'21] [MirChecker: Detecting Bugs in Rust Programs via Static
 Analysis](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf)
 
+[TOSEM'23] [SafeDrop: Detecting Memory Deallocation Bugs of Rust Programs via
+Static Data-flow Analysis](https://dl.acm.org/doi/10.1145/3542948)
+
 ## Applying Rust to Secure Stuffs
 [ACSAC'20] [RusTEE: Developing Memory-Safe ARM TrustZone
 Applications](https://csis.gmu.edu/ksun/publications/ACSAC20_RusTEE_2020.pdf)
