@@ -10,6 +10,9 @@ Optimization](https://www.cs.utexas.edu/~pingali/CS395T/2009fa/papers/ferrante87
 [TOPLAS'88] [Interprocedural Slicing Using Dependence
 Graphs](https://cs.gmu.edu/~white/CS640/10.1.1.50.4405.pdf)
 
+[CC'96][Effective Representation of Aliases and Indirect Memory Operations
+in SSA Form](https://link.springer.com/content/pdf/10.1007/3-540-61053-7_66.pdf)
+
 [TOPLAS'94] [Efficient Computation of Interprocedural Definition-Use
 Chains](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8860&rep=rep1&type=pdf)
 
