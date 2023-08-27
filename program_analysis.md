@@ -100,6 +100,9 @@ Analysis](http://impact.crhc.illinois.edu/shared/papers/paste-04-nystrom.pdf)
 [PLDI'07] [The Ant and the Grasshopper: Fast and Accurate Pointer Analysis
 for Millions of Lines of Code](https://www.cs.utexas.edu/~lin/papers/pldi07.pdf)
 
+[SAS'07][Exploiting pointer and location equivalence to optimize pointer
+analysis](https://hardekbc.github.io/files/hardekopf07exploiting.pdf)
+
 [POPL'08] [Demand-Driven Alias Analysis for
 C](https://www.cs.cornell.edu/~xinz/papers/alias-popl08.pdf)
 
