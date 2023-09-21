@@ -16,6 +16,9 @@ Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummer
 All Rust CVEs](https://dl.acm.org/doi/10.1145/3466642?sid=SCITRUS)
 [[notes](notes/rust/2021-RustMemCVE-TOSEM21.md)]
 
+[FSE'23][On the Dual Nature of Necessity in Use of Rust Unsafe
+Code](https://www.portokalidis.net/files/unsafe_rust_fse23.pdf)
+
 ## Secure Unsafe Rust
 ### Sandboxing/Isolating
 [PLOS'17] [Sandcrust: Automatic Sandboxing of Unsafe Components in
