@@ -72,6 +72,10 @@ Integrity](https://www.cc.gatech.edu/~hhu86/papers/ucfi.pdf)
 [Sec'21] [VScape: Assessing and Escaping Virtual Call
 Protections](https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf)
 
+[RAID'23] [Renewable Just-In-Time Control-Flow
+Integrity](https://dl.acm.org/doi/abs/10.1145/3607199.3607239)
+
+
 ## Others
 
 [USS'98] [StackGuard: Automatic Adaptive Detection and Prevention of
