@@ -102,3 +102,17 @@ Regression](https://static.googleusercontent.com/media/research.google.com/en//p
 [TOPLAS'16] [The Truth, The Whole Truth, and Nothing But the Truth: A Pragmatic
 Guide to Assessing Empirical
 Evaluations](https://dl.acm.org/doi/10.1145/2451116.2451140)
+
+### Workload Characterization
+
+[Computer'00] [SPEC CPU2000: Measuring CPU Performance in the New
+Millennium](https://www.spec.org/cpu2000/papers/COMPUTER_200007.JLH.pdf)
+
+[ISCA'07] [Analysis of Redundancy and Application Balance in the SPEC CPU2006
+Benchmark Suite](https://dl.acm.org/doi/pdf/10.1145/1250662.1250713)
+
+[TPCTC'09] [The Art of Building a Good
+Benchmark](https://link.springer.com/chapter/10.1007/978-3-642-10424-4_3)
+
+[ICPE'15] [How to Build a Benchmark](https://dl.acm.org/doi/pdf/10.1145/2668930.2688819)
+
