@@ -92,6 +92,9 @@ Typed C/C++](https://dl.acm.org/doi/10.1145/3296979.3192388)
 C/C++](https://nebelwelt.net/files/18AsiaCCS.pdf)
 [[note](../notes/mem_safety/safe_impl/2018-CUP-AsiaCCS18.md)]
 
+[Oakland'22] [Mitigating Information Leakage Vulnerabilities with Type-based
+Data Isolation](https://download.vusec.net/papers/tdi_sp22.pdf)
+
 ## Temporal
 ### Secure Allocation
 [DSN'06] [Efficiently Detecting All Dangling Pointer Uses in Production
