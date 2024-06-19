@@ -6,6 +6,9 @@ Inspection](https://www.cs.cornell.edu/fbs/publications/2000-1786.pdf)
 [WSS'00] [An Empirical Study of the Robustness of Windows NT Applications Using
 Random Testing](https://www.usenix.org/legacy/events/usenix-win2000/full_papers/forrester/forrester.pdf)
 
+[USS'02] [Secure Execution Via Program
+Shepherding](http://groups.csail.mit.edu/commit/papers/02/RIO-security-usenix.pdf)
+
 [TACO'08] [Virtual Machine Showdown: Stack Versus
 Registers](https://dl.acm.org/doi/pdf/10.1145/1328195.1328197)
 

@@ -54,3 +54,6 @@ Heaps](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/2020oakland-cornuco
 
 [ASPLOS'17] [GRIFFIN: Guarding Control Flows Using Intel Processor
 Trace](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/griffin-asplos17.pdf)
+
+[ASPLOS'19] [BOGO: Buy Spatial Memory Safety, Get Temporal Memory Safety 
+(Almost) Free](http://people.cs.vt.edu/~dongyoon/papers/ASPLOS-19-BOGO.pdf)

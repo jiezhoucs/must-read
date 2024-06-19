@@ -35,8 +35,8 @@ Randomization](https://dl.acm.org/citation.cfm?id=1030124)
 
 ## Control Flow Integrity (CFI)
 
-[OSDI'06] [Securing software by enforcing data-flow
-integrity](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/11/dfiOSDI.pdf)
+[TISSEC'07] [Control-Flow Integrity Principles, Implementations, and 
+Applications](https://cseweb.ucsd.edu/~dstefan/cse127-fall20/papers/abadi:cfi.pdf)
 
 [CCS'11] [Combining Control-Flow Integrity and Static Analysis for Efficient and
 Validated Data
@@ -88,7 +88,4 @@ Vulnerabilities](https://www.usenix.org/legacy/event/sec03/tech/full_papers/cowa
 [OSDI'06] [Securing software by enforcing data-flow
 integrity](https://timharris.uk/papers/2006-osdi.pdf) 
 
-[OSDI'14] [Code-Pointer Integrity](https://dslab.epfl.ch/pubs/cpi.pdf) 
-
-[Oakland'15] [Missing the Point(er): On the Effectiveness of Code Pointer
-Integrity](http://web.mit.edu/ha22286/www/papers/Oakland15.pdf) 
+[OSDI'06] [XFI: Software Guards for System Address Spaces](https://www.usenix.org/legacy/event/osdi06/tech/full_papers/erlingsson/erlingsson.pdf)

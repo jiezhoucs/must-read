@@ -22,6 +22,9 @@ Integrity](http://www.portokalidis.net/files/outofcontrol_oakland14.pdf)
 [Sec'14] [Stitching the Gadgets: On the Ineffectiveness of Coarse-Grained
 Control-Flow Integrity Protection](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-davi.pdf)
 
+[Oakland'15] [Missing the Point(er): On the Effectiveness of Code Pointer
+Integrity](http://web.mit.edu/ha22286/www/papers/Oakland15.pdf) 
+
 [Sec'15] [Control-Flow Bending: On the Effectiveness of Control-Flow
 Integrity](http://nebelwelt.net/publications/files/15SEC.pdf)
 
@@ -47,13 +50,14 @@ Heap-spraying Attacks](https://dl.acm.org/doi/10.1145/1920261.1920310)
 [CCS'15] [From Collision To Exploitation: Unleashing Use-After-Free
 Vulnerabilities in Linux Kernel](https://dl.acm.org/citation.cfm?id=2813637)
 
-
 ## Defeat Diversification/Randomization
 [NDSS'16] [Enabling Client-Side Crash-Resistance to Overcome Diversification
 and Information
 Hiding](https://www.ndss-symposium.org/wp-content/uploads/2017/09/enabling-client-side-crash-resistance-overcome-diversification-information-hiding.pdf)
 
 ## Others
+[Sec'05] [Non-Control-Data Attacks Are Realistic Threats](https://www.usenix.org/legacy/publications/library/proceedings/sec05/tech/full_papers/chen/chen.pdf)
+
 [BlackHat'07] [Heap Feng Shui in
 javascript](https://www.blackhat.com/presentations/bh-usa-07/Sotirov/Whitepaper/bh-usa-07-sotirov-WP.pdf)
 

@@ -1,7 +1,7 @@
 # Language-based Memory Safety
 
 ## C/C++
-[ATC'02] [Cyclone: A safe dialect of C](http://trevorjim.com/papers/usenix2002.pdf)
+[ATC'02] [Cyclone: A Safe Dialect of C](http://trevorjim.com/papers/usenix2002.pdf)
 [[note](../notes/mem_safety/pl/2002-Cyclone-ATC02.md)]
 
 [POPL'02] [CCured: Type-Safe Retrofitting of Legacy
@@ -21,6 +21,8 @@ Cyclone](https://www.sciencedirect.com/science/article/pii/S0167642306000785)
 
 [OSDI'06] [SafeDrive: Safe and Recoverable Extensions Using Language-Based
 Techniques](https://www.usenix.org/legacy/event/osdi06/tech/full_papers/zhou/zhou.pdf)
+
+[ESOP'07][Dependent Types for Low-Level Programming](https://people.eecs.berkeley.edu/~necula/Papers/deputy-esop07.pdf)
 
 [CSF'11] [Modular Protections against Non-control Data
 Attacks](https://www.cs.princeton.edu/~dpw/papers/yarra-csf11.pdf)

@@ -14,3 +14,6 @@ Disassembly](https://www.usenix.org/conference/usenixsecurity20/presentation/flo
 
 [Sec'20] [DECAF: Automatic, Adaptive De-bloating and Hardening of COTS
 Firmware](https://www.usenix.org/conference/usenixsecurity20/presentation/christensen)
+
+[Oakland'21] [When Function Signature Recovery Meets Compiler
+Optimization](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1mbmHtHLPAA/pdf)

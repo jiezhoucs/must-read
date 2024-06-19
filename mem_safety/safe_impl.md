@@ -38,11 +38,18 @@ Overhead](http://llvm.org/pubs/2006-05-24-SAFECode-BoundsCheck.pdf)
 [PLDI'06] [SAFECode: Enforcing Alias Analysis for Weakly Typed
 Languages](http://llvm.org/pubs/2006-05-12-PLDI-SAFECode.pdf)
 
+[PLDI'07] [Valgrind: A Framework for Heavyweight Dynamic Binary Instrumentation](https://valgrind.org/docs/valgrind2007.pdf)
+
+[Oakland'08] [Preventing Memory Error Exploits with
+WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf)
+
 [PLDI'09] [Implementation of the Memory-safe Full ANSI-C
 Compiler](https://dl.acm.org/doi/10.1145/1542476.1542505)
 
 [PLDI'09] [SoftBound: Highly Compatible and Complete Spatial Memory Safety for
 C](http://www.cis.upenn.edu/acg/papers/pldi09_softbound.pdf)
+
+[Sec'09] [Baggy Bounds Checking: An Efficient and Backwards-Compatible Defense against Out-of-Bounds Errors](https://www.usenix.org/legacy/events/sec09/tech/full_papers/akritidis.pdf)
 
 [AsiaCCS'10] [PAriCheck: An Efficient Pointer Arithmetic Checker for C
 Programs](http://fort-knox.org/files/paricheck.pdf)
@@ -60,6 +67,8 @@ Runtime](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2105)
 
 [ISSRE'14] [WPBOUND: Enforcing Spatial Memory Safety Efficiently at Runtime
 with Weakest Preconditions](http://www.cse.unsw.edu.au/~jingling/papers/issre14.pdf)
+
+[OSDI'14] [Code-Pointer Integrity](https://dslab.epfl.ch/pubs/cpi.pdf) 
 
 [PLAS'15] [Memory-safe Execution of C on a Java VM](https://chrisseaton.com/plas15/safec.pdf)
 
@@ -82,7 +91,7 @@ Pointers](https://www.cs.vu.nl/~giuffrida/papers/midfat_eurosec17.pdf)
 [AsiaCCS'17] [DataShield: Configurable Data Confidentiality and
 Integrity](https://nebelwelt.net/publications/files/17AsiaCCS.pdf)
 
-[CCS'17] [HexType: Eicient Detection of Type Confusion Errors for
+[CCS'17] [HexType: Efficient Detection of Type Confusion Errors for
 C++](https://lifeasageek.github.io/papers/jeon-hextype.pdf)
 
 [PLDI'18] [EffectiveSan: Type and Memory Error Detection using Dynamically
@@ -95,21 +104,7 @@ C/C++](https://nebelwelt.net/files/18AsiaCCS.pdf)
 [Oakland'22] [Mitigating Information Leakage Vulnerabilities with Type-based
 Data Isolation](https://download.vusec.net/papers/tdi_sp22.pdf)
 
-## Temporal
-### Secure Allocation
-[DSN'06] [Efficiently Detecting All Dangling Pointer Uses in Production
-Servers](https://llvm.org/pubs/2006-DSN-DanglingPointers.pdf)
-[[note](../notes/mem_safety/2006-D_A_UAF-DSN06.md)]
-
-[PLDI'07][Exterminator: Automatically Correcting Memory Errors with High
-Probability](https://people.cs.umass.edu/~emery/pubs/pldi028-novark.pdf)
-
-[Sec'10] [Cling: A Memory Allocator to Mitigate Dangling
-Pointers](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.8557&rep=rep1&type=pdf)
-
-[NDSS'19] [CRCount: Pointer Invalidation with Reference Counting to Mitigate
-Use-after-free in Legacy C/C++](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_05A-4_Shin_paper.pdf)
-[[note](../notes/mem_safety/safe_impl/2019-CRCount-NDSS19.md)]
+## Temporal Memory Safety
 
 ### Key-lock Checking
 [ISMM'10] [CETS: Compiler-Enforced Temporal Safety for
@@ -145,9 +140,17 @@ Multi-Level Pointers](https://ieeexplore.ieee.org/document/8675929)
 Vulnerabilities](http://moyix.net/~moyix/papers/heapexpo.pdf)
 [[note](../notes/mem_safety/safe_impl/2020-HeapExpo-ACSAC20.md)]
 
-## Secure Memory Allocator
+### Secure Memory Allocator
+
+[DSN'06] [Efficiently Detecting All Dangling Pointer Uses in Production
+Servers](https://llvm.org/pubs/2006-DSN-DanglingPointers.pdf)
+[[note](../notes/mem_safety/2006-D_A_UAF-DSN06.md)]
+
 [PLDI'06] [DieHard: Probabilistic Memory Safety for Unsafe
 Languages](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1086&context=cs_faculty_pubs)
+
+[PLDI'07][Exterminator: Automatically Correcting Memory Errors with High
+Probability](https://people.cs.umass.edu/~emery/pubs/pldi028-novark.pdf)
 
 [EuroSys'08] [Samurai: Protecting Critical Data in Unsafe
 Languages] [paper](http://blogs.ubc.ca/karthik/files/2009/11/Eurosys-camera-ready.pdf)
@@ -158,12 +161,25 @@ Security](https://people.cs.umass.edu/~emery/pubs/asplos147-lvin.pdf)
 
 [CCS'10] [DieHarder: Securing the Heap](https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf)
 
+[Sec'10] [Cling: A Memory Allocator to Mitigate Dangling
+Pointers](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.8557&rep=rep1&type=pdf)
+
 [CCS'17] [FreeGuard: A Faster Secure Heap
 Allocator](https://dl.acm.org/doi/10.1145/3133956.3133957)
 
 [Sec'18] [GUARDER: A Tunable Secure Allocator](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-silvestro.pdf)
 
+[NDSS'19] [CRCount: Pointer Invalidation with Reference Counting to Mitigate
+Use-after-free in Legacy C/C++](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_05A-4_Shin_paper.pdf)
+[[note](../notes/mem_safety/safe_impl/2019-CRCount-NDSS19.md)]
+
 [Oakland'20] [MarkUs: Drop-in use-after-free prevention for low-level
 languages](https://www.cl.cam.ac.uk/~tmj32/papers/docs/ainsworth20-sp.pdf)
 
 [ARES'21] [MESH: A Memory-Efficient Safe Heap for C/C++](https://dl.acm.org/doi/pdf/10.1145/3465481.3465760)
+
+### Others
+
+[RAID'23] [All Use-After-Free Vulnerabilities Are Not Created Equal: An
+Empirical Study on Their Characteristics and
+Detectability](https://dl.acm.org/doi/10.1145/3607199.3607229)

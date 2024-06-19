@@ -4,7 +4,7 @@
 Vulnerabilities](https://people.eecs.berkeley.edu/~daw/papers/overruns-ndss00.pdf)
 
 [PLDI'00] [ABCD: Eliminating Array Bounds Checks on
-Demand](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.6386&rep=rep1&type=pdf)
+Demand](https://dl.acm.org/doi/10.1145/358438.349342)
 
 [Sec'01] [Statically Detecting Likely Buffer Overflow
 Vulnerabilities](http://lclint.cs.virginia.edu/usenix01.pdf)
@@ -23,9 +23,6 @@ Signature Generation of Exploits on Commodity Software](http://www.valgrind.org/
 
 [PLDI'07] [Valgrind: A Framework for Heavyweight Dynamic Binary
 Instrumentation](http://valgrind.org/docs/valgrind2007.pdf)
-
-[Oakland'08] [Preventing memory error exploits with
-WIT](https://www.doc.ic.ac.uk/~cristic/papers/wit-sp-ieee-08.pdf)
 
 [ISSTA'12] [Undangle: Early Detection of Dangling Pointers in Use-After-Free
 and Double-Free Vulnerabilities](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/Undangle.pdf)
@@ -46,4 +43,4 @@ Static Approach for Detecting Use-After-Free Vulnerabilities]https://yuleisui.gi
 Selective Data Protection](https://www3.cs.stonybrook.edu/~mikepo/papers/dynpta.sp21.pdf)
 
 [OSDI'21] [SANRAZOR: Reducing Redundant Sanitizer Checks in C/C++
-Programs](SANRAZOR: Reducing Redundant Sanitizer Checks in C/C++ Programs)
+Programs](https://www.usenix.org/conference/osdi21/presentation/zhang)

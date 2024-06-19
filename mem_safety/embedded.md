@@ -12,6 +12,9 @@ View Switching](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss20
 [USS'19] [uXOM: Efficient eXecute-Only Memory on ARM
 Cortex-M](https://www.usenix.org/system/files/sec19-kwon_0.pdf)
 
+[ECRTS'19] [Control-Flow Integrity for Real-Time Embedded
+Systems](http://drops.dagstuhl.de/opus/volltexte/2019/10739/pdf/LIPIcs-ECRTS-2019-2.pdf)
+
 [NDSS'20] [µRAI: Securing Embedded Systems with Return Address
 Integrity](http://nebelwelt.net/files/20NDSS.pdf)
 

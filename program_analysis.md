@@ -120,7 +120,7 @@ Code](https://www.cs.utexas.edu/users/lin/papers/cgo11.pdf)
 [SAS'16] [Structure-Sensitive Points-To Analysis for C and C++](https://yanniss.github.io/cclyzer-sas16.pdf)
 
 
-## Information Flow and Symbolic Execution
+## Information Flow, Symbolic Execution, and Taint Analysis
 
 [USS'04] [Understanding Data Lifetime via Whole System
 Simulation](https://benpfaff.org/papers/taint.pdf)

@@ -12,5 +12,8 @@ Tools](http://mir.cs.illinois.edu/~marinov/sp05-cs598dm/ShanLu.pdf)
 [RAID'12] [Memory Errors: The Past, the Present, and the
 Future](http://vvdveen.com/publications/RAID2012.pdf)
 
+[Oakland'13] [SoK: Eternal War in
+Memory](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf) 
+
 [Oakland'19] [SoK: Sanitizing for
 Security](https://oaklandsok.github.io/papers/song2019.pdf)
