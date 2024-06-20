@@ -4,10 +4,10 @@
 Errors](https://pdfs.semanticscholar.org/b2c4/44e8ab6b9bea1072bb0a7dd321543c8520ea.pdf)
 
 [PLDI'94] [Efficient Detection of All Pointer and Array Access
-Errors](https://web.eecs.umich.edu/~taustin/papers/PLDI94-safec.pdf)
+Errors](https://dl.acm.org/doi/pdf/10.1145/178243.178446)
 
 [SPE'97] [Low-cost, Concurrent Checking of Pointer and Array Accesses in C
-Programs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.17.267&rep=rep1&type=pdf)
+Programs](https://onlinelibrary.wiley.com/doi/pdf/10.1002/(SICI)1097-024X(199701)27:1%3C87::AID-SPE78%3E3.0.CO;2-P?casa_token=kAz0TkWbQasAAAAA:pzt1paBnVNADnOtF9dLNsLR0xsADhXBF7Y5lLwe2BsvDl-qvXf0AhrYEUdjSgLXvU0QQHclaD3KW)
 
 [AADEBUG'97] [Backwards-compatible bounds checking for arrays and pointers in C
 programs](https://www.doc.ic.ac.uk/~phjk/Publications/BoundsCheckingForC.pdf)

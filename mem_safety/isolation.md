@@ -11,6 +11,9 @@ ARM](https://dl.acm.org/citation.cfm?id=3062267)
 [[note](../notes/mem_safety/isolation/2017-ILDI-DAC17.md)]
 
 ## SFI
+
+[SOSP'93] [Efficient Software-Based Fault Isolation](https://dl.acm.org/doi/pdf/10.1145/168619.168635)
+
 [NSPW'99] [SASI Enforcement of Security Policies: A
 Retrospective](https://www.cs.cornell.edu/fbs/publications/sasiNSPW.ps)
 
