@@ -23,7 +23,7 @@ LLVM](https://gh-posters.dgzedp99wf8of.amplifyapp.com/pldi21main-p30-p.pdf)
 
 
 ## General
-[1970] [A Catalog of Optimizing
+[1971 IBM TR] [A Catalog of Optimizing
 transformations](https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf)
 
 [PLDI'00] [Dynamo: A Transparent Dynamic Optimization
@@ -37,6 +37,10 @@ Semantic Mismatch?](https://www.cs.rutgers.edu/~santosh.nagarakatte/papers/plas2
 
 [PLDI'21] [Unleashing the Hidden Power of Compiler Optimization on Binary Code
 Difference: An Empirical Study](https://dl.acm.org/doi/10.1145/3453483.3454035)
+
+## Correctness
+
+[PLDI'11] [Finding and Understanding Bugs in C Compilers](https://dl.acm.org/doi/10.1145/1993316.1993532)
 
 ## Techniques
 [TOPLAS'91] [Efficiently Computing Static Single Assignment Form and the Control
