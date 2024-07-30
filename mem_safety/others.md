@@ -3,6 +3,9 @@
 [SPE'97] [Low-cost, Concurrent Checking of Pointer and Array Accesses in C
 Programs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.17.267&rep=rep1&type=pdf)
 
+[VEE'07] [How to Shadow Every Byte of Memory Used by a
+Program](http://www-leland.stanford.edu/class/cs343/resources/shadow-memory2007.pdf)
+
 [IMC'14] [The Matter of
 Heartbleed](https://jhalderm.com/pub/papers/heartbleed-imc14.pdf)
 
