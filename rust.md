@@ -33,6 +33,10 @@ XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf)
 [ACSAC'21] [Keeping Safe Rust Safe with Galeed](http://web.mit.edu/ha22286/www/papers/ACSAC21.pdf)
 [[notes](notes/rust/2021-Galeed-ACSAC21.md)]
 
+[Sec'23] [TRUST: A Compilation Framework for In-process Isolation to Protect Safe Rust against Untrusted Code](https://www.usenix.org/conference/usenixsecurity23/presentation/bang)
+
+[Sec'24] [METASAFE: Compiling for Protecting Smart Pointer Metadata to Ensure Safe Rust Integrity](https://www.usenix.org/conference/usenixsecurity24/presentation/kayondo)
+
 ### Retrofit Memory Safety to Unsafe Rust
 [OOPSLA'21] [Safer at Any Speed: Automatic Context-Aware Safety Enhancement for
 Rust](http://www.amitlevy.com/papers/nader-oopsla21.pdf)
