@@ -16,8 +16,10 @@ Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummer
 All Rust CVEs](https://dl.acm.org/doi/10.1145/3466642?sid=SCITRUS)
 [[notes](notes/rust/2021-RustMemCVE-TOSEM21.md)]
 
-[FSE'23][On the Dual Nature of Necessity in Use of Rust Unsafe
+[FSE'23] [On the Dual Nature of Necessity in Use of Rust Unsafe
 Code](https://www.portokalidis.net/files/unsafe_rust_fse23.pdf)
+
+[WISA'23] [An Analysis of the Rust Programming Practice for Memory Safety Assurance](https://link.springer.com/chapter/10.1007/978-981-99-6222-8_37)
 
 ## Secure Unsafe Rust
 ### Sandboxing/Isolating
