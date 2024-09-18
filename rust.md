@@ -21,6 +21,8 @@ Code](https://www.portokalidis.net/files/unsafe_rust_fse23.pdf)
 
 [WISA'23] [An Analysis of the Rust Programming Practice for Memory Safety Assurance](https://link.springer.com/chapter/10.1007/978-981-99-6222-8_37)
 
+[TOSE'24] [Understanding and Detecting Real-World Safety Issues in Rust](https://songlh.github.io/paper/rust-tse.pdf)
+
 ## Secure Unsafe Rust
 ### Sandboxing/Isolating
 [PLOS'17] [Sandcrust: Automatic Sandboxing of Unsafe Components in
@@ -56,21 +58,25 @@ Analysis](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf)
 [TOSEM'23] [SafeDrop: Detecting Memory Deallocation Bugs of Rust Programs via
 Static Data-flow Analysis](https://dl.acm.org/doi/10.1145/3542948)
 
-## Applying Rust to Secure Stuffs
+## Applying Rust to Secure Stuff
+
 [ACSAC'20] [RusTEE: Developing Memory-Safe ARM TrustZone
 Applications](https://csis.gmu.edu/ksun/publications/ACSAC20_RusTEE_2020.pdf)
 
 ## Formal Semantics of Rust
+
 [POPL'18] [RustBelt: Securing the Foundations of the Rust Programming
 Language](https://plv.mpi-sws.org/rustbelt/popl18/paper.pdf)
 
 [arXiv'20] [Oxide: The Essence of Rust](https://arxiv.org/pdf/1903.00982.pdf)
 
 ## Architecture
+
 [ECOOP'23] [Rust for Morello: Always-On Memory Safety, Even in Unsafe
 Code](https://drops.dagstuhl.de/opus/volltexte/2023/18232/pdf/LIPIcs-ECOOP-2023-39.pdf)
 
 ## Others
+
 [PLOS'15] [Ownership is Theft: Experiences Building an Embedded OS in
 Rust](https://patpannuto.com/pubs/levy15ownership.pdf)
 
@@ -88,3 +94,6 @@ Rust as a Case Study](https://www.cs.umd.edu/~mwh/papers/rust-adoption.pdf)
 [OOPSLA'21][Safer at Any Speed: Automatic Context-Aware Safety Enhancement for
 Rust](https://dl.acm.org/doi/10.1145/3485480?sid=SCITRUS)
 [[notes](notes/rust/2021-NADER-OOPSLA21.md)]
+
+[ICSE'24] [Learning and Programming Challenges of Rust:
+A Mixed-Methods Study](https://dl.acm.org/doi/pdf/10.1145/3510003.3510164)
